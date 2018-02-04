@@ -19,46 +19,46 @@ Style: Copyright,Candara,54,&H00FFFFFF,&H000E0FFD,&H00000000,&H20000000,0,0,0,0,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:13.12,0:00:15.47,Karaoke,,0,0,0,,{\fad(200,100)\kf15}It {\kf16}used {\kf30}to feel {\kf34}like a{\kf67} fairy{\kf58} tale
-Dialogue: 0,0:00:13.12,0:00:15.47,Karaoke-rus,,0,0,0,,{\fad(200,100)}Себя в сказке мы ощутив
-Dialogue: 0,0:00:15.47,0:00:19.42,Karaoke,,0,0,0,,{\fad(100,100)\kf38}Now {\kf24}it{\kf44} seems{\kf16} we{\kf18} were{\kf52} just {\kf72}pre{\kf62}tend{\kf66}ing
-Dialogue: 0,0:00:15.47,0:00:19.42,Karaoke-rus,,0,0,0,,{\fad(100,100)}Кажется, мы притворились
-Dialogue: 0,0:00:19.42,0:00:25.02,Karaoke,,0,0,0,,{\fad(100,100)\kf29}We’d {\kf35}fix {\kf35}our{\kf52} world, {\kf18}then {\kf68}on our{\kf32} way {\kf31}to{\kf15} a{\kf84} hap{\kf48}py {\kf56}end{\kf45}ing
-Dialogue: 0,0:00:19.42,0:00:25.02,Karaoke-rus,,0,0,0,,{\fad(100,100)}Что излечим мир, затем найдём конец счастливый
-Dialogue: 0,0:00:25.02,0:00:30.68,Karaoke,,0,0,0,,{\fad(100,100)\kf23}Then{\kf15} it {\kf35}turned {\kf34}out {\kf49}life {\kf54}was far {\kf35}less {\kf28}like{\kf32} a{\kf56} bed{\kf84}time {\kf63}sto{\kf52}ry
-Dialogue: 0,0:00:25.02,0:00:30.68,Karaoke-rus,,0,0,0,,{\fad(100,100)}Но наша жизнь не стала доброй сказкой на ночь
-Dialogue: 0,0:00:30.68,0:00:36.38,Karaoke,,0,0,0,,{\fad(100,100)\kf15}Then {\kf16}a {\kf101}tragedy {\kf22}with {\kf19}no {\kf35}big {\kf66}reveal {\kf18}of {\kf21}the {\kf104}he{\kf38}ro's {\kf46}glo{\kf63}ry
-Dialogue: 0,0:00:30.68,0:00:36.38,Karaoke-rus,,0,0,0,,{\fad(100,100)}Трагедия разрушила героев славу
-Dialogue: 0,0:00:36.38,0:00:41.84,Karaoke,,0,0,0,,{\fad(100,100)\kf12}And {\kf13}it {\kf72}seems {\kf65}we {\kf75}weren't{\kf69} pre{\kf143}pa{\kf89}red
-Dialogue: 0,0:00:36.38,0:00:41.84,Karaoke-rus,,0,0,0,,{\fad(100,100)}Были не готовы мы
-Dialogue: 0,0:00:41.84,0:00:47.45,Karaoke,,0,0,0,,{\fad(100,100)\kf28}For{\kf15} a {\kf72}game {\kf70}that {\kf71}wa{\kf60}sn't {\kf166}fa{\kf70}ir
-Dialogue: 0,0:00:41.84,0:00:47.45,Karaoke-rus,,0,0,0,,{\fad(100,100)}К той игре, что нечестна
-Dialogue: 0,0:00:47.45,0:00:50.40,Karaoke,,0,0,0,,{\fad(100,100)\kf30}Do {\kf18}we {\kf71}just {\kf72}go {\kf66}ho{\kf32}me?
-Dialogue: 0,0:00:47.45,0:00:50.40,Karaoke-rus,,0,0,0,,{\fad(100,100)}Можно нам домой?
-Dialogue: 0,0:00:50.40,0:00:53.12,Karaoke,,0,0,0,,{\fad(100,100)\kf21}Can {\kf18}we {\kf68}fol{\kf68}low {\kf62}thro{\kf31}ugh?
-Dialogue: 0,0:00:50.40,0:00:53.12,Karaoke-rus,,0,0,0,,{\fad(100,100)}Сможем ли пройти?
-Dialogue: 0,0:00:53.12,0:00:56.06,Karaoke,,0,0,0,,{\fad(100,100)\kf35}When {\kf24}all{\kf57} hope{\kf68} is {\kf64}go{\kf42}ne
-Dialogue: 0,0:00:53.12,0:00:56.06,Karaoke-rus,,0,0,0,,{\fad(100,100)}Коль надежды нет
-Dialogue: 0,0:00:56.06,0:01:01.28,Karaoke,,0,0,0,,{\fad(100,100)\kf17}There {\kf17}is{\kf73} one {\kf84}thing{\kf108} we{\kf70} can {\kf137}do
-Dialogue: 0,0:00:56.06,0:01:01.28,Karaoke-rus,,0,0,0,,{\fad(100,100)}Можем лишь одно сделать
-Dialogue: 0,0:01:01.28,0:01:02.82,Karaoke,,0,0,0,,{\fad(100,100)\kf41}Let's {\kf36}just {\kf73}live!
-Dialogue: 0,0:01:01.28,0:01:02.82,Karaoke-rus,,0,0,0,,{\fad(100,100)}Просто жить!
-Dialogue: 0,0:01:02.82,0:01:07.32,Karaoke,,0,0,0,,{\fad(100,100)\kf28}Day {\kf37}by {\kf57}day {\kf51}and not {\kf24}be {\kf42}con{\kf35}quered {\kf39}by {\kf32}our {\kf54}sor{\kf51}rows!
-Dialogue: 0,0:01:02.82,0:01:07.32,Karaoke-rus,,0,0,0,,{\fad(100,100)}День за днём, скорби мы не покоряясь!
-Dialogue: 0,0:01:07.32,0:01:09.51,Karaoke,,0,0,0,,{\fad(100,100)\kf32}The {\kf43}past {\kf32}can't {\kf44}hold {\kf24}us{\kf40} down,{\kf0}
-Dialogue: 0,0:01:07.32,0:01:09.51,Karaoke-rus,,0,0,0,,{\fad(100,100)}Не сломит прошлое
-Dialogue: 0,0:01:09.51,0:01:12.30,Karaoke,,0,0,0,,{\fad(100,100)\kf31}we {\kf36}must {\kf87}break {\kf72}fre{\kf52}e
-Dialogue: 0,0:01:09.51,0:01:12.30,Karaoke-rus,,0,0,0,,{\fad(100,100)}прорвёмся мы
-Dialogue: 0,0:01:12.98,0:01:15.84,Karaoke,,0,0,0,,{\fad(100,100)\kf70}Inside {\kf36}we're {\kf61}torn {\kf64}apa{\kf51}rt
-Dialogue: 0,0:01:12.98,0:01:15.84,Karaoke-rus,,0,0,0,,{\fad(100,100)}Изранены внутри
-Dialogue: 0,0:01:15.84,0:01:18.70,Karaoke,,0,0,0,,{\fad(100,100)\kf25}But {\kf46}time {\kf29}will {\kf39}mend {\kf34}our {\kf107}hearts
-Dialogue: 0,0:01:15.84,0:01:18.70,Karaoke-rus,,0,0,0,,{\fad(100,100)}Но время лечит всё
-Dialogue: 0,0:01:18.70,0:01:20.94,Karaoke,,0,0,0,,{\fad(100,100)\kf45}Move {\kf57}onward {\kf33}not {\kf64}there {\kf23}yet
-Dialogue: 0,0:01:18.70,0:01:20.94,Karaoke-rus,,0,0,0,,{\fad(100,100)}Мы движемся дальше, но это далеко не конец
-Dialogue: 0,0:01:20.94,0:01:23.94,Karaoke,,0,0,0,,{\fad(100,300)\kf34}So {\kf17}let's {\kf39}just {\kf101}li{\kf59}ve!
-Dialogue: 0,0:01:20.94,0:01:23.94,Karaoke-rus,,0,0,0,,{\fad(100,300)}Так давайте просто жить!
-Dialogue: 0,0:01:26.06,0:01:30.00,Copyright,,0,0,0,,{\fad(300,500)} Перевод: {\b1}Team WARDEN{\b0}\NПеревод песни: {\b1}ТТ{\b0}
-Dialogue: 0,0:01:26.06,0:01:30.00,Title,,0,0,0,,{\fad(300,500)} Серия 5: Менаджери
+Dialogue: 0,0:00:13.12,0:00:15.47,Karaoke,,0,0,0,,{\fad(200,0)\kf15}It {\kf16}used {\kf30}to feel {\kf34}like a{\kf67} fairy{\kf58} tale
+Dialogue: 0,0:00:13.12,0:00:15.47,Karaoke-rus,,0,0,0,,{\fad(200,0)}Себя в сказке мы ощутив
+Dialogue: 0,0:00:15.47,0:00:19.42,Karaoke,,0,0,0,,{\kf38}Now {\kf24}it{\kf44} seems{\kf16} we{\kf18} were{\kf52} just {\kf72}pre{\kf62}tend{\kf66}ing
+Dialogue: 0,0:00:15.47,0:00:19.42,Karaoke-rus,,0,0,0,,Кажется, мы притворились
+Dialogue: 0,0:00:19.42,0:00:25.02,Karaoke,,0,0,0,,{\kf29}We’d {\kf35}fix {\kf35}our{\kf52} world, {\kf18}then {\kf68}on our{\kf32} way {\kf31}to{\kf15} a{\kf84} hap{\kf48}py {\kf56}end{\kf45}ing
+Dialogue: 0,0:00:19.42,0:00:25.02,Karaoke-rus,,0,0,0,,Что излечим мир, затем найдём конец счастливый
+Dialogue: 0,0:00:25.02,0:00:30.68,Karaoke,,0,0,0,,{\kf23}Then{\kf15} it {\kf35}turned {\kf34}out {\kf49}life {\kf54}was far {\kf35}less {\kf28}like{\kf32} a{\kf56} bed{\kf84}time {\kf63}sto{\kf52}ry
+Dialogue: 0,0:00:25.02,0:00:30.68,Karaoke-rus,,0,0,0,,Но наша жизнь не стала доброй сказкой на ночь
+Dialogue: 0,0:00:30.68,0:00:36.38,Karaoke,,0,0,0,,{\kf15}Then {\kf16}a {\kf101}tragedy {\kf22}with {\kf19}no {\kf35}big {\kf66}reveal {\kf18}of {\kf21}the {\kf104}he{\kf38}ro's {\kf46}glo{\kf63}ry
+Dialogue: 0,0:00:30.68,0:00:36.38,Karaoke-rus,,0,0,0,,Трагедия разрушила героев славу
+Dialogue: 0,0:00:36.38,0:00:41.84,Karaoke,,0,0,0,,{\kf12}And {\kf13}it {\kf72}seems {\kf65}we {\kf75}weren't{\kf69} pre{\kf143}pa{\kf89}red
+Dialogue: 0,0:00:36.38,0:00:41.84,Karaoke-rus,,0,0,0,,Были не готовы мы
+Dialogue: 0,0:00:41.84,0:00:47.45,Karaoke,,0,0,0,,{\kf28}For{\kf15} a {\kf72}game {\kf70}that {\kf71}wa{\kf60}sn't {\kf166}fa{\kf70}ir
+Dialogue: 0,0:00:41.84,0:00:47.45,Karaoke-rus,,0,0,0,,К той игре, что нечестна
+Dialogue: 0,0:00:47.45,0:00:50.40,Karaoke,,0,0,0,,{\kf30}Do {\kf18}we {\kf71}just {\kf72}go {\kf66}ho{\kf32}me?
+Dialogue: 0,0:00:47.45,0:00:50.40,Karaoke-rus,,0,0,0,,Можно нам домой?
+Dialogue: 0,0:00:50.40,0:00:53.12,Karaoke,,0,0,0,,{\kf21}Can {\kf18}we {\kf68}fol{\kf68}low {\kf62}thro{\kf31}ugh?
+Dialogue: 0,0:00:50.40,0:00:53.12,Karaoke-rus,,0,0,0,,Сможем ли пройти?
+Dialogue: 0,0:00:53.12,0:00:56.06,Karaoke,,0,0,0,,{\kf35}When {\kf24}all{\kf57} hope{\kf68} is {\kf64}go{\kf42}ne
+Dialogue: 0,0:00:53.12,0:00:56.06,Karaoke-rus,,0,0,0,,Коль надежды нет
+Dialogue: 0,0:00:56.06,0:01:01.28,Karaoke,,0,0,0,,{\kf17}There {\kf17}is{\kf73} one {\kf84}thing{\kf108} we{\kf70} can {\kf137}do
+Dialogue: 0,0:00:56.06,0:01:01.28,Karaoke-rus,,0,0,0,,Можем лишь одно сделать
+Dialogue: 0,0:01:01.28,0:01:02.82,Karaoke,,0,0,0,,{\kf41}Let's {\kf36}just {\kf73}live!
+Dialogue: 0,0:01:01.28,0:01:02.82,Karaoke-rus,,0,0,0,,Просто жить!
+Dialogue: 0,0:01:02.82,0:01:07.32,Karaoke,,0,0,0,,{\kf28}Day {\kf37}by {\kf57}day {\kf51}and not {\kf24}be {\kf42}con{\kf35}quered {\kf39}by {\kf32}our {\kf54}sor{\kf51}rows!
+Dialogue: 0,0:01:02.82,0:01:07.32,Karaoke-rus,,0,0,0,,День за днём, скорби мы не покоряясь!
+Dialogue: 0,0:01:07.32,0:01:09.51,Karaoke,,0,0,0,,{\kf32}The {\kf43}past {\kf32}can't {\kf44}hold {\kf24}us{\kf40} down,{\kf0}
+Dialogue: 0,0:01:07.32,0:01:09.51,Karaoke-rus,,0,0,0,,Не сломит прошлое
+Dialogue: 0,0:01:09.51,0:01:12.30,Karaoke,,0,0,0,,{\kf31}we {\kf36}must {\kf87}break {\kf72}fre{\kf52}e
+Dialogue: 0,0:01:09.51,0:01:12.30,Karaoke-rus,,0,0,0,,прорвёмся мы
+Dialogue: 0,0:01:12.98,0:01:15.84,Karaoke,,0,0,0,,{\kf70}Inside {\kf36}we're {\kf61}torn {\kf64}apa{\kf51}rt
+Dialogue: 0,0:01:12.98,0:01:15.84,Karaoke-rus,,0,0,0,,Изранены внутри
+Dialogue: 0,0:01:15.84,0:01:18.70,Karaoke,,0,0,0,,{\kf25}But {\kf46}time {\kf29}will {\kf39}mend {\kf34}our {\kf107}hearts
+Dialogue: 0,0:01:15.84,0:01:18.70,Karaoke-rus,,0,0,0,,Но время лечит всё
+Dialogue: 0,0:01:18.70,0:01:20.94,Karaoke,,0,0,0,,{\kf45}Move {\kf57}onward {\kf33}not {\kf64}there {\kf23}yet
+Dialogue: 0,0:01:18.70,0:01:20.94,Karaoke-rus,,0,0,0,,Мы движемся дальше, но это далеко не конец
+Dialogue: 0,0:01:20.94,0:01:23.94,Karaoke,,0,0,0,,{\fad(0,300)\kf34}So {\kf17}let's {\kf39}just {\kf101}li{\kf59}ve!
+Dialogue: 0,0:01:20.94,0:01:23.94,Karaoke-rus,,0,0,0,,{\fad(0,300)}Так давайте просто жить!
+Dialogue: 0,0:01:26.06,0:01:30.00,Copyright,,0,0,0,,{\fad(300,500)}Перевод: {\b1}Team WARDEN{\b0}\NПеревод песни: {\b1}ТТ{\b0}
+Dialogue: 0,0:01:26.06,0:01:30.00,Title,,0,0,0,,{\fad(300,500)}Серия 5: Менаджери
 Dialogue: 0,0:02:11.26,0:02:13.73,Default,,0,0,0,,{\i1}Никогда не видел так много фавнов в одном месте.{\i0}
 Dialogue: 0,0:02:14.21,0:02:17.50,Default,,0,0,0,,Здесь все могут чувствовать себя в безопасности...
 Dialogue: 0,0:02:17.73,0:02:19.74,Default,,0,0,0,,...неважно, кто они или чем занимаются.
