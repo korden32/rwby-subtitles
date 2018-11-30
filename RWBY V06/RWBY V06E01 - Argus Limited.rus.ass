@@ -239,6 +239,44 @@ Dialogue: 0,0:16:01.71,0:16:05.56,Default,,0,0,0,,Если отцепим зад
 Dialogue: 0,0:16:05.96,0:16:09.10,Default,,0,0,0,,Постарайтесь, чтобы остальной состав дошёл до Аргуса.
 Dialogue: 0,0:16:16.36,0:16:18.42,Default,,0,0,0,,Только если пообещаешь, что мы там встретимся.
 Dialogue: 0,0:16:20.50,0:16:21.25,Default,,0,0,0,,Обещаю.
+Dialogue: 0,0:16:40.18,0:16:42.91,Karaoke,,0,0,0,,{\kf50}Time {\kf24}and {\kf57}time {\kf64}again {\kf19}it {\kf59}seems
+Dialogue: 0,0:16:42.91,0:16:45.83,Karaoke,,0,0,0,,{\kf22}We've {\kf41}reached {\kf26}the {\kf51}point {\kf21}where {\kf48}all {\kf25}our {\kf58}dreams
+Dialogue: 0,0:16:45.83,0:16:48.40,Karaoke,,0,0,0,,{\kf11}Are {\kf74}crumbling {\kf54}all {\kf61}around {\kf57}us
+Dialogue: 0,0:16:48.67,0:16:51.57,Karaoke,,0,0,0,,{\kf59}Every {\kf90}outcome {\kf141}unjust
+Dialogue: 0,0:16:51.57,0:16:54.22,Karaoke,,0,0,0,,{\kf61}Every {\kf61}step {\kf18}it {\kf53}seems {\kf23}has {\kf49}led
+Dialogue: 0,0:16:54.22,0:16:57.16,Karaoke,,0,0,0,,{\kf15}Us {\kf70}further {\kf48}from {\kf23}our {\kf59}goal {\kf79}instead
+Dialogue: 0,0:16:57.16,0:16:59.81,Karaoke,,0,0,0,,{\kf14}Our {\kf59}triumphs {\kf71}haven't {\kf121}mattered
+Dialogue: 0,0:16:59.81,0:17:02.58,Karaoke,,0,0,0,,{\kf17}We're {\kf72}drifting {\kf70}ever {\kf118}backward
+Dialogue: 0,0:17:02.58,0:17:07.97,Karaoke,,0,0,0,,{\kf18}And {\kf35}we're {\kf114}running {\kf72}out {\kf72}of {\kf228}time
+Dialogue: 0,0:17:07.97,0:17:12.35,Karaoke,,0,0,0,,{\kf51}Nowhere {\kf57}near {\kf86}the {\kf141}finish {\kf103}line
+Dialogue: 0,0:17:12.35,0:17:15.19,Karaoke,,0,0,0,,{\kf19}And {\kf27}it's {\kf65}growing {\kf66}ever {\kf107}clear
+Dialogue: 0,0:17:15.19,0:17:17.92,Karaoke,,0,0,0,,{\kf22}That {\kf27}a {\kf99}reckoning {\kf28}is {\kf97}near
+Dialogue: 0,0:17:17.92,0:17:20.62,Karaoke,,0,0,0,,{\kf27}And {\kf25}we'll {\kf29}have {\kf35}to {\kf30}make {\kf29}a {\kf95}choice
+Dialogue: 0,0:17:20.62,0:17:23.66,Karaoke,,0,0,0,,{\kf70}Is {\kf72}this {\kf61}path {\kf101}right?
+Dialogue: 0,0:17:23.94,0:17:26.84,Karaoke,,0,0,0,,{\kf24}Or {\kf23}is {\kf28}it {\kf47}made {\kf22}of {\kf146}lies?
+Dialogue: 0,0:17:26.84,0:17:29.65,Karaoke,,0,0,0,,{\kf16}We're {\kf51}looking {\kf44}in {\kf170}ourselves
+Dialogue: 0,0:17:29.65,0:17:33.51,Karaoke,,0,0,0,,{\kf21}And {\kf53}trusting {\kf24}in {\kf29}the {\kf259}light
+Dialogue: 0,0:17:33.70,0:17:36.56,Karaoke,,0,0,0,,{\kf22}A {\kf111}miracle {\kf27}is {\kf27}all {\kf45}we {\kf54}needed
+Dialogue: 0,0:17:36.56,0:17:40.89,Karaoke,,0,0,0,,{\kf16}But {\kf84}there {\kf62}isn't {\kf79}one {\kf50}in {\kf142}sight
+Dialogue: 0,0:17:50.77,0:17:53.52,Karaoke,,0,0,0,,{\kf62}Each {\kf22}and {\kf63}every {\kf75}passing {\kf53}day
+Dialogue: 0,0:17:53.52,0:17:56.45,Karaoke,,0,0,0,,{\kf33}Our {\kf37}world's {\kf24}in {\kf63}further {\kf136}disarray
+Dialogue: 0,0:17:56.45,0:17:59.30,Karaoke,,0,0,0,,{\kf111}Confidence {\kf174}descending
+Dialogue: 0,0:17:59.30,0:18:02.04,Karaoke,,0,0,0,,{\kf37}Where's {\kf39}our {\kf65}happy {\kf133}ending?
+Dialogue: 0,0:18:02.04,0:18:04.83,Karaoke,,0,0,0,,{\kf59}On {\kf20}the {\kf52}path {\kf21}but {\kf43}still {\kf25}we {\kf59}strayed
+Dialogue: 0,0:18:04.83,0:18:07.88,Karaoke,,0,0,0,,{\kf44}Our {\kf110}aspirations {\kf72}quickly {\kf79}fade
+Dialogue: 0,0:18:08.13,0:18:10.19,Karaoke,,0,0,0,,{\kf108}Desperation's {\kf98}risin'
+Dialogue: 0,0:18:10.19,0:18:13.09,Karaoke,,0,0,0,,{\kf43}On {\kf57}hopeless {\kf48}bleak {\kf142}horizons
+Dialogue: 0,0:18:13.09,0:18:18.65,Karaoke,,0,0,0,,{\kf37}Every {\kf77}life {\kf48}is {\kf83}on {\kf71}the {\kf240}line
+Dialogue: 0,0:18:18.65,0:18:22.98,Karaoke,,0,0,0,,{\kf28}Can't {\kf90}wait {\kf87}here {\kf70}for {\kf48}a {\kf110}sign
+Dialogue: 0,0:18:22.98,0:18:25.35,Karaoke,,0,0,0,,{\kf14}And {\kf28}just {\kf29}like {\kf30}the {\kf34}blood {\kf32}that's {\kf70}shed
+Dialogue: 0,0:18:25.88,0:18:28.26,Karaoke,,0,0,0,,{\kf21}Every {\kf61}cancer's {\kf43}sure {\kf27}to {\kf86}spread
+Dialogue: 0,0:18:28.59,0:18:31.22,Karaoke,,0,0,0,,{\kf25}And {\kf20}the {\kf31}time {\kf26}to {\kf46}act {\kf27}is {\kf88}short
+Dialogue: 0,0:18:31.22,0:18:34.54,Karaoke,,0,0,0,,{\kf72}We {\kf70}know {\kf190}inside
+Dialogue: 0,0:18:34.54,0:18:36.80,Karaoke,,0,0,0,,{\kf19}We're {\kf27}born {\kf23}to {\kf36}do {\kf41}what's {\kf80}right
+Dialogue: 0,0:18:37.38,0:18:40.36,Karaoke,,0,0,0,,{\kf59}Desire {\kf26}to {\kf136}preserve {\kf77}life
+Dialogue: 0,0:18:40.36,0:18:44.19,Karaoke,,0,0,0,,{\kf22}Is {\kf77}powering {\kf33}the {\kf251}light
+Dialogue: 0,0:18:44.19,0:18:46.98,Karaoke,,0,0,0,,{\kf30}We're {\kf62}praying {\kf44}for {\kf44}a {\kf99}miracle
+Dialogue: 0,0:18:46.98,0:18:51.95,Karaoke,,0,0,0,,{\kf15}But {\kf19}for {\kf85}now {\kf49}we'll {\kf87}stand {\kf78}and {\kf164}fight
 Dialogue: 0,0:17:05.18,0:17:05.81,Default,,0,0,0,,Давай!
 Dialogue: 0,0:18:26.42,0:18:28.04,Default,,0,0,0,,Нужно его прижать!
 Dialogue: 0,0:18:28.04,0:18:28.77,Default,,0,0,0,,Поняла!
@@ -284,3 +322,12 @@ Dialogue: 0,0:21:15.82,0:21:17.92,Karaoke,,0,0,0,,{\kf61}Someday {\kf149}soon
 Dialogue: 0,0:21:15.82,0:21:17.92,Karaoke-rus,,0,0,0,,Мечту сполна
 Dialogue: 0,0:21:18.11,0:21:22.69,Karaoke,,0,0,0,,{\kf17}We’re {\kf43}rising {\kf32}like {\kf41}the {\kf325}moon
 Dialogue: 0,0:21:18.11,0:21:22.69,Karaoke-rus,,0,0,0,,Восходим, как луна
+Dialogue: 0,0:21:52.11,0:21:54.84,Karaoke,,0,0,0,,{\fad(200,0\kf50}Time {\kf24}and {\kf57}time {\kf64}again {\kf19}it {\kf59}seems
+Dialogue: 0,0:21:54.84,0:21:57.76,Karaoke,,0,0,0,,{\kf22}We've {\kf41}reached {\kf26}the {\kf51}point {\kf21}where {\kf48}all {\kf25}our {\kf58}dreams
+Dialogue: 0,0:21:57.76,0:22:00.33,Karaoke,,0,0,0,,{\kf11}Are {\kf74}crumbling {\kf54}all {\kf61}around {\kf57}us
+Dialogue: 0,0:22:00.60,0:22:03.50,Karaoke,,0,0,0,,{\kf59}Every {\kf90}outcome {\kf141}unjust
+Dialogue: 0,0:22:03.50,0:22:06.15,Karaoke,,0,0,0,,{\kf61}Every {\kf61}step {\kf18}it {\kf53}seems {\kf23}has {\kf49}led
+Dialogue: 0,0:22:06.15,0:22:09.09,Karaoke,,0,0,0,,{\kf15}Us {\kf70}further {\kf48}from {\kf23}our {\kf59}goal {\kf79}instead
+Dialogue: 0,0:22:09.09,0:22:11.74,Karaoke,,0,0,0,,{\kf14}Our {\kf59}triumphs {\kf71}haven't {\kf121}mattered
+Dialogue: 0,0:22:11.74,0:22:14.51,Karaoke,,0,0,0,,{\kf17}We're {\kf72}drifting {\kf70}ever {\kf118}backward
+Dialogue: 0,0:22:14.51,0:22:18.00,Karaoke,,0,0,0,,{\fad(0,1000)\kf18}And {\kf35}we're {\kf114}running {\kf72}out {\kf72}of {\kf228}time
