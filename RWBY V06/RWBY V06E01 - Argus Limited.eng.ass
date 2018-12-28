@@ -15,13 +15,6 @@ Style: Karaoke,FuturaBookC,70,&H004000FF,&H60FFFFFF,&H20000000,&H60FFFFFF,-1,-1,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:06.46,0:00:09.04,Default,,0,0,0,,(wind howling)
-Dialogue: 0,0:00:15.08,0:00:20.08,Default,,0,0,0,,(train horn blares in the distance)
-Dialogue: 0,0:00:20.21,0:00:22.96,Default,,0,0,0,,(dramatic music)
-Dialogue: 0,0:00:27.88,0:00:30.26,Default,,0,0,0,,(train rumbling)
-Dialogue: 0,0:00:30.29,0:00:32.04,Default,,0,0,0,,(loud whooshing)
-Dialogue: 0,0:00:32.08,0:00:34.16,Default,,0,0,0,,(gun fires)
-Dialogue: 0,0:00:34.21,0:00:35.79,Default,,0,0,0,,(Grimm crashing)
 Dialogue: 0,0:00:35.83,0:00:36.66,Default,,0,0,0,,- Ya!
 Dialogue: 0,0:00:38.63,0:00:40.01,Default,,0,0,0,,Got him, now who's next?
 Dialogue: 0,0:00:40.04,0:00:41.50,Default,,0,0,0,,Whoa!
@@ -34,12 +27,10 @@ Dialogue: 0,0:00:55.46,0:00:57.00,Default,,0,0,0,,- Good to see you're not rusty
 Dialogue: 0,0:00:59.21,0:01:00.21,Default,,0,0,0,,- [Ruby] Ya!
 Dialogue: 0,0:01:04.13,0:01:06.46,Default,,0,0,0,,- Why is it always something?
 Dialogue: 0,0:01:06.50,0:01:09.00,Default,,0,0,0,,Just keep it towards the back.
-Dialogue: 0,0:01:10.08,0:01:12.41,Default,,0,0,0,,(guns fire)
 Dialogue: 0,0:01:15.63,0:01:16.71,Default,,0,0,0,,Ren!
 Dialogue: 0,0:01:21.00,0:01:23.00,Default,,0,0,0,,Ah!\N(weapon clashes)
 Dialogue: 0,0:01:23.04,0:01:24.29,Default,,0,0,0,,- Tunnel!\N- Huh?
 Dialogue: 0,0:01:25.63,0:01:26.42,Default,,0,0,0,,- Go!
-Dialogue: 0,0:01:26.46,0:01:28.34,Default,,0,0,0,,(rock music)
 Dialogue: 0,0:01:28.38,0:01:29.21,Default,,0,0,0,,- Ahh!
 Dialogue: 0,0:01:30.96,0:01:32.38,Default,,0,0,0,,- Thank me later!
 Dialogue: 0,0:01:39.54,0:01:41.25,Default,,0,0,0,,- [Woman] I can't believe\Nhe turned his back on us.
@@ -54,16 +45,9 @@ Dialogue: 0,0:02:00.96,0:02:03.38,Default,,0,0,0,,We heard you folded\Nthe momen
 Dialogue: 0,0:02:03.42,0:02:04.96,Default,,0,0,0,,from the Belladonna girl.
 Dialogue: 0,0:02:05.00,0:02:06.92,Default,,0,0,0,,I guess she's got more\Ncontrol over you than you--
 Dialogue: 0,0:02:06.96,0:02:09.42,Default,,0,0,0,,(sword shings)\N- What, no.
-Dialogue: 0,0:02:09.46,0:02:13.63,Default,,0,0,0,,(swords slashing)\N(people grunting and yelling)
 Dialogue: 0,0:02:13.67,0:02:15.00,Default,,0,0,0,,- [Man] No!
-Dialogue: 0,0:02:15.04,0:02:20.04,Default,,0,0,0,,(swords slashing)\N(people grunting and yelling)
-Dialogue: 0,0:02:23.42,0:02:24.42,Default,,0,0,0,,(body thuds)
 Dialogue: 0,0:02:24.46,0:02:25.96,Default,,0,0,0,,- The Belladonna girl.
 Dialogue: 0,0:02:29.96,0:02:30.79,Default,,0,0,0,,Blake.
-Dialogue: 0,0:02:31.96,0:02:36.96,Default,,0,0,0,,(sword slashing)\N(metal clatter)
-Dialogue: 0,0:02:37.21,0:02:39.79,Default,,0,0,0,,(Adam screams)
-Dialogue: 0,0:02:39.83,0:02:42.33,Default,,0,0,0,,(tense music)
-Dialogue: 0,0:02:43.58,0:02:46.08,Default,,0,0,0,,(light music)
 Dialogue: 0,0:02:48.21,0:02:51.29,Default,,0,0,0,,- It's been two weeks\Nsince the attack on Haven.
 Dialogue: 0,0:02:51.33,0:02:54.08,Default,,0,0,0,,The official report states\Nthat the plot to destroy
 Dialogue: 0,0:02:54.13,0:02:58.09,Default,,0,0,0,,Mistral's CCT Tower was\Nthwarted by Ghira Belladonna
@@ -87,9 +71,7 @@ Dialogue: 0,0:03:41.21,0:03:43.13,Default,,0,0,0,,See you soon, Qrow.
 Dialogue: 0,0:03:45.04,0:03:46.87,Default,,0,0,0,,Hey, what's with the running?
 Dialogue: 0,0:03:46.92,0:03:48.25,Default,,0,0,0,,- What's with the standing?
 Dialogue: 0,0:03:48.29,0:03:49.96,Default,,0,0,0,,It's almost time!
-Dialogue: 0,0:03:50.00,0:03:52.79,Default,,0,0,0,,(bright music)
 Dialogue: 0,0:03:52.83,0:03:53.83,Default,,0,0,0,,- Huh?\N- Huh?
-Dialogue: 0,0:03:54.96,0:03:57.46,Default,,0,0,0,,(Ruby laughs)
 Dialogue: 0,0:03:59.50,0:04:00.92,Default,,0,0,0,,- And?
 Dialogue: 0,0:04:00.96,0:04:02.13,Default,,0,0,0,,- Ahh!
 Dialogue: 0,0:04:02.17,0:04:03.55,Default,,0,0,0,,- What an absolute waste of time--
@@ -99,8 +81,6 @@ Dialogue: 0,0:04:07.00,0:04:07.92,Default,,0,0,0,,- [Yang] No fair.
 Dialogue: 0,0:04:09.04,0:04:12.92,Default,,0,0,0,,- Oh, I can't believe we're\Ntaking the train to Argus!
 Dialogue: 0,0:04:12.96,0:04:15.63,Default,,0,0,0,,The beautiful northern coastline...
 Dialogue: 0,0:04:15.67,0:04:17.80,Default,,0,0,0,,You think it's too early for beach season?
-Dialogue: 0,0:04:17.83,0:04:20.54,Default,,0,0,0,,(seagulls cawing)
-Dialogue: 0,0:04:20.58,0:04:21.41,Default,,0,0,0,,(ball pops)
 Dialogue: 0,0:04:21.46,0:04:25.79,Default,,0,0,0,,- Unfortunately, but we will\Nbe one step closer to Atlas.
 Dialogue: 0,0:04:25.83,0:04:27.66,Default,,0,0,0,,- Well, I'm glad you're all excited.
 Dialogue: 0,0:04:27.71,0:04:29.54,Default,,0,0,0,,But I don't think you\Nappreciate the trouble
@@ -108,7 +88,6 @@ Dialogue: 0,0:04:29.58,0:04:31.33,Default,,0,0,0,,I went through to leave Atlas.
 Dialogue: 0,0:04:31.38,0:04:33.67,Default,,0,0,0,,- I know you're worried,\NWeiss, but trust us.
 Dialogue: 0,0:04:33.71,0:04:36.50,Default,,0,0,0,,Team RWBY won't leave your\Nside for a second! I promise.
 Dialogue: 0,0:04:38.50,0:04:41.08,Default,,0,0,0,,- No one's gotta be\Nworried with us around.
-Dialogue: 0,0:04:41.13,0:04:44.21,Default,,0,0,0,,(theatrical music)
 Dialogue: 0,0:04:44.25,0:04:47.25,Default,,0,0,0,,- And you are?
 Dialogue: 0,0:04:47.29,0:04:49.42,Default,,0,0,0,,- Why Dee and Dudley of course.
 Dialogue: 0,0:04:49.46,0:04:51.75,Default,,0,0,0,,The Argus Limited's very own Huntsmen.
@@ -138,7 +117,6 @@ Dialogue: 0,0:05:46.79,0:05:48.71,Default,,0,0,0,,- Uh-huh.\N- Yeah.
 Dialogue: 0,0:05:48.75,0:05:52.25,Default,,0,0,0,,- So, you kids ready to\Ngo? Bike all loaded up?
 Dialogue: 0,0:05:52.29,0:05:54.25,Default,,0,0,0,,- Yep!\N- Just waiting on Blake.
 Dialogue: 0,0:05:54.29,0:05:55.12,Default,,0,0,0,,As usual.
-Dialogue: 0,0:05:56.71,0:05:58.88,Default,,0,0,0,,(gentle piano music)
 Dialogue: 0,0:05:58.92,0:06:00.80,Default,,0,0,0,,- I still don't feel like\NI deserve the freedom
 Dialogue: 0,0:06:00.83,0:06:02.83,Default,,0,0,0,,you and your family granted me.
 Dialogue: 0,0:06:02.88,0:06:05.51,Default,,0,0,0,,- Well, you're going to\Nhave to get over it, Ilia.
@@ -160,12 +138,10 @@ Dialogue: 0,0:06:43.58,0:06:45.50,Default,,0,0,0,,- More than you realize.
 Dialogue: 0,0:06:45.54,0:06:48.58,Default,,0,0,0,,- Hey, I know your parents\Nalready saw you off,
 Dialogue: 0,0:06:48.63,0:06:50.46,Default,,0,0,0,,but where's--\N- Sun?
 Dialogue: 0,0:06:50.50,0:06:51.63,Default,,0,0,0,,Oh, he's right here.
-Dialogue: 0,0:06:52.50,0:06:55.75,Default,,0,0,0,,(playful music)
 Dialogue: 0,0:06:55.79,0:06:57.21,Default,,0,0,0,,What? You didn't think I was gonna miss
 Dialogue: 0,0:06:57.25,0:06:58.71,Default,,0,0,0,,your big send-off, did you?
 Dialogue: 0,0:06:58.75,0:07:01.88,Default,,0,0,0,,- He definitely overslept and\Nabsolutely almost missed this.
 Dialogue: 0,0:07:01.92,0:07:02.80,Default,,0,0,0,,- Shh.
-Dialogue: 0,0:07:02.83,0:07:05.12,Default,,0,0,0,,(Blake laughs)
 Dialogue: 0,0:07:05.17,0:07:06.34,Default,,0,0,0,,- Hey, Blake.
 Dialogue: 0,0:07:06.38,0:07:07.38,Default,,0,0,0,,Now would you hurry up?
 Dialogue: 0,0:07:07.42,0:07:10.42,Default,,0,0,0,,Need I remind you we have\Nour own trip to plan?
@@ -190,7 +166,6 @@ Dialogue: 0,0:07:45.13,0:07:47.42,Default,,0,0,0,,- I have to admit. I think I w
 Dialogue: 0,0:07:47.46,0:07:49.13,Default,,0,0,0,,getting used to having you around.
 Dialogue: 0,0:07:49.17,0:07:50.71,Default,,0,0,0,,- I go where I'm needed!
 Dialogue: 0,0:07:52.88,0:07:55.46,Default,,0,0,0,,And... you don't need me anymore.
-Dialogue: 0,0:07:55.50,0:07:59.08,Default,,0,0,0,,(emotional music)
 Dialogue: 0,0:07:59.13,0:08:03.05,Default,,0,0,0,,- Well, when you say it\Nlike that, it sounds sad.
 Dialogue: 0,0:08:03.08,0:08:05.87,Default,,0,0,0,,- Look... despite the drama and the fighting
 Dialogue: 0,0:08:05.92,0:08:09.80,Default,,0,0,0,,and the numerous attempts on\Nmy life, I had a lot of fun.
@@ -202,7 +177,6 @@ Dialogue: 0,0:08:22.08,0:08:25.41,Default,,0,0,0,,- You're still working a\Nlot 
 Dialogue: 0,0:08:25.46,0:08:30.42,Default,,0,0,0,,But you can do it with them.\NAnd in the future, who knows?
 Dialogue: 0,0:08:32.50,0:08:35.08,Default,,0,0,0,,I've got a feeling you\Nhaven't seen the last of me.
 Dialogue: 0,0:08:37.42,0:08:39.34,Default,,0,0,0,,- I certainly hope not.
-Dialogue: 0,0:08:39.38,0:08:41.88,Default,,0,0,0,,(light music)
 Dialogue: 0,0:08:45.96,0:08:47.21,Default,,0,0,0,,- I don't know, man.
 Dialogue: 0,0:08:47.25,0:08:49.54,Default,,0,0,0,,It feels like you're just letting her go.
 Dialogue: 0,0:08:49.58,0:08:51.79,Default,,0,0,0,,- It was never about that, braniac.
@@ -210,12 +184,6 @@ Dialogue: 0,0:08:51.83,0:08:54.46,Default,,0,0,0,,Besides, now that your leader'
 Dialogue: 0,0:08:54.50,0:08:55.83,Default,,0,0,0,,and hardened from battle,
 Dialogue: 0,0:08:55.88,0:08:57.84,Default,,0,0,0,,I've gotta focus all of my time
 Dialogue: 0,0:08:57.88,0:09:00.67,Default,,0,0,0,,into getting you boys\Nready for the wastelands.
-Dialogue: 0,0:09:00.71,0:09:03.46,Default,,0,0,0,,(Neptune groans)
-Dialogue: 0,0:09:05.00,0:09:07.50,Default,,0,0,0,,(light music)
-Dialogue: 0,0:09:15.63,0:09:18.80,Default,,0,0,0,,(passengers chatting)
-Dialogue: 0,0:09:25.50,0:09:26.63,Default,,0,0,0,,(Ruby groans)
-Dialogue: 0,0:09:26.67,0:09:29.96,Default,,0,0,0,,(video game chattering)
-Dialogue: 0,0:09:30.00,0:09:32.92,Default,,0,0,0,,(peaceful music)
 Dialogue: 0,0:09:41.79,0:09:43.12,Default,,0,0,0,,- [Ruby] All right\Ngirls, I think it's time
 Dialogue: 0,0:09:43.17,0:09:45.13,Default,,0,0,0,,for an official team exercise.
 Dialogue: 0,0:09:45.17,0:09:46.84,Default,,0,0,0,,Who wants to play video games?
@@ -234,67 +202,30 @@ Dialogue: 0,0:10:24.88,0:10:25.71,Default,,0,0,0,,- Oh hey, Uncle Qrow.
 Dialogue: 0,0:10:25.75,0:10:27.38,Default,,0,0,0,,You wanna play too?
 Dialogue: 0,0:10:27.42,0:10:29.96,Default,,0,0,0,,- (chuckles) Kick your butts?
 Dialogue: 0,0:10:30.00,0:10:30.92,Default,,0,0,0,,Sure.
-Dialogue: 0,0:10:30.96,0:10:32.63,Default,,0,0,0,,(loud rumbling)\N(glass shatters)
 Dialogue: 0,0:10:32.67,0:10:33.88,Default,,0,0,0,,- [Blake] What was that?
 Dialogue: 0,0:10:34.79,0:10:36.96,Default,,0,0,0,,- Exactly what it sounds like.
 Dialogue: 0,0:10:37.00,0:10:38.42,Default,,0,0,0,,- Just my luck.
 Dialogue: 0,0:10:38.46,0:10:41.13,Default,,0,0,0,,- It's not yours... grab your weapons!
-Dialogue: 0,0:10:41.17,0:10:43.67,Default,,0,0,0,,(tense music)
-Dialogue: 0,0:10:45.21,0:10:47.59,Default,,0,0,0,,(passengers shouting)
-Dialogue: 0,0:10:47.63,0:10:50.38,Default,,0,0,0,,(dramatic music)
-Dialogue: 0,0:10:53.13,0:10:55.88,Default,,0,0,0,,(Grimm growling)
-Dialogue: 0,0:11:01.38,0:11:03.88,Default,,0,0,0,,(Grimm roars)
-Dialogue: 0,0:11:11.08,0:11:12.46,Default,,0,0,0,,(Dee yells)
-Dialogue: 0,0:11:12.50,0:11:15.58,Default,,0,0,0,,(Grimm roars)
-Dialogue: 0,0:11:15.63,0:11:16.80,Default,,0,0,0,,(Dee groans)
 Dialogue: 0,0:11:16.83,0:11:17.66,Default,,0,0,0,,- Dee!
-Dialogue: 0,0:11:18.63,0:11:19.96,Default,,0,0,0,,(Dee screams)
-Dialogue: 0,0:11:20.00,0:11:22.50,Default,,0,0,0,,(Grimm roars)
 Dialogue: 0,0:11:26.42,0:11:28.21,Default,,0,0,0,,- What's the plan, Ruby?
 Dialogue: 0,0:11:28.25,0:11:30.04,Default,,0,0,0,,- Don't let anyone else die.
-Dialogue: 0,0:11:34.83,0:11:37.58,Default,,0,0,0,,(Grimm growling)
 Dialogue: 0,0:11:39.50,0:11:42.58,Default,,0,0,0,,- [Ozpin] Shall I?\N- No, I'm keeping control.
 Dialogue: 0,0:11:44.08,0:11:45.00,Default,,0,0,0,,- What's going on?
-Dialogue: 0,0:11:46.88,0:11:49.13,Default,,0,0,0,,(passengers scream)
-Dialogue: 0,0:11:49.17,0:11:51.30,Default,,0,0,0,,(dramatic music)
-Dialogue: 0,0:11:51.33,0:11:53.83,Default,,0,0,0,,(weapons slashing)
-Dialogue: 0,0:11:53.88,0:11:58.88,Default,,0,0,0,,(Qrow grunting)\N(weapon slashing)
-Dialogue: 0,0:12:00.71,0:12:01.96,Default,,0,0,0,,(Dudley panting)
-Dialogue: 0,0:12:02.00,0:12:06.96,Default,,0,0,0,,(fireball crashes)\N(Dudley screams)
 Dialogue: 0,0:12:07.00,0:12:08.83,Default,,0,0,0,,- [Dudley] Come on, come on.
-Dialogue: 0,0:12:08.88,0:12:12.30,Default,,0,0,0,,(metal clanking)
-Dialogue: 0,0:12:12.33,0:12:13.29,Default,,0,0,0,,(baby cries)
-Dialogue: 0,0:12:13.33,0:12:16.33,Default,,0,0,0,,(metal clanking)
-Dialogue: 0,0:12:16.38,0:12:18.96,Default,,0,0,0,,(turret whirls)
-Dialogue: 0,0:12:23.54,0:12:26.12,Default,,0,0,0,,(turrets fire)
 Dialogue: 0,0:12:28.88,0:12:29.71,Default,,0,0,0,,Ah, yes!
-Dialogue: 0,0:12:31.75,0:12:36.75,Default,,0,0,0,,(Qrow grunting)\N(weapon slashing)
-Dialogue: 0,0:12:42.50,0:12:45.08,Default,,0,0,0,,(turrets fire)
-Dialogue: 0,0:12:47.50,0:12:50.33,Default,,0,0,0,,(Grimm screeches)
-Dialogue: 0,0:12:51.71,0:12:54.29,Default,,0,0,0,,(turrets fire)
-Dialogue: 0,0:13:00.75,0:13:04.21,Default,,0,0,0,,(loud boom)\N(passengers scream)
-Dialogue: 0,0:13:04.25,0:13:06.08,Default,,0,0,0,,(guns fire)
 Dialogue: 0,0:13:06.13,0:13:08.88,Default,,0,0,0,,- [Qrow] Hey! What are you doing?
 Dialogue: 0,0:13:10.21,0:13:12.63,Default,,0,0,0,,- Why is it always something?
 Dialogue: 0,0:13:14.33,0:13:15.12,Default,,0,0,0,,- How can I help?
 Dialogue: 0,0:13:15.17,0:13:17.88,Default,,0,0,0,,- You can get that idiot\Nto shut off the turrets.
 Dialogue: 0,0:13:17.92,0:13:20.25,Default,,0,0,0,,They're just drawing the\NGrimm toward the passengers.
 Dialogue: 0,0:13:20.29,0:13:21.12,Default,,0,0,0,,- Right.
-Dialogue: 0,0:13:22.33,0:13:23.33,Default,,0,0,0,,(loud boom)
-Dialogue: 0,0:13:23.38,0:13:28.38,Default,,0,0,0,,(Oscar panting)\N(dramatic music)
 Dialogue: 0,0:13:28.92,0:13:31.17,Default,,0,0,0,,Stop! You've gotta shut the turrets off!
 Dialogue: 0,0:13:31.21,0:13:33.88,Default,,0,0,0,,- Are you crazy? No way!
-Dialogue: 0,0:13:33.92,0:13:36.50,Default,,0,0,0,,(turrets fire)
 Dialogue: 0,0:13:37.42,0:13:39.59,Default,,0,0,0,,Yes! Another one down!
 Dialogue: 0,0:13:39.63,0:13:42.17,Default,,0,0,0,,- Stop! We have to lure\Nthe Grimm to the back.
 Dialogue: 0,0:13:42.21,0:13:44.67,Default,,0,0,0,,- What does it matter if they're dead?
-Dialogue: 0,0:13:44.71,0:13:47.54,Default,,0,0,0,,(Grimm screeches)
-Dialogue: 0,0:13:51.63,0:13:54.30,Default,,0,0,0,,(ominous music)
 Dialogue: 0,0:13:55.71,0:13:57.46,Default,,0,0,0,,Where are they going?
 Dialogue: 0,0:13:58.63,0:14:00.55,Default,,0,0,0,,- Tunnel!\N- Huh?
-Dialogue: 0,0:14:00.58,0:14:03.33,Default,,0,0,0,,(dramatic music)
-Dialogue: 0,0:14:04.96,0:14:07.84,Default,,0,0,0,,(bone snaps)\N(Dudley screams)
-Dialogue: 0,0:14:07.88,0:14:10.71,Default,,0,0,0,,(Dudley groaning)
 Dialogue: 0,0:14:16.21,0:14:19.21,Default,,0,0,0,,- I said, turn those damn things off.
 Dialogue: 0,0:14:20.29,0:14:23.21,Default,,0,0,0,,- [Dudley] Those things\Nare keeping us alive.
 Dialogue: 0,0:14:23.25,0:14:24.83,Default,,0,0,0,,- [Qrow] Us, sure, but they're putting
@@ -302,12 +233,9 @@ Dialogue: 0,0:14:24.88,0:14:26.55,Default,,0,0,0,,the passengers in danger.
 Dialogue: 0,0:14:26.58,0:14:29.71,Default,,0,0,0,,- [Dudley] I'm the one they hired for this job, okay?
 Dialogue: 0,0:14:29.75,0:14:31.00,Default,,0,0,0,,I'm in charge here!
 Dialogue: 0,0:14:31.04,0:14:34.04,Default,,0,0,0,,- [Qrow] Forgive me if\NI'm not exactly reassured.
-Dialogue: 0,0:14:34.13,0:14:36.92,Default,,0,0,0,,(baby cries)\N(passengers murmuring)
-Dialogue: 0,0:14:37.13,0:14:39.55,Default,,0,0,0,,(Qrow and Dudley argue)
 Dialogue: 0,0:14:39.75,0:14:42.46,Default,,0,0,0,,- [Qrow] Look, if you bozos\Nhad been doing your job
 Dialogue: 0,0:14:42.50,0:14:44.13,Default,,0,0,0,,instead of shaking down passengers,
 Dialogue: 0,0:14:44.17,0:14:45.84,Default,,0,0,0,,maybe we wouldn't be in this--
-Dialogue: 0,0:14:45.88,0:14:48.63,Default,,0,0,0,,(Dudley panting)
 Dialogue: 0,0:14:49.58,0:14:51.41,Default,,0,0,0,,- Please just shut off the turrets.
 Dialogue: 0,0:14:53.42,0:14:55.67,Default,,0,0,0,,- [Jaune] Trust us, we know what we're doing.
 Dialogue: 0,0:15:01.96,0:15:02.79,Default,,0,0,0,,- Fine.
@@ -336,7 +264,6 @@ Dialogue: 0,0:16:01.71,0:16:04.17,Default,,0,0,0,,If we cut the back cars with\N
 Dialogue: 0,0:16:04.21,0:16:05.92,Default,,0,0,0,,we can deal with the Grimm.
 Dialogue: 0,0:16:05.96,0:16:07.25,Default,,0,0,0,,You just make sure the rest of the train
 Dialogue: 0,0:16:07.29,0:16:08.83,Default,,0,0,0,,makes it safely to Argus.
-Dialogue: 0,0:16:08.88,0:16:11.71,Default,,0,0,0,,(emotional music)
 Dialogue: 0,0:16:16.46,0:16:18.75,Default,,0,0,0,,- Only if you'll promise\Nyou'll meet us there.
 Dialogue: 0,0:16:20.50,0:16:22.04,Default,,0,0,0,,- Promise.
 Dialogue: 0,0:16:40.18,0:16:42.91,Karaoke,,0,0,0,,{\kf50}Time {\kf24}and {\kf57}time {\kf64}again {\kf19}it {\kf59}seems
@@ -377,46 +304,15 @@ Dialogue: 0,0:18:37.38,0:18:40.36,Karaoke,,0,0,0,,{\kf59}Desire {\kf26}to {\kf13
 Dialogue: 0,0:18:40.36,0:18:44.19,Karaoke,,0,0,0,,{\kf22}Is {\kf77}powering {\kf33}the {\kf251}light
 Dialogue: 0,0:18:44.19,0:18:46.98,Karaoke,,0,0,0,,{\kf30}We're {\kf62}praying {\kf44}for {\kf44}a {\kf99}miracle
 Dialogue: 0,0:18:46.98,0:18:51.95,Karaoke,,0,0,0,,{\kf15}But {\kf19}for {\kf85}now {\kf49}we'll {\kf87}stand {\kf78}and {\kf164}fight
-Dialogue: 0,0:16:54.29,0:16:57.17,Default,,0,0,0,,(Grimm screeching)
 Dialogue: 0,0:17:05.33,0:17:06.16,Default,,0,0,0,,- Now!
-Dialogue: 0,0:17:25.71,0:17:27.29,Default,,0,0,0,,(Grimm growls)\N(Oscar gasps)
-Dialogue: 0,0:17:27.33,0:17:32.33,Default,,0,0,0,,(Oscar grunting)\N(weapon slashing)
-Dialogue: 0,0:17:33.92,0:17:35.71,Default,,0,0,0,,(weapons slashing)
-Dialogue: 0,0:17:38.50,0:17:39.79,Default,,0,0,0,,(Yang grunting)
-Dialogue: 0,0:17:45.17,0:17:49.75,Default,,0,0,0,,(weapon slashing)\N(Grimm roars)
-Dialogue: 0,0:18:02.58,0:18:03.58,Default,,0,0,0,,(Grimm roars)
-Dialogue: 0,0:18:06.04,0:18:08.12,Default,,0,0,0,,(Grimm crashing)
-Dialogue: 0,0:18:08.17,0:18:10.17,Default,,0,0,0,,(guns fire)
-Dialogue: 0,0:18:10.21,0:18:13.25,Default,,0,0,0,,(Qrow grunting)\N(weapon slashing)
-Dialogue: 0,0:18:17.25,0:18:18.58,Default,,0,0,0,,(Grimm growls)\N(fireball whooshing)
-Dialogue: 0,0:18:23.50,0:18:25.17,Default,,0,0,0,,(Grimm roars)
-Dialogue: 0,0:18:25.21,0:18:26.54,Default,,0,0,0,,(weapon fires)
 Dialogue: 0,0:18:26.58,0:18:28.96,Default,,0,0,0,,- We need to ground it!\N- On it!
 Dialogue: 0,0:18:29.00,0:18:29.83,Default,,0,0,0,,Yang!
-Dialogue: 0,0:18:29.88,0:18:31.88,Default,,0,0,0,,(Yang grunting)
-Dialogue: 0,0:18:31.92,0:18:34.50,Default,,0,0,0,,(guns fire)
 Dialogue: 0,0:18:37.58,0:18:39.50,Default,,0,0,0,,(weapon spinning)\N- Ahh!
-Dialogue: 0,0:18:39.54,0:18:42.17,Default,,0,0,0,,(Yang grunting)
-Dialogue: 0,0:18:42.21,0:18:43.50,Default,,0,0,0,,(Grimm roars)
-Dialogue: 0,0:18:43.54,0:18:46.08,Default,,0,0,0,,(Yang grunting)
-Dialogue: 0,0:18:46.13,0:18:48.63,Default,,0,0,0,,(Blake grunting)
-Dialogue: 0,0:18:48.67,0:18:51.21,Default,,0,0,0,,(Grimm screeches)
 Dialogue: 0,0:18:51.25,0:18:52.08,Default,,0,0,0,,- Ya!
-Dialogue: 0,0:18:56.67,0:18:59.17,Default,,0,0,0,,(Grimm roars)
-Dialogue: 0,0:19:04.58,0:19:07.12,Default,,0,0,0,,(Grimm roars)
-Dialogue: 0,0:19:07.17,0:19:09.84,Default,,0,0,0,,(weapons slashing)
-Dialogue: 0,0:19:11.50,0:19:14.42,Default,,0,0,0,,(weapons slashing)
-Dialogue: 0,0:19:15.88,0:19:17.21,Default,,0,0,0,,(fireball whooshing)
-Dialogue: 0,0:19:17.25,0:19:19.42,Default,,0,0,0,,(Oscar gasps)\N(Weiss gasps)
-Dialogue: 0,0:19:19.46,0:19:21.75,Default,,0,0,0,,(fireball explodes)
-Dialogue: 0,0:19:21.79,0:19:24.46,Default,,0,0,0,,(train crashes)
-Dialogue: 0,0:19:26.67,0:19:29.50,Default,,0,0,0,,(thunderous noise)
-Dialogue: 0,0:19:32.83,0:19:35.41,Default,,0,0,0,,(wind howling)
 Dialogue: 0,0:19:38.58,0:19:39.71,Default,,0,0,0,,- Is everyone okay?
 Dialogue: 0,0:19:40.96,0:19:42.25,Default,,0,0,0,,- I'm fine.
 Dialogue: 0,0:19:42.29,0:19:43.42,Default,,0,0,0,,- Yeah.
 Dialogue: 0,0:19:43.46,0:19:44.54,Default,,0,0,0,,- [Maria] Still alive!
-Dialogue: 0,0:19:44.58,0:19:47.16,Default,,0,0,0,,(bright music)
 Dialogue: 0,0:19:52.42,0:19:54.50,Default,,0,0,0,,That sure was a close one, huh?
 Dialogue: 0,0:20:10.20,0:20:13.57,Karaoke,,0,0,0,,{\kf45}Stay {\kf114}close, {\kf40}move {\kf138}fast
 Dialogue: 0,0:20:16.11,0:20:19.33,Karaoke,,0,0,0,,{\kf26}The {\kf61}darkness {\kf66}cannot {\kf169}last

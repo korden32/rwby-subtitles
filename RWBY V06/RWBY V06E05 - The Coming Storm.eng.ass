@@ -50,7 +50,6 @@ Dialogue: 0,0:02:20.15,0:02:21.05,Default,,0,0,0,,Cinder.
 Dialogue: 0,0:02:25.63,0:02:27.81,Default,,0,0,0,,It's not often a single client
 Dialogue: 0,0:02:27.81,0:02:29.71,Default,,0,0,0,,brings me double the business.
 Dialogue: 0,0:02:37.23,0:02:38.06,Default,,0,0,0,,- [Cinder] Wait.
-Dialogue: 0,0:02:40.50,0:02:43.17,Default,,0,0,0,,(intense music)
 Dialogue: 0,0:02:45.04,0:02:45.87,Default,,0,0,0,,Neo?
 Dialogue: 0,0:02:47.29,0:02:49.76,Default,,0,0,0,,- Maybe put away the good glasses.
 Dialogue: 0,0:02:50.97,0:02:52.21,Karaoke-Neo,,0,0,0,,{\kf48}Kill {\kf22}for {\kf54}kill
@@ -74,13 +73,9 @@ Dialogue: 0,0:03:34.13,0:03:36.32,Karaoke-Neo,,0,0,0,,{\kf20}You {\kf47}sent {\k
 Dialogue: 0,0:03:36.32,0:03:39.38,Karaoke-Neo,,0,0,0,,{\kf41}Now {\kf36}you'll {\kf229}pay
 Dialogue: 0,0:03:39.52,0:03:42.17,Karaoke-Neo,,0,0,0,,{\kf140}Pa{\kf125}y
 Dialogue: 0,0:02:53.19,0:02:54.24,Default,,0,0,0,,- What are you doing?
-Dialogue: 0,0:02:59.73,0:03:00.85,Default,,0,0,0,,(blows thudding)
-Dialogue: 0,0:03:18.29,0:03:19.12,Default,,0,0,0,,(table thuds)
-Dialogue: 0,0:03:32.82,0:03:33.71,Default,,0,0,0,,(chair creaks)
 Dialogue: 0,0:03:42.96,0:03:45.17,Default,,0,0,0,,- That's enough, ladies!
 Dialogue: 0,0:03:45.17,0:03:47.79,Default,,0,0,0,,I love dinner and a show,
 Dialogue: 0,0:03:47.78,0:03:49.43,Default,,0,0,0,,but it's time to take it outside.
-Dialogue: 0,0:03:51.58,0:03:52.75,Default,,0,0,0,,(dramatic music)\N(glass shattering)
 Dialogue: 0,0:03:55.72,0:03:56.23,Default,,0,0,0,,- Hm.
 Dialogue: 0,0:03:56.23,0:03:57.53,Default,,0,0,0,,Nice trick.
 Dialogue: 0,0:04:01.48,0:04:03.34,Default,,0,0,0,,You've gotten stronger.
@@ -89,49 +84,33 @@ Dialogue: 0,0:04:18.57,0:04:21.82,Default,,0,0,0,,I don't have time for your\Nmi
 Dialogue: 0,0:04:21.82,0:04:23.61,Default,,0,0,0,,I didn't kill your boss.
 Dialogue: 0,0:04:23.61,0:04:27.38,Default,,0,0,0,,If you want revenge, take\Nit up with "little red".
 Dialogue: 0,0:04:33.85,0:04:36.91,Default,,0,0,0,,- You're not the only one\Nwith a grudge against Ruby.
-Dialogue: 0,0:04:37.79,0:04:38.99,Default,,0,0,0,,(blow thuds)
 Dialogue: 0,0:04:38.98,0:04:39.81,Default,,0,0,0,,Listen!
 Dialogue: 0,0:04:41.95,0:04:44.53,Default,,0,0,0,,We both want that girl dead.
-Dialogue: 0,0:04:44.53,0:04:47.70,Default,,0,0,0,,(rumbling)
 Dialogue: 0,0:04:47.70,0:04:50.70,Default,,0,0,0,,So quit wasting your time fighting me...
 Dialogue: 0,0:04:51.60,0:04:55.85,Default,,0,0,0,,and let's discuss how\Nwe kill her together.
 Dialogue: 0,0:05:00.13,0:05:01.69,Default,,0,0,0,,Okay, then...
 Dialogue: 0,0:05:01.69,0:05:02.62,Default,,0,0,0,,Let's talk.
 Dialogue: 0,0:05:07.76,0:05:08.59,Default,,0,0,0,,Well?
-Dialogue: 0,0:05:12.86,0:05:15.44,Default,,0,0,0,,(wind howling)
 Dialogue: 0,0:05:21.46,0:05:22.52,Default,,0,0,0,,- [Ruby] I don't get it.
 Dialogue: 0,0:05:23.90,0:05:26.58,Default,,0,0,0,,The empty towns I've passed\Nthrough were all damaged,
 Dialogue: 0,0:05:26.58,0:05:28.16,Default,,0,0,0,,or unfinished.
 Dialogue: 0,0:05:30.48,0:05:32.29,Default,,0,0,0,,But this place looks... fine.
 Dialogue: 0,0:05:36.03,0:05:38.04,Default,,0,0,0,,- Maybe everyone left in a hurry.
 Dialogue: 0,0:05:38.04,0:05:39.97,Default,,0,0,0,,Before things took a turn?
-Dialogue: 0,0:05:39.97,0:05:42.06,Default,,0,0,0,,(loud clanging)
 Dialogue: 0,0:05:42.06,0:05:44.71,Default,,0,0,0,,- (grunts) Stay on guard.
-Dialogue: 0,0:05:49.17,0:05:50.33,Default,,0,0,0,,(loud banging)
-Dialogue: 0,0:05:50.33,0:05:53.00,Default,,0,0,0,,(intense music)
 Dialogue: 0,0:06:01.75,0:06:03.68,Default,,0,0,0,,- Close the door already!
 Dialogue: 0,0:06:05.10,0:06:07.00,Default,,0,0,0,,It's cold enough in here as it is.
-Dialogue: 0,0:06:13.07,0:06:15.65,Default,,0,0,0,,(low scraping)
 Dialogue: 0,0:06:17.23,0:06:19.15,Default,,0,0,0,,- I saw a chimney from the outside.
 Dialogue: 0,0:06:19.15,0:06:20.96,Default,,0,0,0,,Maybe we could get a fire going?
 Dialogue: 0,0:06:20.96,0:06:22.05,Default,,0,0,0,,- Please.
 Dialogue: 0,0:06:22.05,0:06:23.85,Default,,0,0,0,,I'll look for some blankets.
 Dialogue: 0,0:06:23.85,0:06:25.76,Default,,0,0,0,,- [Qrow] Yang, go with her.
-Dialogue: 0,0:06:25.76,0:06:28.22,Default,,0,0,0,,(suspenseful music)
-Dialogue: 0,0:06:28.38,0:06:30.67,Default,,0,0,0,,(wind howling)
 Dialogue: 0,0:06:30.83,0:06:32.79,Default,,0,0,0,,- [Oscar] Looks like a study.
 Dialogue: 0,0:06:33.00,0:06:34.42,Default,,0,0,0,,Or, a library?
-Dialogue: 0,0:06:37.08,0:06:40.75,Default,,0,0,0,,(footsteps thudding softly)
 Dialogue: 0,0:06:47.38,0:06:48.80,Default,,0,0,0,,- What do you think?
 Dialogue: 0,0:06:49.96,0:06:52.09,Default,,0,0,0,,- Something doesn't feel right.
 Dialogue: 0,0:06:52.08,0:06:53.00,Default,,0,0,0,,- Let's look for some--
-Dialogue: 0,0:06:53.00,0:06:54.79,Default,,0,0,0,,(terrified screaming)
 Dialogue: 0,0:06:54.79,0:06:55.62,Default,,0,0,0,,- Weiss!
-Dialogue: 0,0:06:59.71,0:07:03.21,Default,,0,0,0,,(Weiss breathing heavily)
-Dialogue: 0,0:07:08.17,0:07:10.92,Default,,0,0,0,,(fire crackling)
-Dialogue: 0,0:07:22.88,0:07:24.17,Default,,0,0,0,,(sudden banging)
-Dialogue: 0,0:07:24.17,0:07:26.42,Default,,0,0,0,,(door opening)
-Dialogue: 0,0:07:26.42,0:07:29.50,Default,,0,0,0,,(footsteps thudding)
 Dialogue: 0,0:07:32.67,0:07:35.38,Default,,0,0,0,,- It's the same in every house.
 Dialogue: 0,0:07:35.38,0:07:36.59,Default,,0,0,0,,- What?
 Dialogue: 0,0:07:36.58,0:07:37.50,Default,,0,0,0,,- [Qrow] Bodies.
@@ -152,21 +131,16 @@ Dialogue: 0,0:08:07.92,0:08:10.13,Default,,0,0,0,,it might still have supplies w
 Dialogue: 0,0:08:10.13,0:08:11.21,Default,,0,0,0,,- Hey, yeah.
 Dialogue: 0,0:08:11.21,0:08:12.29,Default,,0,0,0,,Maybe even a car.
 Dialogue: 0,0:08:13.25,0:08:15.58,Default,,0,0,0,,- I'll do another sweep of the grounds.
-Dialogue: 0,0:08:15.58,0:08:17.25,Default,,0,0,0,,(footsteps thudding)
 Dialogue: 0,0:08:17.25,0:08:20.29,Default,,0,0,0,,No one else goes anywhere alone.
 Dialogue: 0,0:08:22.25,0:08:25.83,Default,,0,0,0,,- Yang and I can search the\Nother buildings for vehicles.
 Dialogue: 0,0:08:25.83,0:08:26.87,Default,,0,0,0,,- Fine.
 Dialogue: 0,0:08:26.88,0:08:28.63,Default,,0,0,0,,Whatever gets me out of this house.
-Dialogue: 0,0:08:38.88,0:08:41.55,Default,,0,0,0,,(loud scraping)
 Dialogue: 0,0:08:47.42,0:08:50.63,Default,,0,0,0,,- Food always makes me feel\Nbetter. (chuckles nervously)
 Dialogue: 0,0:08:50.63,0:08:51.46,Default,,0,0,0,,Just saying.
 Dialogue: 0,0:08:53.54,0:08:54.37,Default,,0,0,0,,- Right.
 Dialogue: 0,0:08:58.71,0:08:59.75,Default,,0,0,0,,- I'll tell you what.
 Dialogue: 0,0:09:01.25,0:09:03.13,Default,,0,0,0,,You keep that fire fed...
 Dialogue: 0,0:09:04.67,0:09:07.67,Default,,0,0,0,,and I'll find us a story\Nto read before bed.
-Dialogue: 0,0:09:11.92,0:09:13.00,Default,,0,0,0,,(Oscar sighs)
-Dialogue: 0,0:09:13.00,0:09:15.58,Default,,0,0,0,,(wind howling)
-Dialogue: 0,0:09:22.25,0:09:24.92,Default,,0,0,0,,(loud scraping)
 Dialogue: 0,0:09:34.54,0:09:37.08,Default,,0,0,0,,- Something tells me\Nthat's not street legal.
 Dialogue: 0,0:09:45.63,0:09:47.80,Default,,0,0,0,,- What do you think happened here?
 Dialogue: 0,0:09:47.79,0:09:49.67,Default,,0,0,0,,- There's that well in the square.
@@ -179,11 +153,8 @@ Dialogue: 0,0:10:02.04,0:10:03.87,Default,,0,0,0,,But, I don't know.
 Dialogue: 0,0:10:05.04,0:10:06.00,Default,,0,0,0,,I'm just tired.
 Dialogue: 0,0:10:07.29,0:10:08.12,Default,,0,0,0,,- Yeah.
 Dialogue: 0,0:10:15.38,0:10:16.92,Default,,0,0,0,,- Hey, I found something.
-Dialogue: 0,0:10:22.04,0:10:23.12,Default,,0,0,0,,(intense music)
-Dialogue: 0,0:10:23.13,0:10:25.34,Default,,0,0,0,,(Yang gasps)\N(footsteps rattling)
 Dialogue: 0,0:10:25.33,0:10:26.83,Default,,0,0,0,,- What is it?
 Dialogue: 0,0:10:26.83,0:10:27.66,Default,,0,0,0,,- I...
-Dialogue: 0,0:10:29.50,0:10:31.83,Default,,0,0,0,,(sighs)
 Dialogue: 0,0:10:31.83,0:10:33.37,Default,,0,0,0,,I was just seeing things.
 Dialogue: 0,0:10:33.38,0:10:34.21,Default,,0,0,0,,I'm sorry.
 Dialogue: 0,0:10:35.83,0:10:37.62,Default,,0,0,0,,I still get flashes from that night.
@@ -208,7 +179,6 @@ Dialogue: 0,0:11:31.83,0:11:32.71,Default,,0,0,0,,- [Yang] We're fine.
 Dialogue: 0,0:11:32.71,0:11:35.00,Default,,0,0,0,,We can hook that flatbed up\Nto Bumblebee in the morning.
 Dialogue: 0,0:11:35.00,0:11:36.08,Default,,0,0,0,,Should carry everyone.
 Dialogue: 0,0:11:37.38,0:11:38.55,Default,,0,0,0,,- Mission accomplished.
-Dialogue: 0,0:11:41.13,0:11:44.63,Default,,0,0,0,,(soft, suspenseful music)
 Dialogue: 0,0:11:56.75,0:11:57.58,Default,,0,0,0,,- There.
 Dialogue: 0,0:12:01.08,0:12:04.46,Default,,0,0,0,,- On second thought, maybe we\Nshould keep this room closed.
 Dialogue: 0,0:12:04.46,0:12:05.29,Default,,0,0,0,,- Huh?
@@ -243,7 +213,6 @@ Dialogue: 0,0:13:27.67,0:13:29.59,Default,,0,0,0,,- Oh trust me, you put\Nenough
 Dialogue: 0,0:13:29.58,0:13:32.12,Default,,0,0,0,,and it will taste just fine.
 Dialogue: 0,0:13:32.13,0:13:34.92,Default,,0,0,0,,- Well, I guess it's better than nothing.
 Dialogue: 0,0:13:41.96,0:13:44.50,Default,,0,0,0,,But I still seriously hate this place.
-Dialogue: 0,0:13:49.21,0:13:51.71,Default,,0,0,0,,(low banging)
 Dialogue: 0,0:14:10.93,0:14:39.79,Block,,0,0,0,,{\fad(1000,0)\pos(0,0)\c&H000000&\1a&H40&\p1}m 0 0 l 1920 0 1920 120 0 120{\p0}
 Dialogue: 0,0:14:10.93,0:14:12.17,Karaoke-Neo,,0,0,0,,{\kf48}Kill {\kf22}for {\kf54}kill
 Dialogue: 0,0:14:12.17,0:14:13.64,Karaoke-Neo,,0,0,0,,{\kf56}Eye {\kf27}for {\kf64}eye

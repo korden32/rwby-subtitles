@@ -32,19 +32,13 @@ Dialogue: 0,0:01:14.70,0:01:17.30,Karaoke,,0,0,0,,{\kf20}As {\kf76}sun {\kf72}se
 Dialogue: 0,0:01:17.54,0:01:19.88,Karaoke,,0,0,0,,{\kf25}We'll {\kf70}find {\kf64}our {\kf75}way
 Dialogue: 0,0:01:19.88,0:01:24.74,Karaoke,,0,0,0,,{\kf34}And {\kf36}we’ll {\kf34}catch {\kf37}that {\kf34}dream {\kf101}together {\kf61}someday {\kf149}soon
 Dialogue: 0,0:01:24.93,0:01:29.51,Karaoke,,0,0,0,,{\kf17}We’re {\kf43}rising {\kf32}like {\kf41}the {\kf325}moon
-Dialogue: 0,0:01:40.61,0:01:43.61,Default,,0,0,0,,(suspenseful music)
-Dialogue: 0,0:01:57.40,0:02:00.48,Default,,0,0,0,,(gasping for breath)
-Dialogue: 0,0:02:01.78,0:02:04.28,Default,,0,0,0,,(eerie music)
-Dialogue: 0,0:02:38.23,0:02:40.56,Default,,0,0,0,,(footsteps)
 Dialogue: 0,0:02:54.73,0:02:56.98,Default,,0,0,0,,- Gods, are you okay?
 Dialogue: 0,0:02:58.69,0:02:59.86,Default,,0,0,0,,Where did you?
-Dialogue: 0,0:03:00.78,0:03:05.78,Default,,0,0,0,,(gasps)\N(basket hitting ground)
 Dialogue: 0,0:03:10.23,0:03:12.69,Default,,0,0,0,,- [Ruby] We need to\Ntake the relic to Atlas?
 Dialogue: 0,0:03:13.90,0:03:14.98,Default,,0,0,0,,- That's what Oz said.
 Dialogue: 0,0:03:18.32,0:03:20.57,Default,,0,0,0,,- You've got to be joking?
 Dialogue: 0,0:03:20.57,0:03:22.32,Default,,0,0,0,,- [Nora] I mean bright side
 Dialogue: 0,0:03:22.32,0:03:24.78,Default,,0,0,0,,we finally get out of this house.
-Dialogue: 0,0:03:24.78,0:03:25.61,Default,,0,0,0,,(sighs)
 Dialogue: 0,0:03:25.61,0:03:28.24,Default,,0,0,0,,- Well trust me, I'm not\Ncrazy about it either.
 Dialogue: 0,0:03:28.23,0:03:30.73,Default,,0,0,0,,And without the Spring\NMaiden here to seal the relic
 Dialogue: 0,0:03:30.73,0:03:33.90,Default,,0,0,0,,back in its vault, it's our best option.
@@ -65,7 +59,6 @@ Dialogue: 0,0:04:03.48,0:04:05.15,Default,,0,0,0,,to the Schnee Dust Company.
 Dialogue: 0,0:04:05.15,0:04:07.11,Default,,0,0,0,,- Ex-heiress actually.
 Dialogue: 0,0:04:07.11,0:04:08.74,Default,,0,0,0,,- True, true.
 Dialogue: 0,0:04:08.73,0:04:12.44,Default,,0,0,0,,But if there's a chance of\Nreward money I say we go for it.
-Dialogue: 0,0:04:12.44,0:04:13.69,Default,,0,0,0,,(frustrated sigh)
 Dialogue: 0,0:04:13.69,0:04:16.40,Default,,0,0,0,,- [Oscar] Hopefully the\Nfirst option will suffice.
 Dialogue: 0,0:04:17.82,0:04:20.32,Default,,0,0,0,,- Glad to see you're feeling better.
 Dialogue: 0,0:04:20.32,0:04:23.40,Default,,0,0,0,,- Likewise, and while\NI'm sure we could all use
@@ -164,7 +157,6 @@ Dialogue: 0,0:08:31.82,0:08:33.49,Default,,0,0,0,,It got scattered in the crash.
 Dialogue: 0,0:08:35.15,0:08:36.57,Default,,0,0,0,,- Please, hand it over.
 Dialogue: 0,0:08:38.90,0:08:40.86,Default,,0,0,0,,- So all those times\Nyou talked about having
 Dialogue: 0,0:08:40.86,0:08:44.19,Default,,0,0,0,,faith in humanity, that\Nwas just for everyone else?
-Dialogue: 0,0:08:46.40,0:08:47.86,Default,,0,0,0,,(sighs)
 Dialogue: 0,0:08:47.86,0:08:49.78,Default,,0,0,0,,- That's not what I meant to suggest.
 Dialogue: 0,0:08:50.69,0:08:54.11,Default,,0,0,0,,Miss Rose, the relic is a\Npowerful item and I simply
 Dialogue: 0,0:08:54.11,0:08:56.36,Default,,0,0,0,,feel as though it is my burden to bear.
@@ -182,26 +174,14 @@ Dialogue: 0,0:09:23.11,0:09:23.94,Default,,0,0,0,,Ugh!
 Dialogue: 0,0:09:26.61,0:09:28.78,Default,,0,0,0,,Her name is Jinn.
 Dialogue: 0,0:09:29.73,0:09:32.36,Default,,0,0,0,,Say her name to summon her.
 Dialogue: 0,0:09:32.36,0:09:33.61,Default,,0,0,0,,- Her name?
-Dialogue: 0,0:09:33.61,0:09:36.19,Default,,0,0,0,,(wind howling)
 Dialogue: 0,0:09:42.19,0:09:43.19,Default,,0,0,0,,Jinn.
 Dialogue: 0,0:09:47.44,0:09:48.36,Default,,0,0,0,,- What?
-Dialogue: 0,0:09:49.65,0:09:52.40,Default,,0,0,0,,(mystical music)
-Dialogue: 0,0:10:29.82,0:10:31.95,Default,,0,0,0,,(moans)
 Dialogue: 0,0:10:31.94,0:10:33.02,Default,,0,0,0,,- Wonderful.
 Dialogue: 0,0:10:36.36,0:10:40.07,Default,,0,0,0,,Tell me, what knowledge do you seek?
-Dialogue: 0,0:10:43.32,0:10:44.53,Default,,0,0,0,,(footsteps)
-Dialogue: 0,0:10:44.53,0:10:47.53,Default,,0,0,0,,(suspenseful music)
 Dialogue: 0,0:10:52.86,0:10:57.57,Default,,0,0,0,,-[Newscaster] The perpetrators, Cinder Fall,\NHazel Rainart, Emerald Sustrai, and Mercury Black,
 Dialogue: 0,0:10:57.57,0:11:01.20,Default,,0,0,0,,have still not been seen since the attack\Nand are presumed to have fled the city.
 Dialogue: 0,0:11:01.65,0:11:05.11,Default,,0,0,0,,The Mistral police department is offering a reward to any citizen...
-Dialogue: 0,0:11:05.11,0:11:08.03,Default,,0,0,0,,(rain and thunder)
-Dialogue: 0,0:11:14.69,0:11:18.61,Default,,0,0,0,,(market chatter)
-Dialogue: 0,0:11:18.61,0:11:21.61,Default,,0,0,0,,(foreboding music)
-Dialogue: 0,0:11:27.44,0:11:30.44,Default,,0,0,0,,(animal screeching)
-Dialogue: 0,0:11:41.11,0:11:43.44,Default,,0,0,0,,(footsteps)
-Dialogue: 0,0:11:51.90,0:11:54.36,Default,,0,0,0,,(creaking floorboards)
 Dialogue: 0,0:11:54.36,0:11:56.03,Default,,0,0,0,,- That's far enough.
-Dialogue: 0,0:12:03.82,0:12:06.57,Default,,0,0,0,,(liens clatter)
 Dialogue: 0,0:12:06.57,0:12:07.53,Default,,0,0,0,,- Okay.
 Dialogue: 0,0:12:15.11,0:12:16.78,Default,,0,0,0,,- You're Lil' Miss Malachite?
 Dialogue: 0,0:12:18.65,0:12:20.61,Default,,0,0,0,,- I'm Lil' Miss Gon'-Skin-You-Alive
@@ -210,10 +190,8 @@ Dialogue: 0,0:12:24.19,0:12:26.40,Default,,0,0,0,,Looks like your life's savings
 Dialogue: 0,0:12:26.40,0:12:27.57,Default,,0,0,0,,- It was somebody's.
 Dialogue: 0,0:12:28.86,0:12:30.53,Default,,0,0,0,,- (laughs) Cute.
 Dialogue: 0,0:12:31.44,0:12:32.82,Default,,0,0,0,,What do you want for it?
-Dialogue: 0,0:12:33.98,0:12:34.86,Default,,0,0,0,,(electronic beep)
 Dialogue: 0,0:12:34.86,0:12:37.03,Default,,0,0,0,,- [Cinder] I'm looking\Nfor these travelers.
 Dialogue: 0,0:12:38.98,0:12:43.44,Default,,0,0,0,,- Well sweetheart, you\Ncame to the right place.
-Dialogue: 0,0:12:45.07,0:12:47.57,Default,,0,0,0,,(gasps)
 Dialogue: 0,0:12:47.57,0:12:50.53,Default,,0,0,0,,(chuckles) A little jumpy today, hmm?
 Dialogue: 0,0:12:51.40,0:12:53.94,Default,,0,0,0,,You know I used to be afraid of spiders.
 Dialogue: 0,0:12:54.98,0:12:57.48,Default,,0,0,0,,Want to know what I did about it?
@@ -222,13 +200,11 @@ Dialogue: 0,0:12:59.28,0:13:02.57,Default,,0,0,0,,- Oh no, the world needs spide
 Dialogue: 0,0:13:03.69,0:13:06.61,Default,,0,0,0,,I just made the spiders work for me.
 Dialogue: 0,0:13:16.65,0:13:17.82,Default,,0,0,0,,Give us a week.
 Dialogue: 0,0:13:18.73,0:13:20.31,Default,,0,0,0,,We'll find your travelers.
-Dialogue: 0,0:13:26.90,0:13:29.23,Default,,0,0,0,,(footsteps)
 Dialogue: 0,0:13:31.61,0:13:33.99,Default,,0,0,0,,- Lil' Miss, we already\Nknow where they are.
 Dialogue: 0,0:13:33.98,0:13:35.94,Default,,0,0,0,,That big guy asked about 'em last week.
 Dialogue: 0,0:13:35.94,0:13:37.40,Default,,0,0,0,,- I know we know,
 Dialogue: 0,0:13:38.28,0:13:41.07,Default,,0,0,0,,but what we don't know
 Dialogue: 0,0:13:41.07,0:13:44.45,Default,,0,0,0,,is who here in Mistral\Nmight be asking about her.
-Dialogue: 0,0:13:48.48,0:13:50.15,Default,,0,0,0,,(clicking)\N(electronic flutter)
 Dialogue: 0,0:13:50.32,0:13:51.53,Default,,0,0,0,,- I am Jinn.
 Dialogue: 0,0:13:51.69,0:13:55.40,Default,,0,0,0,,A being created by the God\Nof Light to aid humanity
 Dialogue: 0,0:13:55.40,0:13:57.57,Default,,0,0,0,,in its pursuit of knowledge.

@@ -32,7 +32,6 @@ Dialogue: 0,0:01:46.70,0:01:49.30,Karaoke,,0,0,0,,{\kf20}As {\kf76}sun {\kf72}se
 Dialogue: 0,0:01:49.54,0:01:51.88,Karaoke,,0,0,0,,{\kf25}We'll {\kf70}find {\kf64}our {\kf75}way
 Dialogue: 0,0:01:51.88,0:01:56.74,Karaoke,,0,0,0,,{\kf34}And {\kf36}we’ll {\kf34}catch {\kf37}that {\kf34}dream {\kf101}together {\kf61}someday {\kf149}soon
 Dialogue: 0,0:01:56.93,0:02:01.51,Karaoke,,0,0,0,,{\kf17}We’re {\kf43}rising {\kf32}like {\kf41}the {\kf325}moon
-Dialogue: 0,0:02:13.75,0:02:16.46,Default,,0,0,0,,(seagulls crying)
 Dialogue: 0,0:02:16.46,0:02:18.75,Default,,0,0,0,,- C'mon! You didn't even hear us out!
 Dialogue: 0,0:02:18.75,0:02:22.00,Default,,0,0,0,,- Our orders are clear! The\NMistral-Atlas border is closed!
 Dialogue: 0,0:02:22.29,0:02:22.71,Default,,0,0,0,,- Please!
@@ -74,11 +73,9 @@ Dialogue: 0,0:03:50.58,0:03:52.54,Default,,0,0,0,,screening list for life!
 Dialogue: 0,0:03:52.54,0:03:54.71,Default,,0,0,0,,- You've gotta be kidding me.
 Dialogue: 0,0:03:54.71,0:03:58.04,Default,,0,0,0,,- Now, now. Let's not give up hope yet.
 Dialogue: 0,0:03:59.79,0:04:01.21,Default,,0,0,0,,Maybe she's dead.
-Dialogue: 0,0:04:01.88,0:04:05.26,Default,,0,0,0,,(emphatic music)
 Dialogue: 0,0:04:07.46,0:04:08.63,Default,,0,0,0,,- Introducing!
 Dialogue: 0,0:04:08.63,0:04:10.59,Default,,0,0,0,,- Special operative!
 Dialogue: 0,0:04:10.83,0:04:13.41,Default,,0,0,0,,- Caroline Cordovin!
-Dialogue: 0,0:04:14.25,0:04:17.75,Default,,0,0,0,,(heavy boots approaching)
 Dialogue: 0,0:04:26.04,0:04:27.17,Default,,0,0,0,,- Witch.
 Dialogue: 0,0:04:27.71,0:04:28.79,Default,,0,0,0,,- She-devil.
 Dialogue: 0,0:04:29.75,0:04:31.54,Default,,0,0,0,,- Hm, I've seen you've chosen larger
@@ -128,7 +125,6 @@ Dialogue: 0,0:06:29.04,0:06:31.46,Default,,0,0,0,,But the Kingdom will not be re
 Dialogue: 0,0:06:31.46,0:06:35.63,Default,,0,0,0,,for her "friends" of\Nquestionable character.
 Dialogue: 0,0:06:36.63,0:06:38.42,Default,,0,0,0,,- What's that supposed to mean?
 Dialogue: 0,0:06:38.67,0:06:39.59,Default,,0,0,0,,- It means we're done here.
-Dialogue: 0,0:06:39.92,0:06:42.42,Default,,0,0,0,,(metal roughly clanging)
 Dialogue: 0,0:06:45.25,0:06:47.79,Default,,0,0,0,,- Oh yeah? Well you're face looks...
 Dialogue: 0,0:06:48.17,0:06:50.17,Default,,0,0,0,,Like a big dumb boot!
 Dialogue: 0,0:06:50.17,0:06:52.09,Default,,0,0,0,,- Way to show her, Nora.
@@ -171,7 +167,6 @@ Dialogue: 0,0:08:34.67,0:08:35.46,Default,,0,0,0,,- Jaune!
 Dialogue: 0,0:08:35.46,0:08:37.25,Default,,0,0,0,,- How do we even know it's really him?
 Dialogue: 0,0:08:37.25,0:08:39.17,Default,,0,0,0,,What if we've been talking\Nto that liar this whole time?
 Dialogue: 0,0:08:39.17,0:08:39.80,Default,,0,0,0,,- Jaune!
-Dialogue: 0,0:08:59.79,0:09:00.92,Default,,0,0,0,,(door slams closed)
 Dialogue: 0,0:09:02.67,0:09:05.05,Default,,0,0,0,,- Is he gonna be okay?
 Dialogue: 0,0:09:05.38,0:09:06.42,Default,,0,0,0,,- I don't know!
 Dialogue: 0,0:09:09.58,0:09:12.83,Default,,0,0,0,,- I think it would be best if\Nwe had some time to ourselves.

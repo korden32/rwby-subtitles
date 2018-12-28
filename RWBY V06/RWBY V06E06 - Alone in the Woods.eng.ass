@@ -41,9 +41,6 @@ Dialogue: 0,0:02:29.44,0:02:30.96,Default,,0,0,0,,Especially with me around.
 Dialogue: 0,0:02:33.44,0:02:38.06,Default,,0,0,0,,- Are you okay?\N- (scoffs) Sure.
 Dialogue: 0,0:02:38.75,0:02:40.60,Default,,0,0,0,,Tell everyone to get some sleep.
 Dialogue: 0,0:02:40.60,0:02:43.28,Default,,0,0,0,,I'll wake you guys up just before sunrise.
-Dialogue: 0,0:02:46.73,0:02:50.08,Default,,0,0,0,,(liquid swishes)\N(gulping)
-Dialogue: 0,0:02:50.08,0:02:52.42,Default,,0,0,0,,(Qrow sighs)
-Dialogue: 0,0:02:52.42,0:02:53.77,Default,,0,0,0,,(fire crackling)
 Dialogue: 0,0:02:53.77,0:02:55.55,Default,,0,0,0,,- [Oscar] It's a diary?
 Dialogue: 0,0:02:55.55,0:02:58.67,Default,,0,0,0,,- The head of this household, Bartleby.
 Dialogue: 0,0:02:58.67,0:03:01.72,Default,,0,0,0,,Apparently he and several other families
@@ -62,15 +59,11 @@ Dialogue: 0,0:03:33.00,0:03:33.85,Default,,0,0,0,,- Thank goodness.
 Dialogue: 0,0:03:39.10,0:03:41.29,Default,,0,0,0,,- The last thing you'll catch me doing
 Dialogue: 0,0:03:41.29,0:03:44.21,Default,,0,0,0,,is letting some kid tell me what to do.
 Dialogue: 0,0:03:44.21,0:03:47.11,Default,,0,0,0,,"Go to bed!" (scoffs)
-Dialogue: 0,0:04:15.19,0:04:16.35,Default,,0,0,0,,(bottle clatters)
-Dialogue: 0,0:04:16.35,0:04:18.52,Default,,0,0,0,,(screams)
 Dialogue: 0,0:04:32.32,0:04:34.06,Default,,0,0,0,,- Close the window!
 Dialogue: 0,0:04:41.00,0:04:42.15,Default,,0,0,0,,- Uncle Qrow?
 Dialogue: 0,0:04:43.07,0:04:45.50,Default,,0,0,0,,Come on, get up.
 Dialogue: 0,0:04:45.50,0:04:48.56,Default,,0,0,0,,- (groans) Leave me alone.
 Dialogue: 0,0:04:48.56,0:04:51.07,Default,,0,0,0,,- [Ruby] We overslept.
-Dialogue: 0,0:04:51.07,0:04:53.15,Default,,0,0,0,,(groans)
-Dialogue: 0,0:04:59.23,0:05:00.17,Default,,0,0,0,,(bottle shatters)
 Dialogue: 0,0:05:00.17,0:05:02.92,Default,,0,0,0,,- (groans) What?
 Dialogue: 0,0:05:06.69,0:05:08.02,Default,,0,0,0,,Oh, right.
 Dialogue: 0,0:05:09.12,0:05:10.16,Default,,0,0,0,,Sunrise.
@@ -82,12 +75,9 @@ Dialogue: 0,0:05:36.87,0:05:39.34,Default,,0,0,0,,- Can we just go back to bed?
 Dialogue: 0,0:05:39.34,0:05:42.53,Default,,0,0,0,,- If we're all so tired, maybe\Nwe should make breakfast?
 Dialogue: 0,0:05:42.53,0:05:44.06,Default,,0,0,0,,- You wanna make it?
 Dialogue: 0,0:05:44.06,0:05:45.63,Default,,0,0,0,,- Not really.
-Dialogue: 0,0:05:47.38,0:05:50.30,Default,,0,0,0,,(trailer clatters)
 Dialogue: 0,0:05:51.35,0:05:53.55,Default,,0,0,0,,- You guys got the bike ready?
 Dialogue: 0,0:05:53.55,0:05:54.82,Default,,0,0,0,,- Well, it's done now.
 Dialogue: 0,0:05:54.82,0:05:56.68,Default,,0,0,0,,So let's hook this thing up.
-Dialogue: 0,0:05:56.68,0:05:59.74,Default,,0,0,0,,(tires hissing)
-Dialogue: 0,0:05:59.74,0:06:01.82,Default,,0,0,0,,(groans)
 Dialogue: 0,0:06:03.51,0:06:06.50,Default,,0,0,0,,- You people are just beacons\Nfor bad luck, aren't you?
 Dialogue: 0,0:06:15.80,0:06:17.00,Default,,0,0,0,,- I'm starting to think the universe
 Dialogue: 0,0:06:17.00,0:06:19.81,Default,,0,0,0,,just doesn't want us getting to Atlas.
@@ -117,8 +107,6 @@ Dialogue: 0,0:07:25.67,0:07:27.57,Default,,0,0,0,,it would take years.
 Dialogue: 0,0:07:27.57,0:07:29.62,Default,,0,0,0,,It might not even happen in our lifetime.
 Dialogue: 0,0:07:30.91,0:07:32.87,Default,,0,0,0,,But we could be done with it now.
 Dialogue: 0,0:07:50.43,0:07:53.98,Default,,0,0,0,,(snow crunches)\N- I am really tired.
-Dialogue: 0,0:08:10.34,0:08:12.34,Default,,0,0,0,,(sighs)
-Dialogue: 0,0:08:15.63,0:08:20.39,Default,,0,0,0,,(dramatic instrumental music)\N(Ruby screams)
 Dialogue: 0,0:08:20.39,0:08:22.81,Default,,0,0,0,,No, no, no, I didn't mean to!
 Dialogue: 0,0:08:24.08,0:08:26.27,Default,,0,0,0,,- Ruby, it's okay.\N- No!
 Dialogue: 0,0:08:26.27,0:08:27.69,Default,,0,0,0,,No, there's something down there.
@@ -141,33 +129,22 @@ Dialogue: 0,0:09:08.99,0:09:10.97,Default,,0,0,0,,Oscar, fix the stupid tire.
 Dialogue: 0,0:09:12.60,0:09:14.27,Default,,0,0,0,,- Where are you going?
 Dialogue: 0,0:09:14.27,0:09:15.36,Default,,0,0,0,,- Where do you think?
 Dialogue: 0,0:09:18.03,0:09:18.86,Default,,0,0,0,,- Stupid.
-Dialogue: 0,0:09:25.60,0:09:28.43,Default,,0,0,0,,(water splashing)
 Dialogue: 0,0:09:36.19,0:09:37.99,Default,,0,0,0,,- Maybe the current carried it away.
 Dialogue: 0,0:10:05.38,0:10:07.13,Default,,0,0,0,,- Oh, come on, where is it?
 Dialogue: 0,0:10:07.26,0:10:09.76,Default,,0,0,0,,- Turn off your lights and\Njust look for the glow.
 Dialogue: 0,0:10:11.72,0:10:12.59,Default,,0,0,0,,- Okay.
-Dialogue: 0,0:10:16.90,0:10:20.73,Default,,0,0,0,,(dramatic instrumental music)
 Dialogue: 0,0:10:25.20,0:10:26.03,Default,,0,0,0,,- There.
-Dialogue: 0,0:10:40.37,0:10:43.20,Default,,0,0,0,,(water splashing)
 Dialogue: 0,0:10:44.40,0:10:45.23,Default,,0,0,0,,- Guys, I.
-Dialogue: 0,0:10:47.30,0:10:51.13,Default,,0,0,0,,(dramatic instrumental music)
-Dialogue: 0,0:10:56.58,0:10:59.01,Default,,0,0,0,,(screaming)
 Dialogue: 0,0:10:59.01,0:10:59.84,Default,,0,0,0,,- Ruby?!
 Dialogue: 0,0:11:04.54,0:11:05.46,Default,,0,0,0,,What is it?
-Dialogue: 0,0:11:07.04,0:11:10.87,Default,,0,0,0,,(dramatic instrumental music)
-Dialogue: 0,0:11:12.93,0:11:16.41,Default,,0,0,0,,(weapon firing)
-Dialogue: 0,0:11:16.41,0:11:19.54,Default,,0,0,0,,(Grimm groan)
 Dialogue: 0,0:11:19.55,0:11:21.28,Default,,0,0,0,,What is this?
 Dialogue: 0,0:11:21.28,0:11:24.70,Default,,0,0,0,,- My weapon feels heavy.
 Dialogue: 0,0:11:24.70,0:11:25.53,Default,,0,0,0,,- Run!
 Dialogue: 0,0:11:26.41,0:11:28.03,Default,,0,0,0,,Now!
-Dialogue: 0,0:11:28.27,0:11:31.74,Default,,0,0,0,,(dramatic instrumental music)
 Dialogue: 0,0:11:31.74,0:11:32.57,Default,,0,0,0,,- Go, go!
 Dialogue: 0,0:11:44.82,0:11:45.74,Default,,0,0,0,,- This way!
-Dialogue: 0,0:11:47.99,0:11:51.82,Default,,0,0,0,,(dramatic instrumental music)
 Dialogue: 0,0:12:23.27,0:12:24.60,Default,,0,0,0,,- Can't do this.
 Dialogue: 0,0:12:25.54,0:12:26.37,Default,,0,0,0,,Can't.
-Dialogue: 0,0:12:27.24,0:12:29.49,Default,,0,0,0,,(groaning)
 Dialogue: 0,0:12:33.69,0:12:34.89,Default,,0,0,0,,- An exit.
 Dialogue: 0,0:12:35.01,0:12:35.84,Default,,0,0,0,,An exit!
 Dialogue: 0,0:12:44.23,0:12:45.06,Default,,0,0,0,,- Come on!
@@ -175,14 +152,11 @@ Dialogue: 0,0:12:51.11,0:12:52.36,Default,,0,0,0,,Blake,
 Dialogue: 0,0:12:52.37,0:12:53.66,Default,,0,0,0,,get up.
 Dialogue: 0,0:12:54.35,0:12:56.19,Default,,0,0,0,,It's fine.
 Dialogue: 0,0:13:17.68,0:13:18.51,Default,,0,0,0,,Blake!
-Dialogue: 0,0:13:19.93,0:13:22.85,Default,,0,0,0,,(Grimm hissing)
 Dialogue: 0,0:13:27.05,0:13:28.31,Default,,0,0,0,,- I've got her.
 Dialogue: 0,0:13:28.31,0:13:29.63,Default,,0,0,0,,What just happened?
 Dialogue: 0,0:13:31.11,0:13:34.53,Default,,0,0,0,,(doors clatter)\N- They're locked!
 Dialogue: 0,0:13:35.13,0:13:36.60,Default,,0,0,0,,- Out of my way!
-Dialogue: 0,0:13:43.09,0:13:45.34,Default,,0,0,0,,(groaning)
 Dialogue: 0,0:13:45.62,0:13:47.48,Default,,0,0,0,,No, no!
-Dialogue: 0,0:13:49.73,0:13:53.56,Default,,0,0,0,,(dramatic instrumental music)
 Dialogue: 0,0:13:59.28,0:14:00.18,Default,,0,0,0,,- [Maria] Ruby,
 Dialogue: 0,0:14:01.45,0:14:04.41,Default,,0,0,0,,what color are your eyes?
 Dialogue: 0,0:14:04.61,0:14:06.56,Default,,0,0,0,,- They're silver.
@@ -197,8 +171,6 @@ Dialogue: 0,0:14:34.17,0:14:36.29,Default,,0,0,0,,Life is beautiful.
 Dialogue: 0,0:14:38.05,0:14:39.25,Default,,0,0,0,,It is precious.
 Dialogue: 0,0:14:43.00,0:14:44.34,Default,,0,0,0,,And it must
 Dialogue: 0,0:14:44.64,0:14:47.33,Default,,0,0,0,,be protected.
-Dialogue: 0,0:14:54.51,0:14:57.34,Default,,0,0,0,,(Grimm shrieks)
-Dialogue: 0,0:15:12.07,0:15:15.64,Default,,0,0,0,,(dramatic instrumental music)
 Dialogue: 0,0:15:21.23,0:15:22.70,Default,,0,0,0,,- We're back in the house?
 Dialogue: 0,0:15:26.53,0:15:27.94,Default,,0,0,0,,- Uncle Qrow, get up!
 Dialogue: 0,0:15:27.94,0:15:29.44,Default,,0,0,0,,- Hey, get off me!
@@ -209,17 +181,12 @@ Dialogue: 0,0:15:38.83,0:15:39.66,Default,,0,0,0,,- Not yet.
 Dialogue: 0,0:15:44.82,0:15:45.65,Default,,0,0,0,,- Oscar!
 Dialogue: 0,0:15:46.67,0:15:47.88,Default,,0,0,0,,Oscar!
 Dialogue: 0,0:15:49.40,0:15:51.03,Default,,0,0,0,,We have to go, now!
-Dialogue: 0,0:15:54.81,0:15:57.77,Default,,0,0,0,,(bottles shattering)
 Dialogue: 0,0:15:57.77,0:15:58.99,Default,,0,0,0,,- Hey!
 Dialogue: 0,0:15:58.99,0:16:01.62,Default,,0,0,0,,Hey, what are you doing?
-Dialogue: 0,0:16:06.76,0:16:09.68,Default,,0,0,0,,(flames crackling)
 Dialogue: 0,0:16:13.43,0:16:14.54,Default,,0,0,0,,- Now we can leave.
 Dialogue: 0,0:16:16.34,0:16:19.02,Default,,0,0,0,,- Stop it, stop!
 Dialogue: 0,0:16:19.02,0:16:20.33,Default,,0,0,0,,What's wrong with you?
 Dialogue: 0,0:16:20.33,0:16:21.33,Default,,0,0,0,,What's...
-Dialogue: 0,0:16:24.04,0:16:27.87,Default,,0,0,0,,(dramatic instrumental music)
-Dialogue: 0,0:16:30.86,0:16:33.69,Default,,0,0,0,,(engines revving)
-Dialogue: 0,0:16:35.61,0:16:38.53,Default,,0,0,0,,(flames crackling)
 Dialogue: 0,0:16:47.50,0:16:48.38,Default,,0,0,0,,- The Apathy.
 Dialogue: 0,0:16:50.62,0:16:53.36,Default,,0,0,0,,They're not strong or ferocious.
 Dialogue: 0,0:16:56.47,0:16:58.71,Default,,0,0,0,,They drain your will to go on.

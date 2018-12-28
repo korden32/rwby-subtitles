@@ -65,7 +65,6 @@ Dialogue: 0,0:03:30.77,0:03:33.48,Default,,0,0,0,,Or at least that's what should
 Dialogue: 0,0:03:34.89,0:03:39.85,Default,,0,0,0,,Ozma, the infallible\Nhero of legend, fell ill.
 Dialogue: 0,0:03:39.85,0:03:42.93,Default,,0,0,0,,And where all of the beasts\Nand blades of the world
 Dialogue: 0,0:03:42.93,0:03:46.68,Default,,0,0,0,,had fallen short, a\Nsingle sickness prevailed.
-Dialogue: 0,0:03:46.68,0:03:49.10,Default,,0,0,0,,(Salem sobs)
 Dialogue: 0,0:03:52.43,0:03:55.18,Default,,0,0,0,,- How could the gods let this happen?
 Dialogue: 0,0:03:55.18,0:03:59.10,Default,,0,0,0,,- [Jinn] The gods,\Nbrothers of light and darkness,
 Dialogue: 0,0:03:59.10,0:04:01.64,Default,,0,0,0,,creation and destruction.
@@ -75,7 +74,6 @@ Dialogue: 0,0:04:10.18,0:04:13.22,Default,,0,0,0,,The Domain of Light was a sacr
 Dialogue: 0,0:04:18.39,0:04:20.52,Default,,0,0,0,,It was here the elder brother dwelled
 Dialogue: 0,0:04:20.52,0:04:23.23,Default,,0,0,0,,beside his fountain of life and creation.
 Dialogue: 0,0:04:25.43,0:04:30.22,Default,,0,0,0,,It was here where mankind\Nwould fall to ruin.
-Dialogue: 0,0:04:43.31,0:04:46.06,Default,,0,0,0,,(dramatic music)
 Dialogue: 0,0:04:59.98,0:05:00.81,Default,,0,0,0,,- Please.
 Dialogue: 0,0:05:02.02,0:05:04.06,Default,,0,0,0,,Please bring him back to me.
 Dialogue: 0,0:05:05.23,0:05:09.11,Default,,0,0,0,,- I understand your pain,\Nbut you demand of me
@@ -93,20 +91,17 @@ Dialogue: 0,0:06:00.27,0:06:02.81,Default,,0,0,0,,as men knew what monstrosities
 Dialogue: 0,0:06:02.81,0:06:05.02,Default,,0,0,0,,from his blackened pools of annihilation.
 Dialogue: 0,0:06:07.56,0:06:10.94,Default,,0,0,0,,And so you must understand\Nthe Dark Lord's surprise
 Dialogue: 0,0:06:10.93,0:06:13.85,Default,,0,0,0,,when he found a lone\Nwoman kneeling before him.
-Dialogue: 0,0:06:16.48,0:06:19.23,Default,,0,0,0,,(dramatic music)
 Dialogue: 0,0:06:29.43,0:06:31.81,Default,,0,0,0,,Salem understood it well.
 Dialogue: 0,0:06:31.81,0:06:34.39,Default,,0,0,0,,She told him of the loss and professed
 Dialogue: 0,0:06:34.39,0:06:38.27,Default,,0,0,0,,that she knew only he\Ncould answer her prayers,
 Dialogue: 0,0:06:38.27,0:06:41.35,Default,,0,0,0,,all while careful to make\Nno mention of his elder.
 Dialogue: 0,0:06:42.93,0:06:43.97,Default,,0,0,0,,- Rise, child.
 Dialogue: 0,0:06:45.18,0:06:47.26,Default,,0,0,0,,And let your faith in me be rewarded.
-Dialogue: 0,0:07:01.77,0:07:03.44,Default,,0,0,0,,(Ozma gasps)
 Dialogue: 0,0:07:03.43,0:07:04.72,Default,,0,0,0,,- Where am I?
 Dialogue: 0,0:07:04.73,0:07:05.81,Default,,0,0,0,,What is this?
 Dialogue: 0,0:07:05.81,0:07:06.64,Default,,0,0,0,,Where am I?
 Dialogue: 0,0:07:06.64,0:07:07.64,Default,,0,0,0,,- It's okay.
 Dialogue: 0,0:07:07.64,0:07:09.81,Default,,0,0,0,,Everything's going to be okay.
-Dialogue: 0,0:07:09.81,0:07:12.64,Default,,0,0,0,,(thunder rumbles)
 Dialogue: 0,0:07:15.18,0:07:17.68,Default,,0,0,0,,- What have you done?
 Dialogue: 0,0:07:17.68,0:07:20.26,Default,,0,0,0,,- I have done what I please, brother.
 Dialogue: 0,0:07:21.23,0:07:23.44,Default,,0,0,0,,You may bask in the powers of creation,
@@ -114,7 +109,6 @@ Dialogue: 0,0:07:23.43,0:07:24.76,Default,,0,0,0,,but you do not own them.
 Dialogue: 0,0:07:25.68,0:07:27.93,Default,,0,0,0,,- This is not creation.
 Dialogue: 0,0:07:27.93,0:07:29.31,Default,,0,0,0,,- Do not lecture me!
 Dialogue: 0,0:07:34.98,0:07:37.77,Default,,0,0,0,,- I will do what I must to maintain order.
-Dialogue: 0,0:07:37.77,0:07:40.52,Default,,0,0,0,,(dramatic music)
 Dialogue: 0,0:07:44.85,0:07:46.02,Default,,0,0,0,,- No!
 Dialogue: 0,0:07:46.02,0:07:46.85,Default,,0,0,0,,No!
 Dialogue: 0,0:07:46.85,0:07:47.68,Default,,0,0,0,,What did you do?
@@ -126,7 +120,6 @@ Dialogue: 0,0:07:58.48,0:08:01.94,Default,,0,0,0,,- Rules that I now see\Nare ev
 Dialogue: 0,0:08:01.93,0:08:04.60,Default,,0,0,0,,And yet, the day a mortal\Ncomes to pray at my feet
 Dialogue: 0,0:08:04.60,0:08:07.31,Default,,0,0,0,,before your own, so do you arrive
 Dialogue: 0,0:08:07.31,0:08:09.35,Default,,0,0,0,,to lay your judgment upon me.
-Dialogue: 0,0:08:14.85,0:08:17.77,Default,,0,0,0,,(explosion blasts)
 Dialogue: 0,0:08:21.06,0:08:23.69,Default,,0,0,0,,- I know we have our differences,
 Dialogue: 0,0:08:23.68,0:08:26.56,Default,,0,0,0,,but I have not come here\Nwith the aim to control you.
 Dialogue: 0,0:08:27.48,0:08:31.23,Default,,0,0,0,,The same, however, cannot be said for her.
@@ -141,7 +134,6 @@ Dialogue: 0,0:08:56.43,0:08:57.81,Default,,0,0,0,,You,
 Dialogue: 0,0:08:57.81,0:08:58.89,Default,,0,0,0,,you monsters!
 Dialogue: 0,0:08:59.81,0:09:01.39,Default,,0,0,0,,Give him back to me!
 Dialogue: 0,0:09:01.39,0:09:02.56,Default,,0,0,0,,Give him back!
-Dialogue: 0,0:09:05.10,0:09:08.18,Default,,0,0,0,,(God of Light roars)
 Dialogue: 0,0:09:22.56,0:09:25.69,Default,,0,0,0,,- When you first came\Nto me, I did pity you.
 Dialogue: 0,0:09:27.31,0:09:28.31,Default,,0,0,0,,But it is clear now
 Dialogue: 0,0:09:28.31,0:09:31.48,Default,,0,0,0,,that your selfishness and\Narrogance have led you astray.
@@ -159,7 +151,6 @@ Dialogue: 0,0:10:01.43,0:10:03.93,Default,,0,0,0,,- [Jinn] Salem was\Na prisoner
 Dialogue: 0,0:10:03.93,0:10:06.68,Default,,0,0,0,,Her fruitless attempts\Nto reunite with Ozma
 Dialogue: 0,0:10:06.68,0:10:08.18,Default,,0,0,0,,eventually became nothing more
 Dialogue: 0,0:10:08.18,0:10:11.18,Default,,0,0,0,,than acts of spite and\Ndefiance against the gods.
-Dialogue: 0,0:10:11.18,0:10:13.76,Default,,0,0,0,,(Salem groans)
 Dialogue: 0,0:10:16.64,0:10:20.89,Default,,0,0,0,,But perhaps the gods were not\Nas powerful as they seemed.
 Dialogue: 0,0:10:20.89,0:10:23.97,Default,,0,0,0,,She had lied to them, turned\Nthem against one another.
 Dialogue: 0,0:10:23.98,0:10:27.81,Default,,0,0,0,,They were fallible.
@@ -178,19 +169,16 @@ Dialogue: 0,0:10:59.31,0:11:02.02,Default,,0,0,0,,when they would no longer\Nhav
 Dialogue: 0,0:11:02.02,0:11:04.94,Default,,0,0,0,,wither and die, when they\Ncould claim the powers
 Dialogue: 0,0:11:04.93,0:11:07.06,Default,,0,0,0,,of their creators for themselves,
 Dialogue: 0,0:11:07.06,0:11:09.77,Default,,0,0,0,,and in turn, perfect their own design.
-Dialogue: 0,0:11:09.77,0:11:12.35,Default,,0,0,0,,(crowd cheers)
 Dialogue: 0,0:11:13.23,0:11:17.98,Default,,0,0,0,,All they needed to do was\Ndestroy their old masters.
 Dialogue: 0,0:11:19.48,0:11:21.48,Default,,0,0,0,,The gods had hoped that Salem would learn
 Dialogue: 0,0:11:21.48,0:11:24.86,Default,,0,0,0,,from her eternal curse, and she did.
 Dialogue: 0,0:11:25.77,0:11:29.31,Default,,0,0,0,,She learned that the hearts\Nof men are easily swayed.
 Dialogue: 0,0:11:37.23,0:11:39.61,Default,,0,0,0,,- [God of Light] Who has\Nled you down this path?
 Dialogue: 0,0:11:47.93,0:11:48.76,Default,,0,0,0,,- You.
-Dialogue: 0,0:11:50.10,0:11:53.10,Default,,0,0,0,,(suspenseful music)
 Dialogue: 0,0:12:00.43,0:12:02.56,Default,,0,0,0,,My own gift to them...
 Dialogue: 0,0:12:03.23,0:12:04.77,Default,,0,0,0,,used against me.
 Dialogue: 0,0:12:24.64,0:12:26.22,Default,,0,0,0,,- No.
 Dialogue: 0,0:12:26.23,0:12:27.06,Default,,0,0,0,,No.
-Dialogue: 0,0:12:27.06,0:12:28.73,Default,,0,0,0,,(Salem grunts)
 Dialogue: 0,0:12:28.73,0:12:31.61,Default,,0,0,0,,- You thought there was\Nno greater punishment
 Dialogue: 0,0:12:31.60,0:12:33.98,Default,,0,0,0,,we could bestow upon you?
 Dialogue: 0,0:12:33.98,0:12:35.15,Default,,0,0,0,,- I'll come back.
@@ -207,7 +195,6 @@ Dialogue: 0,0:13:05.73,0:13:08.15,Default,,0,0,0,,- No, you can't leave.
 Dialogue: 0,0:13:08.14,0:13:09.60,Default,,0,0,0,,You can't leave!
 Dialogue: 0,0:13:09.60,0:13:11.18,Default,,0,0,0,,Come back!
 Dialogue: 0,0:13:11.18,0:13:13.93,Default,,0,0,0,,- Still demanding things of your creators.
-Dialogue: 0,0:13:32.68,0:13:34.76,Default,,0,0,0,,(explosion blasts)
 Dialogue: 0,0:13:34.77,0:13:37.94,Default,,0,0,0,,- [Jinn] Once again, Salem was alone.
 Dialogue: 0,0:13:41.31,0:13:42.94,Default,,0,0,0,,She cursed the gods.
 Dialogue: 0,0:13:42.93,0:13:44.97,Default,,0,0,0,,She cursed the universe.
@@ -226,7 +213,6 @@ Dialogue: 0,0:14:23.81,0:14:27.14,Default,,0,0,0,,could not destroy a\Nbeing of 
 Dialogue: 0,0:14:27.14,0:14:31.18,Default,,0,0,0,,Instead, it created a\Nbeing of infinite life
 Dialogue: 0,0:14:31.18,0:14:33.68,Default,,0,0,0,,with a desire for pure destruction.
 Dialogue: 0,0:14:36.02,0:14:39.27,Default,,0,0,0,,And in time, she would find her adversary.
-Dialogue: 0,0:14:42.89,0:14:45.64,Default,,0,0,0,,(dramatic music)
 Dialogue: 0,0:15:02.81,0:15:04.64,Default,,0,0,0,,- [God ff Light] Ozma.
 Dialogue: 0,0:15:09.77,0:15:11.81,Default,,0,0,0,,- Where am I?
 Dialogue: 0,0:15:12.93,0:15:14.60,Default,,0,0,0,,- We are between realms.
@@ -271,9 +257,7 @@ Dialogue: 0,0:17:22.35,0:17:23.18,Default,,0,0,0,,- I'll do it.
 Dialogue: 0,0:17:24.89,0:17:25.77,Default,,0,0,0,,- Very well.
 Dialogue: 0,0:17:26.93,0:17:29.85,Default,,0,0,0,,Our creation rests within your hands.
 Dialogue: 0,0:17:33.85,0:17:36.98,Default,,0,0,0,,- [Jinn] And so Ozma was reborn.
-Dialogue: 0,0:17:39.98,0:17:42.65,Default,,0,0,0,,(crowd screams)
 Dialogue: 0,0:17:49.60,0:17:50.43,Default,,0,0,0,,- Where am I?
-Dialogue: 0,0:17:53.98,0:17:55.31,Default,,0,0,0,,(man screams)
 Dialogue: 0,0:17:55.31,0:17:56.14,Default,,0,0,0,,- Help!
 Dialogue: 0,0:18:07.18,0:18:08.26,Default,,0,0,0,,Thank you.
 Dialogue: 0,0:18:08.27,0:18:10.15,Default,,0,0,0,,Please, tell me your name.
@@ -323,13 +307,10 @@ Dialogue: 0,0:20:31.52,0:20:35.06,Default,,0,0,0,,what you want, create the para
 Dialogue: 0,0:20:35.06,0:20:36.77,Default,,0,0,0,,that the old gods could not.
 Dialogue: 0,0:20:39.10,0:20:40.68,Default,,0,0,0,,The hearts of men...
 Dialogue: 0,0:20:41.68,0:20:43.47,Default,,0,0,0,,are easily swayed.
-Dialogue: 0,0:20:43.48,0:20:46.15,Default,,0,0,0,,(crowd screams)
-Dialogue: 0,0:20:52.35,0:20:55.18,Default,,0,0,0,,(Nevermore growls)
 Dialogue: 0,0:21:16.60,0:21:19.39,Default,,0,0,0,,- [Jinn] The two amassed a following.
 Dialogue: 0,0:21:19.39,0:21:22.35,Default,,0,0,0,,That following grew into\Na prosperous kingdom.
 Dialogue: 0,0:21:23.52,0:21:25.85,Default,,0,0,0,,And at the head of that kingdom blossomed...
 Dialogue: 0,0:21:27.43,0:21:28.31,Default,,0,0,0,,a family.
-Dialogue: 0,0:21:29.85,0:21:32.60,Default,,0,0,0,,(dramatic music)
 Dialogue: 0,0:21:49.31,0:21:52.02,Default,,0,0,0,,- [Ozma] Are we sure this is right?
 Dialogue: 0,0:21:52.02,0:21:55.40,Default,,0,0,0,,- You said we needed to\Nbring humanity together.
 Dialogue: 0,0:21:55.39,0:21:58.47,Default,,0,0,0,,In order to do that, we\Nhave to spread our word
@@ -350,8 +331,6 @@ Dialogue: 0,0:22:49.81,0:22:51.56,Default,,0,0,0,,None of that matters anymore.
 Dialogue: 0,0:22:52.52,0:22:55.44,Default,,0,0,0,,Why spend our lives trying\Nto redeem these humans
 Dialogue: 0,0:22:55.43,0:22:59.22,Default,,0,0,0,,when we can replace them with\Nwhat they could never be?
 Dialogue: 0,0:23:10.64,0:23:11.47,Default,,0,0,0,,- Mommy?
-Dialogue: 0,0:23:21.14,0:23:23.89,Default,,0,0,0,,(dramatic music)
-Dialogue: 0,0:23:41.77,0:23:44.60,Default,,0,0,0,,(Grimm growl)
 Dialogue: 0,0:23:58.31,0:24:00.27,Default,,0,0,0,,- We finally had freedom.
 Dialogue: 0,0:24:03.35,0:24:04.18,Default,,0,0,0,,- I...
 Dialogue: 0,0:24:07.23,0:24:09.61,Default,,0,0,0,,- [Jinn] Thus began\Na long and painful cycle
@@ -380,4 +359,3 @@ Dialogue: 0,0:25:11.98,0:25:14.02,Default,,0,0,0,,- [Jinn] And though\NI gave hi
 Dialogue: 0,0:25:14.02,0:25:15.77,Default,,0,0,0,,- How do I destroy Salem?
 Dialogue: 0,0:25:17.14,0:25:19.85,Default,,0,0,0,,- [Jinn] Not all of them were to his liking.
 Dialogue: 0,0:25:19.85,0:25:20.68,Default,,0,0,0,,You can't.
-Dialogue: 0,0:25:26.81,0:25:29.23,Default,,0,0,0,,(wind howls)
