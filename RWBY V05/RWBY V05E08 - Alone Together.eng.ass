@@ -40,200 +40,188 @@ Dialogue: 0,0:01:09.93,0:01:12.83,Karaoke,,0,0,0,,{\kf21}We'll {\kf36}win, {\kf1
 Dialogue: 0,0:01:12.83,0:01:15.81,Karaoke,,0,0,0,,{\kf25}And {\kf49}though {\kf21}our {\kf54}goal {\kf20}is {\kf129}far
 Dialogue: 0,0:01:15.81,0:01:18.71,Karaoke,,0,0,0,,{\kf51}We'll {\kf26}be {\kf23}the {\kf41}ones {\kf24}to {\kf46}touch {\kf21}the {\kf58}sun
 Dialogue: 0,0:01:18.71,0:01:24.27,Karaoke,,0,0,0,,{\kf27}The {\kf131}Triumph {\kf73}will {\kf106}be {\kf219}ours!
-Dialogue: 0,0:01:49.05,0:01:50.20,Default,Yang,0,0,0,,You're up early.
-Dialogue: 0,0:01:51.82,0:01:52.78,Default,Ruby,0,0,0,,Hey sis.
-Dialogue: 0,0:01:53.32,0:01:54.01,Default,Yang,0,0,0,,Boop.
-Dialogue: 0,0:01:59.20,0:02:00.34,Default,Ruby,0,0,0,,What are you doing up?
-Dialogue: 0,0:02:01.29,0:02:02.42,Default,Yang,0,0,0,,Can't fall back to sleep.
-Dialogue: 0,0:02:03.00,0:02:04.22,Default,Ruby,0,0,0,,Ah, me neither.
-Dialogue: 0,0:02:05.04,0:02:06.34,Default,Weiss,0,0,0,,{\i1}Well, fortunately,{\i0}
-Dialogue: 0,0:02:07.75,0:02:09.12,Default,Weiss,0,0,0,,coffee exists.
-Dialogue: 0,0:02:17.77,0:02:18.62,Default,Ruby,0,0,0,,No, please!
-Dialogue: 0,0:02:19.14,0:02:23.42,Default,Weiss,0,0,0,,Don't worry, I put in blasphemous amounts of cream and sugar, just for you.
-Dialogue: 0,0:02:23.93,0:02:26.27,Default,Ruby,0,0,0,,Oh yeah! Nice Weiss strikes again!
-Dialogue: 0,0:02:26.96,0:02:29.38,Default,Weiss,0,0,0,,I will pour this on you and it will burn.
-Dialogue: 0,0:02:35.85,0:02:37.55,Default,Yang,0,0,0,,Can't believe we're actually in Mistral.
-Dialogue: 0,0:02:38.34,0:02:40.01,Default,Ruby,0,0,0,,That's what you can't believe?
-Dialogue: 0,0:02:40.38,0:02:41.42,Default,Yang,0,0,0,,Well, yeah!
-Dialogue: 0,0:02:41.60,0:02:43.51,Default,Yang,0,0,0,,And all the other magic and stuff.
-Dialogue: 0,0:02:43.72,0:02:44.46,Default,Yang,0,0,0,,But...
-Dialogue: 0,0:02:44.48,0:02:46.39,Default,Yang,0,0,0,,Okay, you know what I mean!
-Dialogue: 0,0:02:46.90,0:02:50.00,Default,Weiss,0,0,0,,I honestly wasn't sure if I'd ever see you two again.
-Dialogue: 0,0:02:51.53,0:02:52.22,Default,Yang,0,0,0,,Well,
-Dialogue: 0,0:02:52.56,0:02:54.69,Default,Yang,0,0,0,,here's to defying expectations.
-Dialogue: 0,0:02:58.46,0:03:00.46,Default,Ruby,0,0,0,,I just wish Blake could be here with us.
-Dialogue: 0,0:03:02.09,0:03:03.17,Default,Yang,0,0,0,,Yeah, well,
-Dialogue: 0,0:03:03.57,0:03:04.80,Default,Yang,0,0,0,,she made her choice.
-Dialogue: 0,0:03:07.54,0:03:08.98,Default,Weiss,0,0,0,,What's that supposed to mean?
-Dialogue: 0,0:03:09.62,0:03:12.55,Default,Yang,0,0,0,,I mean she could've been here if she just stuck around.
-Dialogue: 0,0:03:13.08,0:03:14.93,Default,Yang,0,0,0,,It's no big deal though. We'll be fine.
-Dialogue: 0,0:03:17.13,0:03:18.54,Default,Ruby,0,0,0,,Don't you want her here?
-Dialogue: 0,0:03:19.13,0:03:20.32,Default,Yang,0,0,0,,Why would I want her here?
-Dialogue: 0,0:03:22.72,0:03:25.12,Default,Ruby,0,0,0,,Are you still mad at her for leaving?
-Dialogue: 0,0:03:25.25,0:03:27.50,Default,Yang,0,0,0,,Oh, whatever gave you that idea, Ruby?
-Dialogue: 0,0:03:27.73,0:03:29.68,Default,Yang,0,0,0,,No, I'm totally fine. I'm great.
-Dialogue: 0,0:03:29.88,0:03:31.49,Default,Weiss,0,0,0,,Okay, calm down.
-Dialogue: 0,0:03:31.49,0:03:32.82,Default,Yang,0,0,0,,Don't tell me to calm down!
-Dialogue: 0,0:03:34.78,0:03:35.38,Default,Ruby,0,0,0,,Whoa
-Dialogue: 0,0:03:35.66,0:03:36.41,Default,Ruby,0,0,0,,Yang...
-Dialogue: 0,0:03:43.14,0:03:43.99,Default,Yang,0,0,0,,Whatever.
-Dialogue: 0,0:03:56.51,0:03:57.47,Default,Sun,0,0,0,,{\i1}Hey Blake!{\i0}
-Dialogue: 0,0:03:57.78,0:03:58.94,Default,Sun,0,0,0,,{\i1}You ready to go?{\i0}
-Dialogue: 0,0:03:59.10,0:04:00.08,Default,Blake,0,0,0,,Be right there!
-Dialogue: 0,0:04:23.55,0:04:25.02,Default,Sun,0,0,0,,{\i1}We going recruiting or what?{\i0}
-Dialogue: 0,0:04:25.49,0:04:27.92,Default,Sun,0,0,0,,We've got the entire nocturnal section to hit up!
-Dialogue: 0,0:04:32.06,0:04:32.98,Default,Sun,0,0,0,,You okay?
-Dialogue: 0,0:04:35.12,0:04:36.50,Default,Blake,0,0,0,,Yeah, I'll meet you there.
-Dialogue: 0,0:04:36.86,0:04:38.68,Default,Blake,0,0,0,,I need to take care of something first.
-Dialogue: 0,0:05:01.64,0:05:02.29,Default,Yang,0,0,0,,Yeah?
-Dialogue: 0,0:05:07.36,0:05:10.12,Default,Yang,0,0,0,,Look Ruby, I really don't want to talk about it, okay?
-Dialogue: 0,0:05:10.13,0:05:11.90,Default,Yang,0,0,0,,Can you just leave me alone for a bit?
-Dialogue: 0,0:05:15.78,0:05:16.49,Default,Yang,0,0,0,,Oh.
-Dialogue: 0,0:05:17.64,0:05:18.90,Default,Yang,0,0,0,,Hey Weiss.
-Dialogue: 0,0:05:19.13,0:05:20.38,Default,Yang,0,0,0,,Did you need something?
-Dialogue: 0,0:05:34.06,0:05:35.57,Default,Yang,0,0,0,,I know she's our teammate,
-Dialogue: 0,0:05:36.06,0:05:38.07,Default,Yang,0,0,0,,but I'm not just going to change my mind.
-Dialogue: 0,0:05:38.74,0:05:40.14,Default,Yang,0,0,0,,I'm sorry, I just...
-Dialogue: 0,0:05:40.50,0:05:42.94,Default,Yang,0,0,0,,I don't think you know what it's like to be left.
-Dialogue: 0,0:05:43.22,0:05:44.84,Default,Yang,0,0,0,,You have a giant family, 
-Dialogue: 0,0:05:45.30,0:05:46.86,Default,Yang,0,0,0,,recitals to perform at,
-Dialogue: 0,0:05:46.94,0:05:48.30,Default,Yang,0,0,0,,dinners to attend.
-Dialogue: 0,0:05:49.66,0:05:51.15,Default,Yang,0,0,0,,I didn't have any of that.
-Dialogue: 0,0:05:52.18,0:05:53.25,Default,Yang,0,0,0,,My mom...
-Dialogue: 0,0:05:53.43,0:05:54.42,Default,Yang,0,0,0,,...left me.
-Dialogue: 0,0:05:55.11,0:05:56.82,Default,Yang,0,0,0,,Ruby's mom left too.
-Dialogue: 0,0:05:57.72,0:06:00.93,Default,Yang,0,0,0,,Tai was always busy with school and Ruby couldn't even talk yet.
-Dialogue: 0,0:06:01.45,0:06:03.69,Default,Yang,0,0,0,,I had to pick up the pieces.
-Dialogue: 0,0:06:04.04,0:06:06.18,Default,Yang,0,0,0,,I had to keep things together.
-Dialogue: 0,0:06:06.54,0:06:07.52,Default,Yang,0,0,0,,Alone.
-Dialogue: 0,0:06:10.77,0:06:13.54,Default,Yang,0,0,0,,Weiss, if you have something to say, then say it.
-Dialogue: 0,0:06:17.02,0:06:22.29,Default,Weiss,0,0,0,,When I was ten, my dad finally admitted to my mom that the only reason he married her
-Dialogue: 0,0:06:22.56,0:06:24.28,Default,Weiss,0,0,0,,was for the family name.
-Dialogue: 0,0:06:25.44,0:06:27.63,Default,Weiss,0,0,0,,It was actually on my birthday.
-Dialogue: 0,0:06:28.27,0:06:29.81,Default,Weiss,0,0,0,,He missed the big dinner,
-Dialogue: 0,0:06:29.82,0:06:30.79,Default,Weiss,0,0,0,,she got mad,
-Dialogue: 0,0:06:31.10,0:06:32.52,Default,Weiss,0,0,0,,he finally snapped.
-Dialogue: 0,0:06:35.06,0:06:36.62,Default,Weiss,0,0,0,,I think she already knew.
-Dialogue: 0,0:06:36.93,0:06:39.31,Default,Weiss,0,0,0,,Looking back, I think I knew too.
-Dialogue: 0,0:06:40.15,0:06:43.38,Default,Weiss,0,0,0,,But hearing him say it finally pushed her over the edge.
-Dialogue: 0,0:06:49.27,0:06:51.58,Default,Weiss,0,0,0,,First it was separate lunches and dinners,
-Dialogue: 0,0:06:51.93,0:06:54.16,Default,Weiss,0,0,0,,opposite balconies at my recitals,
-Dialogue: 0,0:06:54.53,0:06:57.52,Default,Weiss,0,0,0,,a glass of wine here, a glass of wine there.
-Dialogue: 0,0:06:59.35,0:07:01.48,Default,Weiss,0,0,0,,Then, it was no dinners,
-Dialogue: 0,0:07:01.68,0:07:03.06,Default,Weiss,0,0,0,,no recitals,
-Dialogue: 0,0:07:03.24,0:07:05.13,Default,Weiss,0,0,0,,a bottle of wine here and...
-Dialogue: 0,0:07:05.39,0:07:07.16,Default,Weiss,0,0,0,,well, you get the idea.
-Dialogue: 0,0:07:08.60,0:07:09.74,Default,Yang,0,0,0,,I'm really sorry.
-Dialogue: 0,0:07:10.57,0:07:12.74,Default,Yang,0,0,0,,I shouldn't have assumed.
-Dialogue: 0,0:07:13.60,0:07:16.76,Default,Weiss,0,0,0,,You're right though. I don't know loneliness like you do.
-Dialogue: 0,0:07:17.50,0:07:19.04,Default,Weiss,0,0,0,,I have my own version.
-Dialogue: 0,0:07:19.79,0:07:20.58,Default,Weiss,0,0,0,,And,
-Dialogue: 0,0:07:20.96,0:07:22.93,Default,Weiss,0,0,0,,I'll bet Blake has her own version too.
-Dialogue: 0,0:07:23.11,0:07:25.12,Default,Yang,0,0,0,,She doesn't have to be alone though.
-Dialogue: 0,0:07:25.54,0:07:26.83,Default,Yang,0,0,0,,I was here for her.
-Dialogue: 0,0:07:27.07,0:07:28.28,Default,Yang,0,0,0,,We all were!
-Dialogue: 0,0:07:29.06,0:07:31.06,Default,Yang,0,0,0,,She {\i1}chose{\i0} to leave us.
-Dialogue: 0,0:07:32.03,0:07:33.80,Default,Weiss,0,0,0,,Why do you think she did that?
-Dialogue: 0,0:07:36.78,0:07:40.57,Default,Weiss,0,0,0,,The entire time Blake was at Beacon, she was afraid to open up to people.
-Dialogue: 0,0:07:40.83,0:07:45.09,Default,Weiss,0,0,0,,She tried to keep her past separated from us. She tried to protect us.
-Dialogue: 0,0:07:45.47,0:07:48.49,Default,Weiss,0,0,0,,Eventually, those walls she put up came down.
-Dialogue: 0,0:07:49.24,0:07:50.80,Default,Weiss,0,0,0,,And the moment they did,
-Dialogue: 0,0:07:51.02,0:07:54.03,Default,Weiss,0,0,0,,the one thing she was afraid of actually happened.
-Dialogue: 0,0:07:55.12,0:07:56.61,Default,Weiss,0,0,0,,The universe proved her right.
-Dialogue: 0,0:07:57.15,0:07:58.94,Default,Yang,0,0,0,,No one blamed her for anything!
-Dialogue: 0,0:07:59.17,0:08:01.64,Default,Yang,0,0,0,,If she had just talked to us, she would've known that!
-Dialogue: 0,0:08:02.18,0:08:04.36,Default,Yang,0,0,0,,How could I be there for her if she doesn't let me?
-Dialogue: 0,0:08:06.98,0:08:08.74,Default,Yang,0,0,0,,What if I needed her here for me?
-Dialogue: 0,0:08:13.39,0:08:14.94,Default,Weiss,0,0,0,,I know it's not easy.
-Dialogue: 0,0:08:15.41,0:08:17.16,Default,Weiss,0,0,0,,I wish she hadn't left too.
-Dialogue: 0,0:08:19.90,0:08:23.24,Default,Weiss,0,0,0,,The only thing we can do now is be there for her when she's ready.
-Dialogue: 0,0:08:24.34,0:08:25.47,Default,Weiss,0,0,0,,When she comes back.
-Dialogue: 0,0:08:29.07,0:08:30.81,Default,Yang,0,0,0,,{\i1}If{\i0} she comes back.
-Dialogue: 0,0:08:31.34,0:08:32.16,Default,Weiss,0,0,0,,{\i1}She will.{\i0}
-Dialogue: 0,0:08:34.66,0:08:35.54,Default,Weiss,0,0,0,,Yang...
-Dialogue: 0,0:08:36.02,0:08:38.65,Default,Weiss,0,0,0,,You, Ruby, and even Blake
-Dialogue: 0,0:08:38.98,0:08:43.13,Default,Weiss,0,0,0,,are more like family to me than my brother or even my own father.
-Dialogue: 0,0:08:43.58,0:08:45.77,Default,Weiss,0,0,0,,I would do anything for you three,
-Dialogue: 0,0:08:46.04,0:08:48.48,Default,Weiss,0,0,0,,and I'm willing to bet Blake feels the same way.
-Dialogue: 0,0:08:49.68,0:08:51.60,Default,Weiss,0,0,0,,So, when she's ready,
-Dialogue: 0,0:08:53.02,0:08:54.37,Default,Weiss,0,0,0,,I'll be there for her.
-Dialogue: 0,0:08:55.57,0:08:56.36,Default,Weiss,0,0,0,,And...
-Dialogue: 0,0:08:57.13,0:08:58.94,Default,Weiss,0,0,0,,...I know we're not as close,...
-Dialogue: 0,0:08:59.29,0:09:00.18,Default,Weiss,0,0,0,,...but...
-Dialogue: 0,0:09:01.32,0:09:02.94,Default,Weiss,0,0,0,,I'm here for you too.
-Dialogue: 0,0:09:09.72,0:09:10.82,Default,Ruby,0,0,0,,Is, uh...
-Dialogue: 0,0:09:11.14,0:09:12.31,Default,Ruby,0,0,0,,everything okay?
-Dialogue: 0,0:09:14.75,0:09:16.51,Default,Yang,0,0,0,,Yeah, it is.
-Dialogue: 0,0:09:28.78,0:09:29.63,Default,Blake,0,0,0,,Ilia?
-Dialogue: 0,0:09:31.12,0:09:31.94,Default,Ilia,0,0,0,,{\i1}I'm here.{\i0}
-Dialogue: 0,0:09:43.11,0:09:44.12,Default,Blake,0,0,0,,Ilia,
-Dialogue: 0,0:09:44.74,0:09:47.58,Default,Blake,0,0,0,,I know you're scared, but you don't have to be.
-Dialogue: 0,0:09:48.17,0:09:50.33,Default,Blake,0,0,0,,My family and I, we can keep you safe.
-Dialogue: 0,0:09:51.71,0:09:52.70,Default,Ilia,0,0,0,,I'm sorry.
-Dialogue: 0,0:09:55.95,0:09:59.30,Default,Blake,0,0,0,,You can make it up to me by helping us stop Corsac and Fennec.
-Dialogue: 0,0:10:00.56,0:10:01.19,Default,Ilia,0,0,0,,No.
-Dialogue: 0,0:10:02.98,0:10:04.06,Default,Ilia,0,0,0,,{\i1}I'm sorry.{\i0}
-Dialogue: 0,0:10:25.25,0:10:25.84,Default,Blake,0,0,0,,Wait-
-Dialogue: 0,0:10:29.07,0:10:30.22,Default,Trifa,0,0,0,,I've got her.
-Dialogue: 0,0:10:30.46,0:10:32.65,Default,Yuma,0,0,0,,Well done, Sister Trifa
-Dialogue: 0,0:10:33.34,0:10:34.90,Default,Yuma,0,0,0,,- and to you, Ilia.
-Dialogue: 0,0:10:39.61,0:10:40.58,Default,Blake,0,0,0,,{\i1}Ilia!{\i0}
-Dialogue: 0,0:10:41.76,0:10:43.45,Default,Blake,0,0,0,,What are you doing?!
-Dialogue: 0,0:10:44.07,0:10:45.95,Default,Ilia,0,0,0,,I tried to warn you, Blake.
-Dialogue: 0,0:10:46.29,0:10:46.97,Default,Ilia,0,0,0,,I'm sorry.
-Dialogue: 0,0:10:46.97,0:10:48.34,Default,Blake,0,0,0,,Don't tell me you're sorry!
-Dialogue: 0,0:10:48.36,0:10:49.10,Default,Ilia,0,0,0,,But I am.
-Dialogue: 0,0:10:49.84,0:10:52.56,Default,Ilia,0,0,0,,I am sorry it has to be this way,
-Dialogue: 0,0:10:52.60,0:10:55.30,Default,Ilia,0,0,0,,but you and your family are holding the Faunus back!
-Dialogue: 0,0:10:55.38,0:10:57.75,Default,Blake,0,0,0,,Because we're trying to protect people?!
-Dialogue: 0,0:10:58.06,0:11:02.65,Default,Blake,0,0,0,,In what world do you live in where attacking the innocent is the right thing to do?!
-Dialogue: 0,0:11:02.93,0:11:04.51,Default,Ilia,0,0,0,,The same one as you!
-Dialogue: 0,0:11:05.58,0:11:07.96,Default,Ilia,0,0,0,,There's no such thing as innocent!
-Dialogue: 0,0:11:08.12,0:11:12.46,Default,Ilia,0,0,0,,There's no right thing to do! Only what's best for us!
-Dialogue: 0,0:11:12.75,0:11:14.92,Default,Ilia,0,0,0,,There's the humans that still hate the Faunus,
-Dialogue: 0,0:11:14.92,0:11:18.82,Default,Ilia,0,0,0,,and there's the others who stand by and let the hate happen!
-Dialogue: 0,0:11:19.68,0:11:21.45,Default,Ilia,0,0,0,,{\i1}But you know what snuffs out hate?{\i0}
-Dialogue: 0,0:11:22.84,0:11:23.64,Default,Ilia,0,0,0,,Fear.
-Dialogue: 0,0:11:25.01,0:11:27.54,Default,Ilia,0,0,0,,I don't like hurting people.
-Dialogue: 0,0:11:28.16,0:11:29.50,Default,Ilia,0,0,0,,But I'll tell you this...
-Dialogue: 0,0:11:30.38,0:11:32.08,Default,Ilia,0,0,0,,...it's gotten us results.
-Dialogue: 0,0:11:33.80,0:11:34.63,Default,Blake,0,0,0,,Yeah,
-Dialogue: 0,0:11:35.42,0:11:36.90,Default,Blake,0,0,0,,look where it's gotten you.
-Dialogue: 0,0:11:42.66,0:11:45.95,Default,Ilia,0,0,0,,We all have to make sacrifices for the greater good,
-Dialogue: 0,0:11:46.55,0:11:48.27,Default,Ilia,0,0,0,,no matter how much it hurts.
-Dialogue: 0,0:11:48.84,0:11:52.53,Default,Blake,0,0,0,,And you think killing me is really for the greater good?
-Dialogue: 0,0:11:53.82,0:11:54.48,Default,Ilia,0,0,0,,No,
-Dialogue: 0,0:11:55.41,0:11:57.53,Default,Ilia,0,0,0,,but getting rid of your family is.
-Dialogue: 0,0:12:00.59,0:12:01.57,Default,Blake,0,0,0,,You wouldn't!
-Dialogue: 0,0:12:02.43,0:12:04.36,Default,Blake,0,0,0,,You can't! I won't let you!
-Dialogue: 0,0:12:05.12,0:12:05.98,Default,Ilia,0,0,0,,I know.
-Dialogue: 0,0:12:06.56,0:12:08.34,Default,Ilia,0,0,0,,That's why you're being sent to Mistral.
-Dialogue: 0,0:12:08.97,0:12:09.88,Default,Ilia,0,0,0,,To Adam.
-Dialogue: 0,0:12:11.96,0:12:13.40,Default,Blake,0,0,0,,Ilia, please!
-Dialogue: 0,0:12:14.02,0:12:16.43,Default,Blake,0,0,0,,You don't have to do this. This isn't you!
-Dialogue: 0,0:12:17.05,0:12:17.76,Default,Ilia,0,0,0,,Yes. {\1a&HFF&\3a&HFF&\4a&HFF&}It. Is!
-Dialogue: 0,0:12:17.76,0:12:18.45,Default,Ilia,0,0,0,,Yes. It. {\1a&HFF&\3a&HFF&\4a&HFF&}Is!
-Dialogue: 0,0:12:18.45,0:12:19.18,Default,Ilia,0,0,0,,Yes. It. Is!
-Dialogue: 0,0:12:20.94,0:12:24.97,Default,Ilia,0,0,0,,But I guess back then you were just too busy falling for Adam to notice.
-Dialogue: 0,0:12:29.12,0:12:31.84,Default,Ilia,0,0,0,,I was always jealous of the way you looked at him.
-Dialogue: 0,0:12:33.09,0:12:35.23,Default,Ilia,0,0,0,,I wanted you to look at me that way.
-Dialogue: 0,0:12:38.22,0:12:40.18,Default,Ilia,0,0,0,,But we can't always get what we want!
-Dialogue: 0,0:12:42.16,0:12:43.72,Default,Ilia,0,0,0,,Yuma, with me.
-Dialogue: 0,0:12:44.26,0:12:45.20,Default,Ilia,0,0,0,,You two,
-Dialogue: 0,0:12:45.46,0:12:46.67,Default,Ilia,0,0,0,,get her to the docks.
-Dialogue: 0,0:12:49.38,0:12:51.04,Default,Trifa,0,0,0,,Let's go, traitor.
-Dialogue: 0,0:12:52.40,0:12:53.26,Default,Blake,0,0,0,,Now!
-Dialogue: 0,0:12:55.30,0:12:55.93,Default,Trifa,0,0,0,,What?!
-Dialogue: 0,0:13:03.98,0:13:05.18,Default,Blake,0,0,0,,Thanks for the backup.
-Dialogue: 0,0:13:05.75,0:13:07.89,Default,Sun,0,0,0,,Thanks for the invitation. You okay?
-Dialogue: 0,0:13:08.81,0:13:09.59,Default,Blake,0,0,0,,No.
-Dialogue: 0,0:13:09.94,0:13:12.24,Default,Blake,0,0,0,,You heard Ilia, my family is in danger.
-Dialogue: 0,0:13:12.30,0:13:13.77,Default,Blake,0,0,0,,Call the police and let's go!
-Dialogue: 0,0:13:14.90,0:13:15.46,Default,Sun,0,0,0,,Right!
-Dialogue: 0,0:13:19.31,0:13:20.76,Default,Blake,0,0,0,,Come on, mom, pick up!
-Dialogue: 0,0:13:29.28,0:13:29.92,Default,Guard,0,0,0,,Get down!
-Dialogue: 0,0:13:41.17,0:13:42.61,Default,Kali,0,0,0,,Get out of my house!
-Dialogue: 0,0:13:43.12,0:13:43.66,Default,Kali,0,0,0,,Ghira!
-Dialogue: 0,0:13:58.36,0:13:59.70,Default,Ghira,0,0,0,,Go find my wife!
-Dialogue: 0,0:14:14.13,0:14:17.40,Default,Corsac,0,0,0,,I believe it's time our dear chieftain stepped down, brother.
-Dialogue: 0,0:14:17.88,0:14:21.35,Default,Fennec,0,0,0,,Yes brother, I'm afraid I'm inclined to agree.
+Dialogue: 0,0:01:49.05,0:01:50.15,Default,,0,0,0,,- You're up early.
+Dialogue: 0,0:01:51.80,0:01:53.36,Default,,0,0,0,,- Hey, sis.
+Dialogue: 0,0:01:53.36,0:01:54.25,Default,,0,0,0,,- Boop.
+Dialogue: 0,0:01:59.21,0:02:01.25,Default,,0,0,0,,- What are you doing up?
+Dialogue: 0,0:02:01.25,0:02:03.02,Default,,0,0,0,,- Can't fall back asleep.
+Dialogue: 0,0:02:03.02,0:02:05.00,Default,,0,0,0,,- Ah, me neither.
+Dialogue: 0,0:02:05.00,0:02:09.08,Default,,0,0,0,,- Well, fortunately, coffee exists.
+Dialogue: 0,0:02:17.63,0:02:19.18,Default,,0,0,0,,- No, please!
+Dialogue: 0,0:02:19.18,0:02:21.47,Default,,0,0,0,,- Don't worry, I put\Nin blasphemous amounts
+Dialogue: 0,0:02:21.47,0:02:23.97,Default,,0,0,0,,of cream in sugar just for you.
+Dialogue: 0,0:02:23.97,0:02:24.80,Default,,0,0,0,,- Oh yeah.
+Dialogue: 0,0:02:24.80,0:02:26.99,Default,,0,0,0,,Nice Weiss strikes again.
+Dialogue: 0,0:02:26.99,0:02:29.39,Default,,0,0,0,,- I will pour this on\Nyou and it will burn.
+Dialogue: 0,0:02:35.90,0:02:38.34,Default,,0,0,0,,- Can't believe we're actually in Mistral.
+Dialogue: 0,0:02:38.34,0:02:40.33,Default,,0,0,0,,- That's what you can't believe?
+Dialogue: 0,0:02:40.33,0:02:41.64,Default,,0,0,0,,- Well, yeah!
+Dialogue: 0,0:02:41.64,0:02:43.69,Default,,0,0,0,,And all the other magic and stuff.
+Dialogue: 0,0:02:43.69,0:02:46.92,Default,,0,0,0,,But okay, you know what I mean.
+Dialogue: 0,0:02:46.92,0:02:49.99,Default,,0,0,0,,- I honestly wasn't sure if\NI'd ever see you two again.
+Dialogue: 0,0:02:51.48,0:02:54.62,Default,,0,0,0,,- Well, here's to defying expectations.
+Dialogue: 0,0:02:58.53,0:03:00.61,Default,,0,0,0,,- I just wish Blake could be here with us.
+Dialogue: 0,0:03:02.04,0:03:04.78,Default,,0,0,0,,- [Yang] Yeah, well, she made her choice.
+Dialogue: 0,0:03:07.55,0:03:09.63,Default,,0,0,0,,- What's that supposed to mean?
+Dialogue: 0,0:03:09.63,0:03:13.06,Default,,0,0,0,,- I mean she could've been\Nhere if she just stuck around.
+Dialogue: 0,0:03:13.06,0:03:14.21,Default,,0,0,0,,It's no big deal though.
+Dialogue: 0,0:03:14.21,0:03:15.05,Default,,0,0,0,,We'll be fine.
+Dialogue: 0,0:03:17.15,0:03:19.13,Default,,0,0,0,,- Don't you want her here?
+Dialogue: 0,0:03:19.13,0:03:20.53,Default,,0,0,0,,- Why would I want her here?
+Dialogue: 0,0:03:22.80,0:03:25.25,Default,,0,0,0,,- Are you still mad at her for leaving?
+Dialogue: 0,0:03:25.25,0:03:27.76,Default,,0,0,0,,- Oh, whatever gave you that idea, Ruby?
+Dialogue: 0,0:03:27.76,0:03:29.84,Default,,0,0,0,,No, I'm totally fine, I'm great.
+Dialogue: 0,0:03:29.84,0:03:31.44,Default,,0,0,0,,- Okay, calm down.
+Dialogue: 0,0:03:31.44,0:03:32.99,Default,,0,0,0,,- Don't tell me to calm down!
+Dialogue: 0,0:03:34.75,0:03:36.33,Default,,0,0,0,,- Whoa, Yang.
+Dialogue: 0,0:03:43.17,0:03:44.07,Default,,0,0,0,,- [Yang] Whatever.
+Dialogue: 0,0:03:56.55,0:03:57.73,Default,,0,0,0,,- [Sun] Hey, Blake.
+Dialogue: 0,0:03:57.73,0:03:59.10,Default,,0,0,0,,You ready to go?
+Dialogue: 0,0:03:59.10,0:04:00.22,Default,,0,0,0,,- Be right there.
+Dialogue: 0,0:04:23.60,0:04:25.53,Default,,0,0,0,,- We going recruiting or what?
+Dialogue: 0,0:04:25.53,0:04:27.98,Default,,0,0,0,,We've got the entire\Nnocturnal section to hit up.
+Dialogue: 0,0:04:32.05,0:04:32.88,Default,,0,0,0,,You okay?
+Dialogue: 0,0:04:35.20,0:04:36.93,Default,,0,0,0,,- Yeah, I'll meet you there.
+Dialogue: 0,0:04:36.93,0:04:38.84,Default,,0,0,0,,I need to take care of something first.
+Dialogue: 0,0:05:01.66,0:05:02.49,Default,,0,0,0,,- Yeah?
+Dialogue: 0,0:05:07.45,0:05:10.09,Default,,0,0,0,,Look Ruby, I really don't\Nwant to talk about it, okay?
+Dialogue: 0,0:05:10.09,0:05:11.99,Default,,0,0,0,,Can you just leave me alone for a bit?
+Dialogue: 0,0:05:15.85,0:05:16.68,Default,,0,0,0,,Oh.
+Dialogue: 0,0:05:17.69,0:05:19.95,Default,,0,0,0,,Hey, Weiss, did you need something?
+Dialogue: 0,0:05:34.13,0:05:36.08,Default,,0,0,0,,I know she's our teammate,
+Dialogue: 0,0:05:36.08,0:05:38.72,Default,,0,0,0,,but I'm not just going to change my mind.
+Dialogue: 0,0:05:38.72,0:05:41.32,Default,,0,0,0,,I'm sorry, I just, I don't think you know
+Dialogue: 0,0:05:41.32,0:05:43.23,Default,,0,0,0,,what it's like to be left.
+Dialogue: 0,0:05:43.23,0:05:46.87,Default,,0,0,0,,You have a giant family,\Nrecitals to perform at,
+Dialogue: 0,0:05:46.87,0:05:48.31,Default,,0,0,0,,dinners to attend.
+Dialogue: 0,0:05:49.72,0:05:51.10,Default,,0,0,0,,I didn't have any of that.
+Dialogue: 0,0:05:52.17,0:05:55.15,Default,,0,0,0,,My mom left me.
+Dialogue: 0,0:05:55.15,0:05:56.73,Default,,0,0,0,,Ruby's mom left too.
+Dialogue: 0,0:05:57.79,0:05:59.18,Default,,0,0,0,,Tai was always busy with school
+Dialogue: 0,0:05:59.18,0:06:01.49,Default,,0,0,0,,and Ruby couldn't even talk yet.
+Dialogue: 0,0:06:01.49,0:06:04.08,Default,,0,0,0,,I had to pick up the pieces.
+Dialogue: 0,0:06:04.08,0:06:06.60,Default,,0,0,0,,I had to keep things together.
+Dialogue: 0,0:06:06.60,0:06:07.45,Default,,0,0,0,,Alone.
+Dialogue: 0,0:06:10.78,0:06:13.56,Default,,0,0,0,,Weiss, if you have something\Nto say, then say it.
+Dialogue: 0,0:06:17.08,0:06:20.43,Default,,0,0,0,,- When I was 10 my dad finally\Nadmitted to my mom that
+Dialogue: 0,0:06:20.43,0:06:24.23,Default,,0,0,0,,the only reason he married\Nher was for the family name.
+Dialogue: 0,0:06:25.49,0:06:28.27,Default,,0,0,0,,It was actually on my birthday.
+Dialogue: 0,0:06:28.27,0:06:32.50,Default,,0,0,0,,He missed the big dinner, she\Ngot mad, he finally snapped.
+Dialogue: 0,0:06:35.08,0:06:36.97,Default,,0,0,0,,I think she already knew.
+Dialogue: 0,0:06:36.97,0:06:39.96,Default,,0,0,0,,Looking back, I think I knew too,
+Dialogue: 0,0:06:39.96,0:06:43.44,Default,,0,0,0,,but hearing him say it finally\Npushed her over the edge.
+Dialogue: 0,0:06:49.25,0:06:51.94,Default,,0,0,0,,First it was separate lunches and dinners,
+Dialogue: 0,0:06:51.94,0:06:54.27,Default,,0,0,0,,opposite balconies at my recitals,
+Dialogue: 0,0:06:54.27,0:06:57.36,Default,,0,0,0,,a glass of wine here,\Na glass of wine there.
+Dialogue: 0,0:06:59.36,0:07:04.36,Default,,0,0,0,,Then, it was no dinners, no\Nrecitals, a bottle of wine here,
+Dialogue: 0,0:07:04.63,0:07:07.06,Default,,0,0,0,,and, well, you get the idea.
+Dialogue: 0,0:07:08.65,0:07:13.57,Default,,0,0,0,,- I'm really sorry, I\Nshouldn't have assumed.
+Dialogue: 0,0:07:13.57,0:07:14.81,Default,,0,0,0,,- You're right though.
+Dialogue: 0,0:07:14.81,0:07:17.56,Default,,0,0,0,,I don't know loneliness like you do.
+Dialogue: 0,0:07:17.56,0:07:20.95,Default,,0,0,0,,I have my own version, and,
+Dialogue: 0,0:07:20.95,0:07:23.04,Default,,0,0,0,,I'll bet Blake has her own version, too.
+Dialogue: 0,0:07:23.04,0:07:25.57,Default,,0,0,0,,- She doesn't have to be alone though.
+Dialogue: 0,0:07:25.57,0:07:27.09,Default,,0,0,0,,I was here for her.
+Dialogue: 0,0:07:27.09,0:07:29.06,Default,,0,0,0,,We all were!
+Dialogue: 0,0:07:29.06,0:07:31.10,Default,,0,0,0,,She chose to leave us.
+Dialogue: 0,0:07:31.99,0:07:33.88,Default,,0,0,0,,- Why do you think she did that?
+Dialogue: 0,0:07:36.71,0:07:38.69,Default,,0,0,0,,The entire time Blake was at Beacon,
+Dialogue: 0,0:07:38.69,0:07:40.78,Default,,0,0,0,,she was afraid to open up to people.
+Dialogue: 0,0:07:40.78,0:07:43.33,Default,,0,0,0,,She tried to keep her\Npast separated from us.
+Dialogue: 0,0:07:43.33,0:07:45.41,Default,,0,0,0,,She tried to protect us.
+Dialogue: 0,0:07:45.41,0:07:49.27,Default,,0,0,0,,Eventually, those walls\Nshe put up came down.
+Dialogue: 0,0:07:49.27,0:07:52.00,Default,,0,0,0,,And the moment they did, the one thing she
+Dialogue: 0,0:07:52.00,0:07:55.06,Default,,0,0,0,,was afraid of actually happened.
+Dialogue: 0,0:07:55.06,0:07:57.16,Default,,0,0,0,,The universe proved her right.
+Dialogue: 0,0:07:57.16,0:07:59.09,Default,,0,0,0,,- No one blamed her for anything!
+Dialogue: 0,0:07:59.09,0:08:02.10,Default,,0,0,0,,If she had just talked to\Nus, she would've known that!
+Dialogue: 0,0:08:02.10,0:08:04.65,Default,,0,0,0,,How could I be there for\Nher if she doesn't let me?
+Dialogue: 0,0:08:06.93,0:08:08.70,Default,,0,0,0,,What if I needed her here for me?
+Dialogue: 0,0:08:13.42,0:08:15.46,Default,,0,0,0,,- I know it's not easy.
+Dialogue: 0,0:08:15.46,0:08:17.35,Default,,0,0,0,,I wish she hadn't left, too.
+Dialogue: 0,0:08:19.99,0:08:21.78,Default,,0,0,0,,The only thing we can do now is be
+Dialogue: 0,0:08:21.78,0:08:23.33,Default,,0,0,0,,there for her when she's ready.
+Dialogue: 0,0:08:24.35,0:08:25.55,Default,,0,0,0,,When she comes back.
+Dialogue: 0,0:08:29.04,0:08:31.30,Default,,0,0,0,,- If she comes back.
+Dialogue: 0,0:08:31.30,0:08:32.25,Default,,0,0,0,,- She will.
+Dialogue: 0,0:08:34.71,0:08:39.28,Default,,0,0,0,,Yang, you, Ruby, and even Blake are more
+Dialogue: 0,0:08:39.28,0:08:43.51,Default,,0,0,0,,like family to me than my\Nbrother or even my own father.
+Dialogue: 0,0:08:43.51,0:08:46.08,Default,,0,0,0,,I would do anything for you three
+Dialogue: 0,0:08:46.08,0:08:48.48,Default,,0,0,0,,and I'm willing to bet\NBlake feels the same way.
+Dialogue: 0,0:08:49.67,0:08:54.30,Default,,0,0,0,,So, when she's ready\NI'll be there for her.
+Dialogue: 0,0:08:55.61,0:09:00.61,Default,,0,0,0,,And I know we're not as close,\Nbut, I'm here for you, too.
+Dialogue: 0,0:09:09.79,0:09:12.33,Default,,0,0,0,,- Is, uh, everything okay?
+Dialogue: 0,0:09:14.70,0:09:16.49,Default,,0,0,0,,- Yeah, it is.
+Dialogue: 0,0:09:29.05,0:09:29.88,Default,,0,0,0,,- Ilia?
+Dialogue: 0,0:09:31.31,0:09:32.21,Default,,0,0,0,,- [Ilia] I'm here.
+Dialogue: 0,0:09:43.22,0:09:48.13,Default,,0,0,0,,- Ilia, I know you're scared\Nbut you don't have to be.
+Dialogue: 0,0:09:48.13,0:09:50.49,Default,,0,0,0,,My family and I, we can keep you safe.
+Dialogue: 0,0:09:51.75,0:09:52.58,Default,,0,0,0,,- I'm sorry.
+Dialogue: 0,0:09:56.06,0:09:57.22,Default,,0,0,0,,- You can make it up to me by
+Dialogue: 0,0:09:57.22,0:10:00.62,Default,,0,0,0,,helping us stop Corsac and Fennec.
+Dialogue: 0,0:10:00.62,0:10:01.45,Default,,0,0,0,,- No.
+Dialogue: 0,0:10:02.95,0:10:03.78,Default,,0,0,0,,I'm sorry.
+Dialogue: 0,0:10:25.26,0:10:26.09,Default,,0,0,0,,- Wait--
+Dialogue: 0,0:10:29.19,0:10:30.50,Default,,0,0,0,,- I've got her.
+Dialogue: 0,0:10:30.50,0:10:34.78,Default,,0,0,0,,- Well done, Sister\NTrifa, and to you, Ilia.
+Dialogue: 0,0:10:39.68,0:10:44.14,Default,,0,0,0,,- Ilia, what are you doing?
+Dialogue: 0,0:10:44.14,0:10:46.23,Default,,0,0,0,,- I tried to warn you, Blake.
+Dialogue: 0,0:10:46.23,0:10:47.06,Default,,0,0,0,,I'm sorry.
+Dialogue: 0,0:10:47.06,0:10:48.28,Default,,0,0,0,,- Don't tell me you're sorry.
+Dialogue: 0,0:10:48.28,0:10:49.84,Default,,0,0,0,,- But I am.
+Dialogue: 0,0:10:49.84,0:10:52.56,Default,,0,0,0,,I am sorry it has to be this way
+Dialogue: 0,0:10:52.56,0:10:55.40,Default,,0,0,0,,but you and your family are\Nholding the Faunas back.
+Dialogue: 0,0:10:55.40,0:10:58.12,Default,,0,0,0,,- Because we're trying to protect people?
+Dialogue: 0,0:10:58.12,0:11:00.45,Default,,0,0,0,,In what world do you\Nlive in where attacking
+Dialogue: 0,0:11:00.45,0:11:02.89,Default,,0,0,0,,the innocent is the right thing to do?
+Dialogue: 0,0:11:02.89,0:11:04.56,Default,,0,0,0,,- The same one as you!
+Dialogue: 0,0:11:05.62,0:11:08.14,Default,,0,0,0,,There's no such thing as innocent!
+Dialogue: 0,0:11:08.14,0:11:09.84,Default,,0,0,0,,There's no right thing to do!
+Dialogue: 0,0:11:09.84,0:11:12.81,Default,,0,0,0,,Only what's best for us!
+Dialogue: 0,0:11:12.81,0:11:14.84,Default,,0,0,0,,There's the humans that\Nstill hate the Faunus,
+Dialogue: 0,0:11:14.84,0:11:18.75,Default,,0,0,0,,and there's the others who stand\Nby and let the hate happen!
+Dialogue: 0,0:11:19.65,0:11:21.38,Default,,0,0,0,,But you know what snuffs out hate?
+Dialogue: 0,0:11:22.83,0:11:23.66,Default,,0,0,0,,Fear.
+Dialogue: 0,0:11:25.11,0:11:28.26,Default,,0,0,0,,I don't like hurting people.
+Dialogue: 0,0:11:28.26,0:11:31.97,Default,,0,0,0,,But I'll tell you this:\Nit's gotten us results.
+Dialogue: 0,0:11:33.83,0:11:36.76,Default,,0,0,0,,- Yeah, look where it's gotten you.
+Dialogue: 0,0:11:42.69,0:11:46.61,Default,,0,0,0,,- We all have to make\Nsacrifices for the greater good,
+Dialogue: 0,0:11:46.61,0:11:48.89,Default,,0,0,0,,no matter how much it hurts.
+Dialogue: 0,0:11:48.89,0:11:52.47,Default,,0,0,0,,- And you think killing me is\Nreally for the greater good?
+Dialogue: 0,0:11:53.89,0:11:57.41,Default,,0,0,0,,- No, but getting rid of your family is.
+Dialogue: 0,0:12:00.64,0:12:01.47,Default,,0,0,0,,- You wouldn't.
+Dialogue: 0,0:12:02.47,0:12:03.30,Default,,0,0,0,,You can't!
+Dialogue: 0,0:12:03.30,0:12:05.16,Default,,0,0,0,,I won't let you!
+Dialogue: 0,0:12:05.16,0:12:06.60,Default,,0,0,0,,- I know.
+Dialogue: 0,0:12:06.60,0:12:09.03,Default,,0,0,0,,That's why you're being sent to Mistral.
+Dialogue: 0,0:12:09.03,0:12:09.86,Default,,0,0,0,,To Adam.
+Dialogue: 0,0:12:12.07,0:12:13.19,Default,,0,0,0,,- Ilia, please.
+Dialogue: 0,0:12:14.08,0:12:15.22,Default,,0,0,0,,You don't have to do this.
+Dialogue: 0,0:12:15.22,0:12:17.13,Default,,0,0,0,,This isn't you!
+Dialogue: 0,0:12:17.13,0:12:19.04,Default,,0,0,0,,- Yes it is.
+Dialogue: 0,0:12:20.84,0:12:22.60,Default,,0,0,0,,But I guess back then you were just too
+Dialogue: 0,0:12:22.60,0:12:24.94,Default,,0,0,0,,busy falling for Adam to notice.
+Dialogue: 0,0:12:29.18,0:12:31.68,Default,,0,0,0,,I was always jealous of\Nthe way you looked at him.
+Dialogue: 0,0:12:33.34,0:12:35.14,Default,,0,0,0,,I wanted you to look at me that way.
+Dialogue: 0,0:12:38.32,0:12:40.17,Default,,0,0,0,,But we can't always get what we want!
+Dialogue: 0,0:12:42.21,0:12:44.33,Default,,0,0,0,,Yuma, with me.
+Dialogue: 0,0:12:44.33,0:12:46.78,Default,,0,0,0,,You two, get her to the docks.
+Dialogue: 0,0:12:49.70,0:12:50.99,Default,,0,0,0,,- Let's go, traitor.
+Dialogue: 0,0:12:52.47,0:12:53.73,Default,,0,0,0,,- Now!
+Dialogue: 0,0:12:53.73,0:12:55.39,Default,,0,0,0,,- Huh?
+Dialogue: 0,0:12:55.39,0:12:56.22,Default,,0,0,0,,What?
+Dialogue: 0,0:13:04.02,0:13:05.75,Default,,0,0,0,,- Thanks for the backup.
+Dialogue: 0,0:13:05.75,0:13:07.16,Default,,0,0,0,,- Thanks for the invitation.
+Dialogue: 0,0:13:07.16,0:13:07.99,Default,,0,0,0,,You okay?
+Dialogue: 0,0:13:08.87,0:13:09.98,Default,,0,0,0,,- No.
+Dialogue: 0,0:13:09.98,0:13:12.30,Default,,0,0,0,,You heard Ilia, my family is in danger.
+Dialogue: 0,0:13:12.30,0:13:13.75,Default,,0,0,0,,Call the police and let's go.
+Dialogue: 0,0:13:14.84,0:13:15.67,Default,,0,0,0,,- Right!
+Dialogue: 0,0:13:19.41,0:13:20.72,Default,,0,0,0,,- Come on, Mom, pick up!
+Dialogue: 0,0:13:29.29,0:13:30.12,Default,,0,0,0,,- Get down!
+Dialogue: 0,0:13:41.56,0:13:43.24,Default,,0,0,0,,- Get out of my house!
+Dialogue: 0,0:13:43.24,0:13:44.07,Default,,0,0,0,,Ghira!
+Dialogue: 0,0:13:58.32,0:13:59.76,Default,,0,0,0,,- Go find my wife!
+Dialogue: 0,0:14:14.11,0:14:15.43,Default,,0,0,0,,- I believe it's time our dear
+Dialogue: 0,0:14:15.43,0:14:17.03,Default,,0,0,0,,chieftain stepped down, brother.
+Dialogue: 0,0:14:17.99,0:14:21.38,Default,,0,0,0,,- Yes brother, I'm afraid\NI'm inclined to agree.

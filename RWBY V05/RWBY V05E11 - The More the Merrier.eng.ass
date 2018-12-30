@@ -40,172 +40,159 @@ Dialogue: 0,0:01:09.93,0:01:12.83,Karaoke,,0,0,0,,{\kf21}We'll {\kf36}win, {\kf1
 Dialogue: 0,0:01:12.83,0:01:15.81,Karaoke,,0,0,0,,{\kf25}And {\kf49}though {\kf21}our {\kf54}goal {\kf20}is {\kf129}far
 Dialogue: 0,0:01:15.81,0:01:18.71,Karaoke,,0,0,0,,{\kf51}We'll {\kf26}be {\kf23}the {\kf41}ones {\kf24}to {\kf46}touch {\kf21}the {\kf58}sun
 Dialogue: 0,0:01:18.71,0:01:24.27,Karaoke,,0,0,0,,{\kf27}The {\kf131}Triumph {\kf73}will {\kf106}be {\kf219}ours!
-Dialogue: 0,0:02:25.49,0:02:26.76,Default,Leo,0,0,0,,Why hello.
-Dialogue: 0,0:02:30.43,0:02:31.80,Default,Leo,0,0,0,,Thank you for…
-Dialogue: 0,0:02:32.01,0:02:33.03,Default,Leo,0,0,0,,…coming.
-Dialogue: 0,0:02:33.82,0:02:34.47,Default,Leo,0,0,0,,There…
-Dialogue: 0,0:02:34.68,0:02:37.56,Default,Leo,0,0,0,,…seems to be more of you than last time
-Dialogue: 0,0:02:38.24,0:02:41.02,Default,Qrow,0,0,0,,Eh, you know what they say, "The more the merrier".
-Dialogue: 0,0:02:41.76,0:02:43.60,Default,Qrow,0,0,0,,So what’s going on with the council?
-Dialogue: 0,0:02:45.28,0:02:46.02,Default,Leo,0,0,0,,Why…
-Dialogue: 0,0:02:46.54,0:02:48.40,Default,Leo,0,0,0,,.. did you bring your weapons?
-Dialogue: 0,0:02:49.04,0:02:49.65,Default,Qrow,0,0,0,,What?
-Dialogue: 0,0:02:50.34,0:02:51.07,Default,Qrow,0,0,0,,Leo,
-Dialogue: 0,0:02:51.22,0:02:52.48,Default,Qrow,0,0,0,,we're Huntsmen.
-Dialogue: 0,0:02:53.05,0:02:53.92,Default,Qrow,0,0,0,,You okay?
-Dialogue: 0,0:02:54.13,0:02:54.90,Default,Leo,0,0,0,,Of course!
-Dialogue: 0,0:02:55.04,0:02:56.14,Default,Leo,0,0,0,,Of course, sorry.
-Dialogue: 0,0:02:56.64,0:02:58.57,Default,Leo,0,0,0,,Just haven’t had my evening coffee. 
-Dialogue: 0,0:02:58.74,0:03:01.63,Default,Qrow,0,0,0,,Look, it's nice to see you, but we got work to do.
-Dialogue: 0,0:03:02.02,0:03:04.33,Default,Qrow,0,0,0,,Are we getting support from the council or not?
-Dialogue: 0,0:03:05.39,0:03:06.10,Default,Yang,0,0,0,,Mom?
-Dialogue: 0,0:03:16.24,0:03:16.88,Default,Ruby,0,0,0,,Raven…
-Dialogue: 0,0:03:17.72,0:03:18.28,Default,Nora,0,0,0,,They…
-Dialogue: 0,0:03:19.22,0:03:20.99,Default,Nora,0,0,0,,They really are magic…
-Dialogue: 0,0:03:23.24,0:03:25.44,Default,Raven,0,0,0,,If you’re going to shoot me, shoot me.
-Dialogue: 0,0:03:26.09,0:03:27.38,Default,Raven,0,0,0,,That was insulting.
-Dialogue: 0,0:03:28.56,0:03:30.40,Default,Qrow,0,0,0,,What are you doing here?!
-Dialogue: 0,0:03:31.68,0:03:33.41,Default,Raven,0,0,0,,I could ask you the same thing.
-Dialogue: 0,0:03:34.76,0:03:36.70,Default,Raven,0,0,0,,You’ve been scheming, little brother.
-Dialogue: 0,0:03:37.70,0:03:39.98,Default,Raven,0,0,0,,Planning to attack your own sister.
-Dialogue: 0,0:03:40.32,0:03:40.87,Default,Qrow,0,0,0,,Leo…
-Dialogue: 0,0:03:41.66,0:03:43.01,Default,Qrow,0,0,0,,What have you done?!
-Dialogue: 0,0:03:43.51,0:03:44.06,Default,Leo,0,0,0,,I…
-Dialogue: 0,0:03:44.11,0:03:46.86,Default,Raven,0,0,0,,Leo did what any sane person would in his position -
-Dialogue: 0,0:03:47.73,0:03:50.20,Default,Raven,0,0,0,,- he looked at all the information he had in front of him,
-Dialogue: 0,0:03:50.38,0:03:52.06,Default,Raven,0,0,0,,assessed the situation,
-Dialogue: 0,0:03:52.96,0:03:54.20,Default,Raven,0,0,0,,and made a choice.
-Dialogue: 0,0:03:56.58,0:03:58.68,Default,Raven,0,0,0,,And it seems you all have too.
-Dialogue: 0,0:04:01.02,0:04:03.16,Default,Qrow,0,0,0,,You have the Spring Maiden.
-Dialogue: 0,0:04:03.76,0:04:04.33,Default,Raven,0,0,0,,I do.
-Dialogue: 0,0:04:04.84,0:04:07.30,Default,Qrow,0,0,0,,Then hand her over and let's work together!
-Dialogue: 0,0:04:07.53,0:04:08.80,Default,Qrow,0,0,0,,We can beat Salem!
-Dialogue: 0,0:04:08.84,0:04:14.10,Default,Raven,0,0,0,,All that time spent spying for Ozpin and you still have no idea what you’re dealing with.
-Dialogue: 0,0:04:14.86,0:04:16.82,Default,Raven,0,0,0,,There is no beating Salem!
-Dialogue: 0,0:04:17.36,0:04:18.16,Default,Ruby,0,0,0,,You're wrong.
-Dialogue: 0,0:04:19.99,0:04:22.72,Default,Ruby,0,0,0,,We've done things that most people would call impossible,
-Dialogue: 0,0:04:23.28,0:04:27.27,Default,Ruby,0,0,0,,and I know the only reason we were able to do it is because we didn't do it alone!
-Dialogue: 0,0:04:28.31,0:04:29.75,Default,Ruby,0,0,0,,We had people to teach us,
-Dialogue: 0,0:04:30.60,0:04:31.74,Default,Ruby,0,0,0,,people to help us,
-Dialogue: 0,0:04:32.51,0:04:33.66,Default,Ruby,0,0,0,,we had each other.
-Dialogue: 0,0:04:35.57,0:04:36.78,Default,Ruby,0,0,0,,Work with us.
-Dialogue: 0,0:04:38.28,0:04:41.69,Default,Ruby,0,0,0,,At least I know we'll have a better chance if we try together.
-Dialogue: 0,0:04:43.86,0:04:44.54,Default,Ruby,0,0,0,,Please.
-Dialogue: 0,0:04:47.99,0:04:50.30,Default,Raven,0,0,0,,You sound just like your mother.
-Dialogue: 0,0:04:53.76,0:04:54.32,Default,Yang,0,0,0,,Ruby!
-Dialogue: 0,0:04:57.42,0:04:58.98,Default,Cinder,0,0,0,,Hello, boys and girls
-Dialogue: 0,0:05:01.94,0:05:03.02,Default,Ruby,0,0,0,,Cinder…
-Dialogue: 0,0:05:11.21,0:05:14.66,Default,Mercury,0,0,0,,C’mon guys, is that any way to greet your old friends?
-Dialogue: 0,0:05:16.54,0:05:18.42,Default,Qrow,0,0,0,,Everybody, stay calm.
-Dialogue: 0,0:05:23.93,0:05:24.86,Default,Oscar,0,0,0,,Oh no…
-Dialogue: 0,0:05:27.19,0:05:29.25,Default,Hazel,0,0,0,,The White Fang is prepping demolition
-Dialogue: 0,0:05:29.32,0:05:31.08,Default,Hazel,0,0,0,,and securing the school grounds.
-Dialogue: 0,0:05:32.08,0:05:33.26,Default,Hazel,0,0,0,,No one's getting in,
-Dialogue: 0,0:05:34.98,0:05:36.44,Default,Hazel,0,0,0,,and no one's getting out.
-Dialogue: 0,0:05:47.21,0:05:50.34,Default,Adam,0,0,0,,Once the charges are set, move back to perimeter watch.
-Dialogue: 0,0:05:50.80,0:05:51.58,Default,Adam,0,0,0,,Tonight,
-Dialogue: 0,0:05:51.95,0:05:53.36,Default,Adam,0,0,0,,Haven falls.
-Dialogue: 0,0:05:56.93,0:05:58.88,Default,Weiss,0,0,0,,This was all just a trap?
-Dialogue: 0,0:05:59.84,0:06:00.90,Default,Ren,0,0,0,,It appears so…
-Dialogue: 0,0:06:01.50,0:06:02.18,Default,Qrow,0,0,0,,Raven,
-Dialogue: 0,0:06:02.94,0:06:03.71,Default,Qrow,0,0,0,,tell me…
-Dialogue: 0,0:06:04.56,0:06:06.25,Default,Qrow,0,0,0,,How long have you been with them?
-Dialogue: 0,0:06:07.82,0:06:09.90,Default,Cinder,0,0,0,,Aww, don’t take it personally, little bird.
-Dialogue: 0,0:06:10.37,0:06:12.18,Default,Cinder,0,0,0,,Your sister was a recent addition.
-Dialogue: 0,0:06:12.84,0:06:14.40,Default,Cinder,0,0,0,,The lion on the other hand…
-Dialogue: 0,0:06:15.59,0:06:18.44,Default,Cinder,0,0,0,,Entrance into the Vytal Festival was a real treat,
-Dialogue: 0,0:06:18.98,0:06:23.38,Default,Cinder,0,0,0,,but Leonardo’s been sending Salem all sorts of information for a very,
-Dialogue: 0,0:06:23.82,0:06:25.25,Default,Cinder,0,0,0,,very long time.
-Dialogue: 0,0:06:26.15,0:06:28.18,Default,Cinder,0,0,0,,Isn't that right, professor?
-Dialogue: 0,0:06:28.52,0:06:29.47,Default,Leo,0,0,0,,Stop it…
-Dialogue: 0,0:06:29.97,0:06:30.86,Default,Qrow,0,0,0,,It was you…
-Dialogue: 0,0:06:32.89,0:06:34.84,Default,Qrow,0,0,0,,You sit on the Mistral Council.
-Dialogue: 0,0:06:35.88,0:06:39.64,Default,Qrow,0,0,0,,You had information on every Huntsman and Huntress in the Kingdom,
-Dialogue: 0,0:06:40.40,0:06:42.22,Default,Qrow,0,0,0,,and you gave it all to her.
-Dialogue: 0,0:06:44.05,0:06:44.51,Default,Leo,0,0,0,,I…-
-Dialogue: 0,0:06:44.51,0:06:46.28,Default,Qrow,0,0,0,,I couldn’t find any of them,
-Dialogue: 0,0:06:47.20,0:06:49.36,Default,Qrow,0,0,0,,because you let her kill them!
-Dialogue: 0,0:06:51.48,0:06:54.21,Default,Cinder,0,0,0,,Aw now, don’t beat yourself up about it, Lionheart,
-Dialogue: 0,0:06:54.75,0:06:58.62,Default,Cinder,0,0,0,,I’m sure Tyrian and Hazel would’ve found them on their own eventually.
-Dialogue: 0,0:06:59.06,0:07:00.70,Default,Jaune,0,0,0,,What is wrong with you?
-Dialogue: 0,0:07:04.18,0:07:06.52,Default,Jaune,0,0,0,,How can you be so broken inside…
-Dialogue: 0,0:07:07.28,0:07:08.58,Default,Jaune,0,0,0,,To take so many lives,
-Dialogue: 0,0:07:09.20,0:07:12.22,Default,Jaune,0,0,0,,and then come here and rub it in our faces like it’s something to be proud of?! 
-Dialogue: 0,0:07:13.90,0:07:14.58,Default,Nora,0,0,0,,Jaune…
-Dialogue: 0,0:07:15.99,0:07:18.24,Default,Jaune,0,0,0,,All with that damn smile on your face!
-Dialogue: 0,0:07:19.17,0:07:21.43,Default,Qrow,0,0,0,,Everybody, stay calm!
-Dialogue: 0,0:07:25.43,0:07:27.39,Default,Jaune,0,0,0,,I’m gonna make you pay for what you did!
-Dialogue: 0,0:07:28.00,0:07:28.79,Default,Jaune,0,0,0,,Do you hear me?
-Dialogue: 0,0:07:29.16,0:07:29.54,Default,Qrow,0,0,0,,Kid!
-Dialogue: 0,0:07:30.12,0:07:30.71,Default,Jaune,0,0,0,,Well?!
-Dialogue: 0,0:07:31.28,0:07:32.49,Default,Jaune,0,0,0,,Say something!
-Dialogue: 0,0:07:36.87,0:07:37.86,Default,Cinder,0,0,0,,Who are you again?
-Dialogue: 0,0:07:50.58,0:07:51.22,Default,Ruby,0,0,0,,Jaune!
-Dialogue: 0,0:07:56.63,0:07:58.18,Default,Emerald,0,0,0,,You’re not getting near her.
-Dialogue: 0,0:08:06.03,0:08:07.32,Default,Mercury,0,0,0,,Hey there, blondie.
-Dialogue: 0,0:08:07.74,0:08:10.40,Default,Mercury,0,0,0,,I'm thinking you owe me an apology for my leg
-Dialogue: 0,0:08:10.98,0:08:11.86,Default,Mercury,0,0,0,,don’t you think?
-Dialogue: 0,0:08:15.04,0:08:16.09,Default,Raven,0,0,0,,Take out the heiress.
-Dialogue: 0,0:08:16.38,0:08:18.76,Default,Raven,0,0,0,,Don’t bother wasting your power, she’s not worth it.
-Dialogue: 0,0:08:21.37,0:08:23.60,Default,Qrow,0,0,0,,Running away was one thing, but this…
-Dialogue: 0,0:08:24.00,0:08:25.39,Default,Qrow,0,0,0,,You’ve crossed the line!
-Dialogue: 0,0:08:26.01,0:08:27.26,Default,Raven,0,0,0,,Sorry, brother.
-Dialogue: 0,0:08:27.58,0:08:30.39,Default,Raven,0,0,0,,Sometimes family disappoints you like that.
-Dialogue: 0,0:08:30.99,0:08:32.96,Default,Qrow,0,0,0,,We’re not family anymore.
-Dialogue: 0,0:08:33.49,0:08:34.68,Default,Raven,0,0,0,,Were we ever?
-Dialogue: 0,0:08:35.14,0:08:36.50,Default,Qrow,0,0,0,,I thought so,
-Dialogue: 0,0:08:37.38,0:08:39.02,Default,Qrow,0,0,0,,but I guess I was wrong.
-Dialogue: 0,0:08:44.32,0:08:47.13,Default,Vernal,0,0,0,,Let's see what the Schnee name really means.
-Dialogue: 0,0:08:49.57,0:08:51.59,Default,Weiss,0,0,0,,I’m more than a name.
-Dialogue: 0,0:08:53.76,0:08:55.16,Default,Vernal,0,0,0,,Prove it.
-Dialogue: 0,0:09:06.20,0:09:08.86,Default,Hazel,0,0,0,,I don’t wish to fight either of you. 
-Dialogue: 0,0:09:09.76,0:09:10.96,Default,Ren,0,0,0,,Nor I you.
-Dialogue: 0,0:09:11.24,0:09:13.30,Default,Nora,0,0,0,,But we will if you’re with her!
-Dialogue: 0,0:09:18.66,0:09:20.16,Default,Hazel,0,0,0,,Very well, then.
-Dialogue: 0,0:09:35.32,0:09:36.44,Default,Leo,0,0,0,,Young man,
-Dialogue: 0,0:09:36.44,0:09:40.19,Default,Leo,0,0,0,,I don’t know who you are or what you think you’re doing,
-Dialogue: 0,0:09:40.47,0:09:41.77,Default,Leo,0,0,0,,but for your sake,
-Dialogue: 0,0:09:41.94,0:09:43.62,Default,Leo,0,0,0,,I suggest you leave.
-Dialogue: 0,0:09:44.52,0:09:45.62,Default,Leo,0,0,0,,Now.
-Dialogue: 0,0:09:52.55,0:09:54.05,Default,Leo,0,0,0,,I’m warning you!
-Dialogue: 0,0:09:58.53,0:09:59.64,Default,Leo,0,0,0,,That’s enough!
-Dialogue: 0,0:10:27.09,0:10:28.57,Default,Leo,0,0,0,,Ozpin?
-Dialogue: 0,0:10:30.24,0:10:31.32,Default,Oscar,0,0,0,,Not quite.
-Dialogue: 0,0:10:46.16,0:10:47.70,Default,Leo,0,0,0,,This can’t be…
-Dialogue: 0,0:10:48.17,0:10:49.84,Default,Leo,0,0,0,,I knew you would be back, but…
-Dialogue: 0,0:10:50.06,0:10:52.91,Default,Leo,0,0,0,,You made it here! You found Qrow!
-Dialogue: 0,0:10:53.46,0:10:54.45,Default,Leo,0,0,0,,How?
-Dialogue: 0,0:10:56.22,0:10:57.12,Default,Ozpin,0,0,0,,Leo…
-Dialogue: 0,0:10:58.11,0:10:59.74,Default,Ozpin,0,0,0,,What happened to you?
-Dialogue: 0,0:11:01.00,0:11:01.74,Default,Leo,0,0,0,,Wait.
-Dialogue: 0,0:11:02.34,0:11:04.55,Default,Leo,0,0,0,,You can’t have had this form for long.
-Dialogue: 0,0:11:05.11,0:11:05.93,Default,Leo,0,0,0,,You’re…
-Dialogue: 0,0:11:07.04,0:11:09.58,Default,Leo,0,0,0,,…not really Ozpin right now
-Dialogue: 0,0:11:10.72,0:11:11.79,Default,Leo,0,0,0,,Boy.
-Dialogue: 0,0:11:12.31,0:11:13.40,Default,Leo,0,0,0,,Child.
-Dialogue: 0,0:11:15.32,0:11:19.37,Default,Leo,0,0,0,,f I deliver you to Salem, she’ll have to be pleased with me,
-Dialogue: 0,0:11:19.59,0:11:22.04,Default,Leo,0,0,0,,and I can finally get out of all of this!
-Dialogue: 0,0:11:22.78,0:11:25.28,Default,Leo,0,0,0,,I can finally be free!
-Dialogue: 0,0:11:30.41,0:11:31.61,Default,Oscar,0,0,0,,What do I do?
-Dialogue: 0,0:11:33.22,0:11:34.18,Default,Ozpin,0,0,0,,Fight.
-Dialogue: 0,0:12:08.02,0:12:11.00,Default,Vernal,0,0,0,,Don’t think I’m going to let you take the easy way out.
-Dialogue: 0,0:12:13.76,0:12:15.97,Default,Cinder,0,0,0,,I’m starting to remember you,
-Dialogue: 0,0:12:16.24,0:12:20.18,Default,Cinder,0,0,0,,you’re the dense one that can’t tell when he’s out of his league.
-Dialogue: 0,0:12:26.51,0:12:28.62,Default,Ruby,0,0,0,,Why are you doing this?! Salem’s?
-Dialogue: 0,0:12:28.63,0:12:30.17,Default,Emerald,0,0,0,,I don’t care about Salem!
-Dialogue: 0,0:12:30.17,0:12:32.86,Default,Emerald,0,0,0,,But I owe Cinder everything.
-Dialogue: 0,0:12:34.12,0:12:35.79,Default,Emerald,0,0,0,,You want to fight her that bad?
-Dialogue: 0,0:12:36.71,0:12:38.06,Default,Emerald,0,0,0,,Be my guest.
-Dialogue: 0,0:13:07.75,0:13:10.00,Default,Cinder,0,0,0,,Are you going to let her die too?
-Dialogue: 0,0:13:10.32,0:13:12.22,Default,Jaune,0,0,0,,Stop messing with me!
-Dialogue: 0,0:13:12.74,0:13:14.44,Default,Cinder,0,0,0,,If that’s what you want…
-Dialogue: 0,0:13:32.30,0:13:35.03,Default,Ruby,0,0,0,,NOOOOOOOOOOOOOO!
-Dialogue: 0,0:14:05.83,0:14:08.75,Default,Cinder,0,0,0,,Did you think you actually had a chance against me?!
-Dialogue: 0,0:14:09.04,0:14:10.09,Default,Cinder,0,0,0,,You?!
-Dialogue: 0,0:14:16.32,0:14:18.98,Default,Cinder,0,0,0,,You’re just a failure with a death wish.
-Dialogue: 0,0:14:22.67,0:14:24.51,Default,Jaune,0,0,0,,If I die buying them time,
-Dialogue: 0,0:14:24.70,0:14:25.85,Default,Jaune,0,0,0,,then it’s worth it.
-Dialogue: 0,0:14:26.44,0:14:27.85,Default,Jaune,0,0,0,,They’re the ones that matter.
-Dialogue: 0,0:14:35.48,0:14:36.85,Default,Cinder,0,0,0,,You think so?
-Dialogue: 0,0:14:49.23,0:14:49.93,Default,Jaune,0,0,0,,No…
-Dialogue: 0,0:14:52.23,0:14:53.47,Default,Jaune,0,0,0,,NOOOOOOOOOOOOOO!
+Dialogue: 0,0:02:25.49,0:02:26.62,Default,,0,0,0,,- Why hello.
+Dialogue: 0,0:02:30.41,0:02:32.82,Default,,0,0,0,,Thank you for coming.
+Dialogue: 0,0:02:33.84,0:02:37.41,Default,,0,0,0,,There seems to more of you than last time.
+Dialogue: 0,0:02:38.27,0:02:39.51,Default,,0,0,0,,- Eh, you know what they say.
+Dialogue: 0,0:02:39.51,0:02:41.78,Default,,0,0,0,,The more the merrier.
+Dialogue: 0,0:02:41.78,0:02:43.64,Default,,0,0,0,,So what's going on with the council?
+Dialogue: 0,0:02:45.30,0:02:49.17,Default,,0,0,0,,- Why did you bring your weapons?
+Dialogue: 0,0:02:49.17,0:02:50.35,Default,,0,0,0,,- What?
+Dialogue: 0,0:02:50.35,0:02:53.16,Default,,0,0,0,,Leo, we're huntsman.
+Dialogue: 0,0:02:53.16,0:02:54.17,Default,,0,0,0,,Are you okay?
+Dialogue: 0,0:02:54.17,0:02:55.10,Default,,0,0,0,,- [Leonardo] Of course.
+Dialogue: 0,0:02:55.10,0:02:56.57,Default,,0,0,0,,Of course, sorry.
+Dialogue: 0,0:02:56.57,0:02:58.74,Default,,0,0,0,,Just haven't had my evening coffee.
+Dialogue: 0,0:02:58.74,0:03:00.07,Default,,0,0,0,,- [Qrow] Look it's nice to see you
+Dialogue: 0,0:03:00.07,0:03:02.01,Default,,0,0,0,,but we've got work to do.
+Dialogue: 0,0:03:02.01,0:03:04.47,Default,,0,0,0,,Are we getting support\Nfrom the council or not?
+Dialogue: 0,0:03:05.38,0:03:06.21,Default,,0,0,0,,- Mom?
+Dialogue: 0,0:03:16.39,0:03:17.88,Default,,0,0,0,,- Raven.
+Dialogue: 0,0:03:17.88,0:03:21.14,Default,,0,0,0,,- They really are magic.
+Dialogue: 0,0:03:23.23,0:03:26.07,Default,,0,0,0,,- If you're going to shoot me, shoot me.
+Dialogue: 0,0:03:26.07,0:03:27.43,Default,,0,0,0,,That was insulting.
+Dialogue: 0,0:03:28.58,0:03:30.36,Default,,0,0,0,,- What are you doing here?
+Dialogue: 0,0:03:31.65,0:03:33.35,Default,,0,0,0,,- I could ask you the same thing.
+Dialogue: 0,0:03:34.74,0:03:36.78,Default,,0,0,0,,You've been scheming little brother.
+Dialogue: 0,0:03:37.62,0:03:40.46,Default,,0,0,0,,Planning to attack your own sister.
+Dialogue: 0,0:03:40.46,0:03:42.63,Default,,0,0,0,,- Leo, what have you done?
+Dialogue: 0,0:03:44.09,0:03:45.69,Default,,0,0,0,,- Leo did what any sane person
+Dialogue: 0,0:03:45.69,0:03:47.70,Default,,0,0,0,,would in his position.
+Dialogue: 0,0:03:47.70,0:03:50.40,Default,,0,0,0,,He looked at all the information\Nhe had in front of him,
+Dialogue: 0,0:03:50.40,0:03:54.23,Default,,0,0,0,,assessed the situation, and made a choice.
+Dialogue: 0,0:03:56.60,0:03:58.67,Default,,0,0,0,,And it seems you all have too.
+Dialogue: 0,0:04:01.01,0:04:03.77,Default,,0,0,0,,- You have the spring maiden.
+Dialogue: 0,0:04:03.77,0:04:04.85,Default,,0,0,0,,- I do.
+Dialogue: 0,0:04:04.85,0:04:07.52,Default,,0,0,0,,- Then hand her over\Nand lets work together.
+Dialogue: 0,0:04:07.52,0:04:08.81,Default,,0,0,0,,We can beat Salem.
+Dialogue: 0,0:04:08.81,0:04:11.13,Default,,0,0,0,,- All the time spent spying for Ozpin
+Dialogue: 0,0:04:11.13,0:04:14.84,Default,,0,0,0,,and you still have no idea\Nwhat you're dealing with.
+Dialogue: 0,0:04:14.84,0:04:17.33,Default,,0,0,0,,There is no beating Salem.
+Dialogue: 0,0:04:17.33,0:04:18.27,Default,,0,0,0,,- You're wrong.
+Dialogue: 0,0:04:19.94,0:04:23.26,Default,,0,0,0,,We've done things most\Npeople would call impossible.
+Dialogue: 0,0:04:23.26,0:04:25.47,Default,,0,0,0,,And I know the only reason\Nwe were able to do it
+Dialogue: 0,0:04:25.47,0:04:27.40,Default,,0,0,0,,is because we didn't do it alone.
+Dialogue: 0,0:04:28.31,0:04:30.54,Default,,0,0,0,,We had people to teach us.
+Dialogue: 0,0:04:30.54,0:04:32.51,Default,,0,0,0,,People to help us.
+Dialogue: 0,0:04:32.51,0:04:33.73,Default,,0,0,0,,We had each other.
+Dialogue: 0,0:04:35.55,0:04:36.90,Default,,0,0,0,,Work with us.
+Dialogue: 0,0:04:38.29,0:04:40.33,Default,,0,0,0,,At least I know we'll have a better chance
+Dialogue: 0,0:04:40.33,0:04:41.81,Default,,0,0,0,,if we try together.
+Dialogue: 0,0:04:43.78,0:04:44.64,Default,,0,0,0,,Please.
+Dialogue: 0,0:04:47.96,0:04:50.45,Default,,0,0,0,,- You sound just like your mother.
+Dialogue: 0,0:04:53.76,0:04:54.59,Default,,0,0,0,,- Ruby!
+Dialogue: 0,0:04:57.40,0:04:59.10,Default,,0,0,0,,- Hello boys and girls.
+Dialogue: 0,0:05:02.00,0:05:02.83,Default,,0,0,0,,- Cinder.
+Dialogue: 0,0:05:11.20,0:05:12.22,Default,,0,0,0,,- C'mon guys.
+Dialogue: 0,0:05:12.22,0:05:14.78,Default,,0,0,0,,Is that anyway to greet your old friends?
+Dialogue: 0,0:05:16.53,0:05:18.01,Default,,0,0,0,,- Everybody stay calm.
+Dialogue: 0,0:05:24.09,0:05:24.92,Default,,0,0,0,,- Oh no.
+Dialogue: 0,0:05:27.17,0:05:29.34,Default,,0,0,0,,- The white fang is prepping demolition
+Dialogue: 0,0:05:29.34,0:05:31.14,Default,,0,0,0,,and securing the school grounds.
+Dialogue: 0,0:05:32.07,0:05:36.49,Default,,0,0,0,,No one's getting in, but\Nno one's getting out.
+Dialogue: 0,0:05:47.23,0:05:50.83,Default,,0,0,0,,- Once the charges are set,\Nmove back to perimeter watch.
+Dialogue: 0,0:05:50.83,0:05:53.47,Default,,0,0,0,,Tonight, Haven falls.
+Dialogue: 0,0:05:57.00,0:05:59.84,Default,,0,0,0,,- This was all just a trap?
+Dialogue: 0,0:05:59.84,0:06:01.50,Default,,0,0,0,,- It appears so.
+Dialogue: 0,0:06:01.50,0:06:06.21,Default,,0,0,0,,- Raven, tell me, how long\Nhave you been with them?
+Dialogue: 0,0:06:07.09,0:06:10.29,Default,,0,0,0,,- Aw, don't take it\Npersonally little bird.
+Dialogue: 0,0:06:10.29,0:06:12.80,Default,,0,0,0,,Your sister was a recent addition.
+Dialogue: 0,0:06:12.80,0:06:15.55,Default,,0,0,0,,The lion on the other hand...
+Dialogue: 0,0:06:15.55,0:06:18.95,Default,,0,0,0,,Entrance into the Vytal\NFestival was a real treat.
+Dialogue: 0,0:06:18.95,0:06:22.40,Default,,0,0,0,,But Leonardo's been sending\NSalem all sorts of information
+Dialogue: 0,0:06:22.40,0:06:26.14,Default,,0,0,0,,for a very, very long time.
+Dialogue: 0,0:06:26.14,0:06:28.52,Default,,0,0,0,,Isn't that right, Professor?
+Dialogue: 0,0:06:28.52,0:06:30.21,Default,,0,0,0,,- Stop it.
+Dialogue: 0,0:06:30.21,0:06:31.29,Default,,0,0,0,,- It was you.
+Dialogue: 0,0:06:33.02,0:06:34.84,Default,,0,0,0,,You sit on the Mistral Council.
+Dialogue: 0,0:06:35.84,0:06:38.17,Default,,0,0,0,,You had information on every huntsman
+Dialogue: 0,0:06:38.17,0:06:40.51,Default,,0,0,0,,and huntress in the kingdom.
+Dialogue: 0,0:06:40.51,0:06:42.79,Default,,0,0,0,,And you gave it all to her.
+Dialogue: 0,0:06:44.48,0:06:47.15,Default,,0,0,0,,I couldn't find any of them
+Dialogue: 0,0:06:47.15,0:06:49.26,Default,,0,0,0,,because you let her kill them.
+Dialogue: 0,0:06:51.68,0:06:54.74,Default,,0,0,0,,- Aw now, don't beat yourself\Nup over it Lionheart.
+Dialogue: 0,0:06:54.74,0:06:57.05,Default,,0,0,0,,I'm sure Tyrian and Hazel would have found
+Dialogue: 0,0:06:57.05,0:06:59.00,Default,,0,0,0,,them on their own eventually.
+Dialogue: 0,0:06:59.00,0:07:00.74,Default,,0,0,0,,- What is wrong with you?
+Dialogue: 0,0:07:04.14,0:07:07.27,Default,,0,0,0,,How can you be so broken inside?
+Dialogue: 0,0:07:07.27,0:07:09.76,Default,,0,0,0,,To take so many lives, and then come here
+Dialogue: 0,0:07:09.76,0:07:12.71,Default,,0,0,0,,and rub in in our faces like\Nit's something to be proud of.
+Dialogue: 0,0:07:13.97,0:07:14.80,Default,,0,0,0,,- Jaune...
+Dialogue: 0,0:07:16.00,0:07:18.33,Default,,0,0,0,,- All with that damn smile on your face!
+Dialogue: 0,0:07:19.57,0:07:21.40,Default,,0,0,0,,- Everybody stay calm.
+Dialogue: 0,0:07:25.48,0:07:27.93,Default,,0,0,0,,- I'm gonna make you pay for what you did.
+Dialogue: 0,0:07:27.93,0:07:29.15,Default,,0,0,0,,Do you hear me?
+Dialogue: 0,0:07:29.15,0:07:29.98,Default,,0,0,0,,- Kid.
+Dialogue: 0,0:07:29.98,0:07:32.14,Default,,0,0,0,,- [Jaune] Well, say something!
+Dialogue: 0,0:07:36.79,0:07:38.14,Default,,0,0,0,,- Who are you again?
+Dialogue: 0,0:07:50.75,0:07:51.58,Default,,0,0,0,,- Jaune!
+Dialogue: 0,0:07:56.67,0:07:58.22,Default,,0,0,0,,- You're not getting near her.
+Dialogue: 0,0:08:05.99,0:08:08.71,Default,,0,0,0,,- Hey there blondie,\NI'm thinking you owe me
+Dialogue: 0,0:08:08.71,0:08:11.00,Default,,0,0,0,,an apology for my leg.
+Dialogue: 0,0:08:11.00,0:08:11.99,Default,,0,0,0,,Don't you think?
+Dialogue: 0,0:08:14.96,0:08:16.36,Default,,0,0,0,,- Take out the Aeris.
+Dialogue: 0,0:08:16.36,0:08:17.86,Default,,0,0,0,,Don't bother wasting your power,
+Dialogue: 0,0:08:17.86,0:08:18.87,Default,,0,0,0,,she's not worth it.
+Dialogue: 0,0:08:21.36,0:08:22.73,Default,,0,0,0,,- Running away was one thing.
+Dialogue: 0,0:08:22.73,0:08:25.99,Default,,0,0,0,,But this, you've crossed a line.
+Dialogue: 0,0:08:25.99,0:08:30.99,Default,,0,0,0,,- Sorry brother, sometimes\Nfamily disappoints you like that.
+Dialogue: 0,0:08:31.00,0:08:32.69,Default,,0,0,0,,- We're not family anymore.
+Dialogue: 0,0:08:33.74,0:08:35.22,Default,,0,0,0,,- Were we ever?
+Dialogue: 0,0:08:35.22,0:08:38.93,Default,,0,0,0,,- I thought so, but I guess I was wrong.
+Dialogue: 0,0:08:44.33,0:08:47.04,Default,,0,0,0,,- Lets see what the\NSchnee name really means.
+Dialogue: 0,0:08:49.62,0:08:52.23,Default,,0,0,0,,- I'm more than a name.
+Dialogue: 0,0:08:52.23,0:08:54.73,Default,,0,0,0,,- Hmm, prove it.
+Dialogue: 0,0:09:06.61,0:09:08.60,Default,,0,0,0,,- I don't wish to fight either of you.
+Dialogue: 0,0:09:09.79,0:09:11.43,Default,,0,0,0,,- Nor I you.
+Dialogue: 0,0:09:11.43,0:09:13.08,Default,,0,0,0,,- But we will if you're with her.
+Dialogue: 0,0:09:18.69,0:09:19.94,Default,,0,0,0,,- Very well then.
+Dialogue: 0,0:09:35.32,0:09:38.02,Default,,0,0,0,,- Young man, I don't know who you are
+Dialogue: 0,0:09:38.02,0:09:40.50,Default,,0,0,0,,or what you think you're doing.
+Dialogue: 0,0:09:40.50,0:09:45.27,Default,,0,0,0,,But for your sake, I\Nsuggest you leave, now.
+Dialogue: 0,0:09:52.56,0:09:53.94,Default,,0,0,0,,I'm warning you!
+Dialogue: 0,0:09:58.63,0:09:59.80,Default,,0,0,0,,That's enough.
+Dialogue: 0,0:10:27.37,0:10:28.20,Default,,0,0,0,,Ozpin?
+Dialogue: 0,0:10:30.28,0:10:31.11,Default,,0,0,0,,- Not quite!
+Dialogue: 0,0:10:46.47,0:10:49.24,Default,,0,0,0,,- This can't be, I knew you'd be back
+Dialogue: 0,0:10:49.24,0:10:53.47,Default,,0,0,0,,but you made it here, you found Qrow.
+Dialogue: 0,0:10:53.47,0:10:54.30,Default,,0,0,0,,How?
+Dialogue: 0,0:10:55.90,0:10:59.46,Default,,0,0,0,,- [Ozpin's Voiceover]\NLeo, what happened to you?
+Dialogue: 0,0:11:01.15,0:11:03.98,Default,,0,0,0,,- Wait, you can't of\Nhad this form for long.
+Dialogue: 0,0:11:05.14,0:11:09.29,Default,,0,0,0,,You're not really Ozpin right now.
+Dialogue: 0,0:11:10.82,0:11:13.17,Default,,0,0,0,,A boy, a child.
+Dialogue: 0,0:11:15.41,0:11:19.64,Default,,0,0,0,,If I deliver you to Salem, he'll\Nhave to be pleased with me.
+Dialogue: 0,0:11:19.64,0:11:21.85,Default,,0,0,0,,And I can finally get out of all this.
+Dialogue: 0,0:11:22.80,0:11:25.09,Default,,0,0,0,,I can finally be free.
+Dialogue: 0,0:11:30.63,0:11:31.46,Default,,0,0,0,,- What do I do?
+Dialogue: 0,0:11:33.42,0:11:34.51,Default,,0,0,0,,[Ozpin's Voiceover] Fight?
+Dialogue: 0,0:12:08.01,0:12:10.86,Default,,0,0,0,,- Don't think I'm going to\Nlet you take the easy way out.
+Dialogue: 0,0:12:13.81,0:12:16.35,Default,,0,0,0,,- I'm starting to remember you.
+Dialogue: 0,0:12:16.35,0:12:18.21,Default,,0,0,0,,You're the dense one that can't tell
+Dialogue: 0,0:12:18.21,0:12:20.01,Default,,0,0,0,,when he's out of his league.
+Dialogue: 0,0:12:26.86,0:12:28.35,Default,,0,0,0,,- Why are you doing this?
+Dialogue: 0,0:12:28.35,0:12:29.18,Default,,0,0,0,,Salem...
+Dialogue: 0,0:12:29.19,0:12:32.74,Default,,0,0,0,,- I don't care about Salem,\Nbut I owe Cinder everything.
+Dialogue: 0,0:12:34.09,0:12:35.71,Default,,0,0,0,,You want to fight her that bad?
+Dialogue: 0,0:12:36.71,0:12:37.89,Default,,0,0,0,,Be my guest.
+Dialogue: 0,0:13:07.76,0:13:10.39,Default,,0,0,0,,- Are you gonna let her die too?
+Dialogue: 0,0:13:10.39,0:13:12.02,Default,,0,0,0,,- Stop messing with me!
+Dialogue: 0,0:13:13.14,0:13:14.44,Default,,0,0,0,,- If that's what you want.
+Dialogue: 0,0:13:32.59,0:13:33.42,Default,,0,0,0,,- No!
+Dialogue: 0,0:14:05.86,0:14:09.11,Default,,0,0,0,,- Did you think you actually\Nhad a chance against me?
+Dialogue: 0,0:14:09.11,0:14:09.94,Default,,0,0,0,,You?
+Dialogue: 0,0:14:16.40,0:14:18.93,Default,,0,0,0,,You're just a failure with a death wish.
+Dialogue: 0,0:14:22.69,0:14:26.50,Default,,0,0,0,,- If I die buying them\Ntime, then it's worth it.
+Dialogue: 0,0:14:26.50,0:14:28.01,Default,,0,0,0,,They're the ones that matter.
+Dialogue: 0,0:14:35.66,0:14:36.91,Default,,0,0,0,,- You think so?
+Dialogue: 0,0:14:49.62,0:14:50.45,Default,,0,0,0,,- No.
+Dialogue: 0,0:14:52.43,0:14:53.26,Default,,0,0,0,,No!

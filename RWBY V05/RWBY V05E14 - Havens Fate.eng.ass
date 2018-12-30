@@ -16,253 +16,346 @@ Style: Karaoke,FuturaBookC,70,&H004000FF,&H60FFFFFF,&H20000000,&H60FFFFFF,-1,-1,
 Style: Karaoke-Weiss,FuturaBookC,70,&H00D09E8E,&H60FFFFFF,&H20000000,&H60FFFFFF,-1,-1,0,0,100,100,1,0,1,2,2,8,10,10,40,1
 Style: Karaoke-Blake,FuturaBookC,70,&H00000000,&H60FFFFFF,&H20FFFFFF,&H60000000,-1,-1,0,0,100,100,1,0,1,2,2,8,10,10,40,1
 Style: Karaoke-Yang,FuturaBookC,70,&H0023EDFA,&H60FFFFFF,&H20000000,&H60FFFFFF,-1,-1,0,0,100,100,1,0,1,2,2,8,10,10,40,1
-Style: Karaoke-Blake2,FuturaBookC,70,&H00CF1F5F,&H00404040,&H20FFFFFF,&H602F2F30,-1,-1,0,0,100,100,1,0,1,2,0,8,10,10,40,1
+Style: Chibi-block,Candara,10,&H00000000,&H00000000,&HFF000000,&HFF000000,-1,0,0,0,100,100,0,0,1,0,0,7,0,0,0,1
+Style: Karaoke-Blake2,FuturaBookC,70,&H00CF1F5F,&H00202020,&H20FFFFFF,&H60202020,-1,-1,0,0,100,100,1,0,1,1.5,0,8,10,10,40,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:10.18,0:00:13.02,Karaoke,,0,0,0,,{\kf33}Back {\kf22}to {\kf11}the {\kf78}fairytale, {\kf36}back {\kf19}to {\kf15}the {\kf68}show
-Dialogue: 0,0:00:13.02,0:00:15.93,Karaoke-Weiss,,0,0,0,,{\kf36}Back {\kf21}to {\kf21}the {\kf39}wall {\kf16}and {\kf20}there's {\kf55}nowhere {\kf18}to {\kf75}go
-Dialogue: 0,0:00:15.93,0:00:18.85,Karaoke-Blake,,0,0,0,,{\kf63}Hopeless {\kf16}and {\kf72}desperate, {\kf32}all {\kf22}paths {\kf88}adverse
-Dialogue: 0,0:00:18.85,0:00:22.02,Karaoke-Yang,,0,0,0,,{\kf38}Things {\kf33}looking {\kf31}bleak, {\kf22}and {\kf23}they're {\kf38}bound {\kf19}to {\kf18}get {\kf94}worse
-Dialogue: 0,0:00:27.52,0:00:30.39,Karaoke,,0,0,0,,{\kf66}Helpless {\kf23}and {\kf34}doomed, {\kf20}and {\kf17}there's {\kf30}no {\kf23}way {\kf16}to {\kf57}win
+Dialogue: 0,0:00:10.18,0:00:13.00,Karaoke,,0,0,0,,{\kf33}Back {\kf22}to {\kf11}the {\kf78}fairytale, {\kf36}back {\kf19}to {\kf15}the {\kf68}show
+Dialogue: 0,0:00:13.00,0:00:15.94,Karaoke-Weiss,,0,0,0,,{\kf36}Back {\kf21}to {\kf21}the {\kf39}wall {\kf16}and {\kf20}there's {\kf55}nowhere {\kf18}to {\kf75}go
+Dialogue: 0,0:00:15.94,0:00:18.87,Karaoke-Blake,,0,0,0,,{\kf63}Hopeless {\kf16}and {\kf72}desperate, {\kf32}all {\kf22}paths {\kf88}adverse
+Dialogue: 0,0:00:18.87,0:00:22.03,Karaoke-Yang,,0,0,0,,{\kf38}Things {\kf33}looking {\kf31}bleak, {\kf22}and {\kf23}they're {\kf38}bound {\kf19}to {\kf18}get {\kf94}worse
+Dialogue: 0,0:00:27.53,0:00:30.39,Karaoke,,0,0,0,,{\kf66}Helpless {\kf23}and {\kf34}doomed, {\kf20}and {\kf17}there's {\kf30}no {\kf23}way {\kf16}to {\kf57}win
 Dialogue: 0,0:00:30.39,0:00:33.35,Karaoke,,0,0,0,,{\kf54}Goals {\kf102}unachievable, {\kf39}faith {\kf38}running {\kf63}thin
-Dialogue: 0,0:00:33.35,0:00:36.27,Karaoke,,0,0,0,,{\kf33}Lost {\kf31}and {\kf74}forlorn, {\kf98}impossible {\kf54}odds
-Dialogue: 0,0:00:36.27,0:00:39.68,Karaoke,,0,0,0,,{\kf37}That's {\kf25}when {\kf31}you'll {\kf23}learn {\kf19}you've {\kf17}been {\kf44}messing {\kf41}with {\kf105}gods!
-Dialogue: 0,0:00:39.68,0:00:41.97,Karaoke,,0,0,0,,{\kf19}Send {\kf22}in {\kf23}your {\kf24}grimm, {\kf51}tear {\kf24}off {\kf18}my {\kf51}limb
-Dialogue: 0,0:00:41.97,0:00:44.97,Karaoke,,0,0,0,,{\kf45}Strike {\kf27}me {\kf21}with {\kf36}bolts {\kf17}of {\kf70}light{\kf84}ning
-Dialogue: 0,0:00:44.97,0:00:50.64,Karaoke,,0,0,0,,{\kf152}I {\kf93}wo{\kf52}n't {\kf178}di{\kf89}e
-Dialogue: 0,0:00:50.64,0:00:56.60,Karaoke,,0,0,0,,{\kf27}The {\kf65}battle {\kf64}seems {\kf142}unwinnable, {\kf21}but {\kf44}all {\kf30}we {\kf52}need's {\kf28}a {\kf123}miracle
-Dialogue: 0,0:00:56.60,0:01:02.06,Karaoke,,0,0,0,,{\kf19}We're {\kf67}going {\kf53}up {\kf28}we'll {\kf65}never {\kf51}be {\kf263}denied!
-Dialogue: 0,0:01:02.27,0:01:05.18,Karaoke,,0,0,0,,{\kf27}Can't {\kf59}wish {\kf65}away {\kf23}the {\kf71}dismal {\kf49}days
-Dialogue: 0,0:01:05.18,0:01:08.14,Karaoke,,0,0,0,,{\kf25}Can't {\kf53}bring {\kf27}back {\kf48}what {\kf23}is {\kf118}gone
-Dialogue: 0,0:01:08.14,0:01:11.10,Karaoke,,0,0,0,,{\kf22}Won't {\kf55}waste {\kf19}more {\kf51}tears {\kf20}on {\kf129}yesteryears
-Dialogue: 0,0:01:11.10,0:01:13.97,Karaoke,,0,0,0,,{\kf53}Instead {\kf20}we'll {\kf86}carry {\kf129}on
-Dialogue: 0,0:01:13.97,0:01:16.85,Karaoke,,0,0,0,,{\kf21}We'll {\kf36}win, {\kf19}we're {\kf73}sure {\kf17}we {\kf57}will {\kf67}endure
-Dialogue: 0,0:01:16.85,0:01:19.85,Karaoke,,0,0,0,,{\kf25}And {\kf49}though {\kf21}our {\kf54}goal {\kf20}is {\kf129}far
-Dialogue: 0,0:01:19.85,0:01:22.77,Karaoke,,0,0,0,,{\kf51}We'll {\kf26}be {\kf23}the {\kf41}ones {\kf24}to {\kf46}touch {\kf21}the {\kf58}sun
-Dialogue: 0,0:01:22.77,0:01:28.31,Karaoke,,0,0,0,,{\kf27}The {\kf131}Triumph {\kf73}will {\kf106}be {\kf219}ours!
-Dialogue: 0,0:01:39.84,0:01:41.64,Default,Police,0,0,0,,Cease fire, immediately!
-Dialogue: 0,0:02:03.45,0:02:04.50,Default,Faunus,0,0,0,,Thank you.
-Dialogue: 0,0:02:10.97,0:02:14.69,Default,Adam,0,0,0,,I’m going to make you regret ever coming back.
-Dialogue: 0,0:02:14.98,0:02:17.30,Default,Blake,0,0,0,,More police are on their way, Adam.
-Dialogue: 0,0:02:17.32,0:02:18.32,Default,Blake,0,0,0,,Huntsmen too.
-Dialogue: 0,0:02:19.74,0:02:23.14,Default,Adam,0,0,0,,Still too afraid to face me on your own.
-Dialogue: 0,0:02:24.15,0:02:25.56,Default,Blake,0,0,0,,I’m here for Haven,
-Dialogue: 0,0:02:26.07,0:02:27.27,Default,Blake,0,0,0,,not you.
-Dialogue: 0,0:02:33.34,0:02:36.21,Default,Adam,0,0,0,,You are still afraid, and you should be.
-Dialogue: 0,0:02:36.41,0:02:39.35,Default,Adam,0,0,0,,I’ve made powerful friends while you’ve been away.
-Dialogue: 0,0:02:39.40,0:02:40.32,Default,Sun,0,0,0,,{\i1}Oh yeah?{\i0}
-Dialogue: 0,0:02:43.16,0:02:43.93,Default,Sun,0,0,0,,Where?
-Dialogue: 0,0:02:45.68,0:02:46.65,Default,Adam,0,0,0,,Tell me,
-Dialogue: 0,0:02:46.72,0:02:49.73,Default,Adam,0,0,0,,...does Blake make all of her classmates fight for her?
-Dialogue: 0,0:02:50.28,0:02:52.25,Default,Sun,0,0,0,,Nah, it’s a volunteer gig.
-Dialogue: 0,0:02:52.30,0:02:55.68,Default,Sun,0,0,0,,I’m just sayin’, for someone who claims to have such great friends,
-Dialogue: 0,0:02:55.69,0:02:58.57,Default,Sun,0,0,0,,…there doesn’t seem to be a lot of people here willing to fight for you.
-Dialogue: 0,0:03:07.64,0:03:10.81,Default,Blake,0,0,0,,{\i1}You can try and make me regret coming here, Adam,{\i0}
-Dialogue: 0,0:03:11.88,0:03:13.06,Default,Blake,0,0,0,,…but honestly…
-Dialogue: 0,0:03:14.61,0:03:16.80,Default,Blake,0,0,0,,I’ve got more important things to deal with.
-Dialogue: 0,0:03:27.40,0:03:28.61,Default,Blake,0,0,0,,{\i1}Sun, wait!{\i0}
-Dialogue: 0,0:03:28.82,0:03:31.09,Default,Sun,0,0,0,,But he’s getting away! We could take him!
-Dialogue: 0,0:03:32.36,0:03:33.15,Default,Blake,0,0,0,,No.
-Dialogue: 0,0:03:33.39,0:03:34.43,Default,Blake,0,0,0,,We can't.
-Dialogue: 0,0:03:35.02,0:03:37.58,Default,Blake,0,0,0,,He wants to lure us away so he can pick us off.
-Dialogue: 0,0:03:38.17,0:03:40.56,Default,Blake,0,0,0,,We need to protect the school and the people here.
-Dialogue: 0,0:03:41.28,0:03:42.26,Default,Blake,0,0,0,,Besides…
-Dialogue: 0,0:03:43.20,0:03:45.80,Default,Blake,0,0,0,,…now he can see what it feels like to run away.
-Dialogue: 0,0:03:47.58,0:03:48.44,Default,Blake,0,0,0,,Thank you.
-Dialogue: 0,0:03:49.47,0:03:51.49,Default,Sun,0,0,0,,Eh, we all need help sometimes.
-Dialogue: 0,0:03:54.23,0:03:56.51,Default,Sun,0,0,0,,I think there’s a few people who could use yours.
-Dialogue: 0,0:03:58.65,0:03:59.68,Default,Blake,0,0,0,,Be careful.
-Dialogue: 0,0:04:00.69,0:04:01.71,Default,Sun,0,0,0,,No promises.
-Dialogue: 0,0:04:08.42,0:04:09.37,Default,Jaune,0,0,0,,You guys okay?
-Dialogue: 0,0:04:11.22,0:04:12.16,Default,Ren,0,0,0,,Surviving…
-Dialogue: 0,0:04:12.63,0:04:14.98,Default,Nora,0,0,0,,I don’t know how that big guy is still standing.
-Dialogue: 0,0:04:15.18,0:04:18.23,Default,Nora,0,0,0,,He recharges his Aura faster than I’ve ever seen!
-Dialogue: 0,0:04:20.61,0:04:22.54,Default,Qrow,0,0,0,,He’s sheer willpower.
-Dialogue: 0,0:04:25.34,0:04:27.57,Default,Oscar,0,0,0,,We just need to get him to his limit!
-Dialogue: 0,0:04:46.88,0:04:47.93,Default,Blake,0,0,0,,Are you hurt?
-Dialogue: 0,0:04:48.51,0:04:52.52,Default,Weiss,0,0,0,,N- No! I just remembered you being more of the quiet one.
-Dialogue: 0,0:04:55.46,0:04:56.75,Default,Blake,0,0,0,,Not today.
-Dialogue: 0,0:04:57.32,0:05:00.50,Default,Weiss,0,0,0,,Alright. W- what’s the plan, Ruby?
-Dialogue: 0,0:05:10.22,0:05:12.04,Default,Mercury,0,0,0,,You’ve gotta be kidding me…
-Dialogue: 0,0:05:16.07,0:05:17.00,Default,Ruby,0,0,0,,"Checkmate"!
-Dialogue: 0,0:05:24.29,0:05:25.79,Default,Raven,0,0,0,,{\i1}I warned you, Yang.{\i0}
-Dialogue: 0,0:05:26.01,0:05:29.72,Default,Raven,0,0,0,,I gave you every opportunity to walk away from Qrow and Oz.
-Dialogue: 0,0:05:30.10,0:05:33.48,Default,Raven,0,0,0,,So you can believe me when I say this wasn’t personal.
-Dialogue: 0,0:05:35.34,0:05:36.54,Default,Yang,0,0,0,,You opened the vault.
-Dialogue: 0,0:05:37.82,0:05:41.03,Default,Raven,0,0,0,,Thanks to the chaos you and your friends caused upstairs.
-Dialogue: 0,0:05:41.28,0:05:42.71,Default,Raven,0,0,0,,I knew you could handle it.
-Dialogue: 0,0:05:42.92,0:05:44.52,Default,Raven,0,0,0,,You’re my daughter after all.
-Dialogue: 0,0:05:44.52,0:05:48.36,Default,Yang,0,0,0,,Qrow and Oz told me how the Maiden powers are transferred. The girl you found…
-Dialogue: 0,0:05:49.33,0:05:52.28,Default,Yang,0,0,0,,she would’ve had to have trusted you if you were in her final thoughts
-Dialogue: 0,0:05:52.46,0:05:53.77,Default,Yang,0,0,0,,cared about you a lot. 
-Dialogue: 0,0:05:54.38,0:05:58.88,Default,Raven,0,0,0,,I’m sure they told you plenty, and you just sat and obeyed.
-Dialogue: 0,0:05:59.07,0:05:59.81,Default,Yang,0,0,0,,No,
-Dialogue: 0,0:06:00.04,0:06:02.35,Default,Yang,0,0,0,,I’m starting to ask questions like you said.
-Dialogue: 0,0:06:02.83,0:06:03.85,Default,Yang,0,0,0,,So tell me,
-Dialogue: 0,0:06:04.86,0:06:06.80,Default,Yang,0,0,0,,...what happened to the last Spring Maiden?
-Dialogue: 0,0:06:07.38,0:06:08.80,Default,Yang,0,0,0,,Did she die in battle?
-Dialogue: 0,0:06:09.02,0:06:10.20,Default,Yang,0,0,0,,Was it sickness?
-Dialogue: 0,0:06:12.21,0:06:13.84,Default,Raven,0,0,0,,What does it matter to you?
-Dialogue: 0,0:06:16.00,0:06:17.56,Default,Yang,0,0,0,,I can already see the answer.
-Dialogue: 0,0:06:18.60,0:06:20.11,Default,Yang,0,0,0,,It’s all over your face.
-Dialogue: 0,0:06:21.18,0:06:22.39,Default,Yang,0,0,0,,How could you?!
-Dialogue: 0,0:06:23.36,0:06:26.27,Default,Raven,0,0,0,,She was scared when we found her! Weak.
-Dialogue: 0,0:06:26.50,0:06:30.31,Default,Raven,0,0,0,,No matter how much training I put her through, she never learned!
-Dialogue: 0,0:06:30.44,0:06:35.94,Default,Raven,0,0,0,,She wasn’t cut out for this world! And with those powers, she would’ve been hunted her entire life!
-Dialogue: 0,0:06:36.14,0:06:37.97,Default,Raven,0,0,0,,– What I did-
-Dialogue: 0,0:06:37.11,0:06:37.97,Default,Yang,0,0,0,,– "Wasn’t personal."
-Dialogue: 0,0:06:37.97,0:06:39.26,Default,Raven,0,0,0,,It was mercy!
-Dialogue: 0,0:06:39.55,0:06:40.80,Default,Yang,0,0,0,,{\i1}Which is it, mom?{\i0}
-Dialogue: 0,0:06:41.16,0:06:42.31,Default,Yang,0,0,0,,Are you merciful,
-Dialogue: 0,0:06:42.62,0:06:44.02,Default,Yang,0,0,0,,...or are you a survivor?
-Dialogue: 0,0:06:44.52,0:06:49.81,Default,Yang,0,0,0,,Did you let me walk into that trap because you knew I could handle it, or because if many could get what you wanted?!
-Dialogue: 0,0:06:50.25,0:06:51.74,Default,Raven,0,0,0,,It’s not that simple.
-Dialogue: 0,0:06:52.00,0:06:56.30,Default,Raven,0,0,0,,You don’t know me, you don’t know what I’ve been through, the choices I’ve had to make!
-Dialogue: 0,0:06:56.66,0:06:57.58,Default,Yang,0,0,0,,You’re right.
-Dialogue: 0,0:06:58.10,0:06:59.21,Default,Yang,0,0,0,,I don’t know you.
-Dialogue: 0,0:06:59.74,0:07:01.80,Default,Yang,0,0,0,,I only know the Raven dad told me about.
-Dialogue: 0,0:07:02.37,0:07:04.99,Default,Yang,0,0,0,,She was troubled, and complicated,
-Dialogue: 0,0:07:05.26,0:07:09.07,Default,Yang,0,0,0,,but she fought for what she believed in,\Nwhether it was her team or her tribe!
-Dialogue: 0,0:07:10.58,0:07:12.10,Default,Yang,0,0,0,,{\i1}Did you kill her too?{\i0}
-Dialogue: 0,0:07:15.74,0:07:19.11,Default,Raven,0,0,0,,I’ve stared death in the face over and over again!
-Dialogue: 0,0:07:19.11,0:07:25.06,Default,Raven,0,0,0,,And every time I’ve spat in that face and survived, because I’m strong enough to do what others won’t!
-Dialogue: 0,0:07:25.10,0:07:26.50,Default,Yang,0,0,0,,{\i1}Oh, shut up!{\i0}
-Dialogue: 0,0:07:27.98,0:07:29.86,Default,Yang,0,0,0,,You don’t know the first thing about strength!
-Dialogue: 0,0:07:30.12,0:07:36.02,Default,Yang,0,0,0,,You turn your back on people, you run away when things get too hard, you put others in harm’s way instead of yourself!
-Dialogue: 0,0:07:37.74,0:07:39.23,Default,Yang,0,0,0,,You might be powerful,
-Dialogue: 0,0:07:40.71,0:07:42.08,Default,Yang,0,0,0,,but that doesn’t make you strong.
-Dialogue: 0,0:07:43.76,0:07:46.28,Default,Raven,0,0,0,,Who do you think you are lecturing me?!
-Dialogue: 0,0:07:46.40,0:07:49.40,Default,Raven,0,0,0,,Standing there, shaking like a scared little girl!
-Dialogue: 0,0:07:49.81,0:07:50.48,Default,Yang,0,0,0,,Yeah,
-Dialogue: 0,0:07:50.74,0:07:51.72,Default,Yang,0,0,0,,I’m scared.
-Dialogue: 0,0:07:52.56,0:07:54.18,Default,Yang,0,0,0,,But I’m still standing here!
-Dialogue: 0,0:07:56.66,0:07:57.96,Default,Yang,0,0,0,,I’m not like you,
-Dialogue: 0,0:07:58.36,0:07:59.88,Default,Yang,0,0,0,,I won’t run.
-Dialogue: 0,0:08:00.48,0:08:03.32,Default,Yang,0,0,0,,Which is why you’re going to give me the Relic.
-Dialogue: 0,0:08:03.97,0:08:07.69,Default,Raven,0,0,0,,– And why would I-
-Dialogue: 0,0:08:06.02,0:08:07.69,Default,Yang,0,0,0,,– Because you’re afraid of Salem!
-Dialogue: 0,0:08:08.76,0:08:11.90,Default,Yang,0,0,0,,And if you thought having Maiden powers put a target on your back,
-Dialogue: 0,0:08:12.60,0:08:15.93,Default,Yang,0,0,0,,imagine what she’ll do when she finds out you have a Relic.
-Dialogue: 0,0:08:17.60,0:08:20.34,Default,Yang,0,0,0,,{\i1}She’ll come after you with everything she has.{\i0}
-Dialogue: 0,0:08:21.62,0:08:23.05,Default,Yang,0,0,0,,{\i1}Or she can come after me.{\i0}
-Dialogue: 0,0:08:25.44,0:08:26.91,Default,Yang,0,0,0,,And I’ll be standing there,...
-Dialogue: 0,0:08:27.41,0:08:28.58,Default,Yang,0,0,0,,...waiting for her.
-Dialogue: 0,0:08:37.50,0:08:39.80,Default,Raven,0,0,0,,You don’t want to do this, Yang.
-Dialogue: 0,0:08:41.44,0:08:42.14,Default,Yang,0,0,0,,Nope.
-Dialogue: 0,0:08:43.71,0:08:45.20,Default,Yang,0,0,0,,But I’m gonna do it anyway.
-Dialogue: 0,0:08:55.57,0:08:56.36,Default,Raven,0,0,0,,I...
-Dialogue: 0,0:08:59.63,0:09:00.58,Default,Raven,0,0,0,,I’m sorry…
-Dialogue: 0,0:09:05.10,0:09:05.88,Default,Yang,0,0,0,,Yeah…
-Dialogue: 0,0:09:06.92,0:09:07.76,Default,Yang,0,0,0,,Me too. 
-Dialogue: 0,0:10:45.72,0:10:48.05,Default,Salem,0,0,0,,{\i1}And where might you be going?{\i0}
-Dialogue: 0,0:10:49.96,0:10:51.12,Default,Leo,0,0,0,,Uh, your grace!
-Dialogue: 0,0:10:52.26,0:10:54.26,Default,Leo,0,0,0,,I was just looking for something.
-Dialogue: 0,0:10:55.76,0:10:57.06,Default,Salem,0,0,0,,{\i1}Leonardo,{\i0}
-Dialogue: 0,0:10:57.24,0:11:00.00,Default,Salem,0,0,0,,{\i1}do you have something you wish to tell me?{\i0}
-Dialogue: 0,0:11:02.68,0:11:07.72,Default,Leo,0,0,0,,It was Cinder! She altered the plan! Huntsmen showed up here! Qrow!
-Dialogue: 0,0:11:07.92,0:11:11.04,Default,Leo,0,0,0,,Several students, one with the Silver Eyes!
-Dialogue: 0,0:11:11.30,0:11:13.41,Default,Leo,0,0,0,,The White Fang attack, it was stopped!
-Dialogue: 0,0:11:14.57,0:11:18.60,Default,Leo,0,0,0,,I don’t know that they’ll be able to recover the Relic…
-Dialogue: 0,0:11:21.90,0:11:24.84,Default,Leo,0,0,0,,Your grace, I can still be of assistance!
-Dialogue: 0,0:11:25.32,0:11:28.95,Default,Leo,0,0,0,,If I leave now, I-- I can avoid the authorities and come find you,
-Dialogue: 0,0:11:28.95,0:11:30.95,Default,Leo,0,0,0,,I’ll do whatever it takes!
-Dialogue: 0,0:11:33.27,0:11:34.18,Default,Leo,0,0,0,,{\i1}Your grace?{\i0}
-Dialogue: 0,0:11:48.97,0:11:50.22,Default,Leo,0,0,0,,Please, ma’am!
-Dialogue: 0,0:11:50.60,0:11:51.96,Default,Leo,0,0,0,,I’ll do anything!
-Dialogue: 0,0:11:52.20,0:11:55.06,Default,Leo,0,0,0,,I can still be useful!
-Dialogue: 0,0:11:59.16,0:12:00.28,Default,Leo,0,0,0,,Please!
-Dialogue: 0,0:12:00.57,0:12:01.98,Default,Leo,0,0,0,,PLEASE!
-Dialogue: 0,0:12:05.49,0:12:06.69,Default,Leo,0,0,0,,{\i1}Please…{\i0}
-Dialogue: 0,0:12:15.06,0:12:16.00,Default,Salem,0,0,0,,Coward…
-Dialogue: 0,0:12:20.06,0:12:21.16,Default,Ruby,0,0,0,,That’s enough!
-Dialogue: 0,0:12:22.39,0:12:24.30,Default,Ruby,0,0,0,,Just give up.
-Dialogue: 0,0:12:27.90,0:12:29.13,Default,Emerald,0,0,0,,It’s not over!
-Dialogue: 0,0:12:29.31,0:12:33.47,Default,Emerald,0,0,0,,Cinder will come back, she’ll have the Relic, and she’ll stop all of you!
-Dialogue: 0,0:12:34.43,0:12:35.96,Default,Emerald,0,0,0,,She won’t let us down.
-Dialogue: 0,0:12:58.34,0:12:59.27,Default,Ruby,0,0,0,,Yang…
-Dialogue: 0,0:13:16.54,0:13:18.80,Default,Mercury,0,0,0,,Emerald, get up, we need to go.
-Dialogue: 0,0:13:22.76,0:13:23.66,Default,Mercury,0,0,0,,Emerald!
-Dialogue: 0,0:13:58.33,0:13:59.08,Default,Blake,0,0,0,,Wha-
-Dialogue: 0,0:13:59.70,0:14:01.28,Default,Blake,0,0,0,,What was that?
-Dialogue: 0,0:14:01.73,0:14:02.77,Default,Ozpin,0,0,0,,{\i1}An illusion.{\i0}
-Dialogue: 0,0:14:04.28,0:14:05.99,Default,Ozpin,0,0,0,,But an accurate one.
-Dialogue: 0,0:14:08.66,0:14:09.46,Default,Ozpin,0,0,0,,That…
-Dialogue: 0,0:14:09.98,0:14:11.06,Default,Ozpin,0,0,0,,…was Salem. 
-Dialogue: 0,0:14:35.62,0:14:38.32,Default,Kali,0,0,0,,The police rounded up the remaining White Fang members.
-Dialogue: 0,0:14:38.32,0:14:39.72,Default,Kali,0,0,0,,Haven is safe.
-Dialogue: 0,0:14:40.04,0:14:43.06,Default,Ghira,0,0,0,,Unfortunately, it appears that Adam escaped.
-Dialogue: 0,0:14:44.85,0:14:45.96,Default,Ilia,0,0,0,,{\i1}It’s okay.{\i0}
-Dialogue: 0,0:14:47.25,0:14:49.52,Default,Ilia,0,0,0,,He was the only one to escape tonight.
-Dialogue: 0,0:14:50.42,0:14:52.69,Default,Ilia,0,0,0,,Those in the White Fang that followed him?
-Dialogue: 0,0:14:53.12,0:14:55.86,Default,Ilia,0,0,0,,Won’t support a leader that abandons his people.
-Dialogue: 0,0:14:56.56,0:14:58.72,Default,Ilia,0,0,0,,He won’t have their help after this.
-Dialogue: 0,0:14:59.56,0:15:01.22,Default,Ilia,0,0,0,,He’ll have no one at all.
-Dialogue: 0,0:15:02.51,0:15:05.38,Default,Ilia,0,0,0,,And the White Fang will be left divided.
-Dialogue: 0,0:15:05.90,0:15:08.84,Default,Ghira,0,0,0,,We’ve been fighting amongst ourselves for too long.
-Dialogue: 0,0:15:09.38,0:15:11.80,Default,Ghira,0,0,0,,Perhaps it’s time for a new brotherhood.
-Dialogue: 0,0:15:11.95,0:15:15.93,Default,Ghira,0,0,0,,A new family for Faunus truly working towards a better world.
-Dialogue: 0,0:15:17.08,0:15:18.60,Default,Kali,0,0,0,,And they’ll need a new leader.
-Dialogue: 0,0:15:21.36,0:15:22.06,Default,Sun,0,0,0,,Uh?
-Dialogue: 0,0:15:38.82,0:15:39.90,Default,Qrow,0,0,0,,What happened?
-Dialogue: 0,0:15:40.37,0:15:41.70,Default,Yang,0,0,0,,I don’t know exactly.
-Dialogue: 0,0:15:42.12,0:15:43.99,Default,Yang,0,0,0,,When I got down there, Cinder was gone,
-Dialogue: 0,0:15:44.78,0:15:46.02,Default,Yang,0,0,0,,and Vernal was dead.
-Dialogue: 0,0:15:46.48,0:15:47.55,Default,Qrow,0,0,0,,And Raven?
-Dialogue: 0,0:15:50.06,0:15:51.00,Default,Yang,0,0,0,,Gone.
-Dialogue: 0,0:15:52.20,0:15:53.08,Default,Qrow,0,0,0,,Well,
-Dialogue: 0,0:15:53.76,0:15:56.32,Default,Qrow,0,0,0,,we’re all glad your still here, firecracker.
-Dialogue: 0,0:15:58.54,0:15:59.72,Default,Weiss,0,0,0,,Are you okay?
-Dialogue: 0,0:16:01.38,0:16:03.84,Default,Ruby,0,0,0,,I feel like I should be asking you guys.
-Dialogue: 0,0:16:07.84,0:16:09.26,Default,Ruby,0,0,0,,So Blake,
-Dialogue: 0,0:16:10.28,0:16:11.74,Default,Ruby,0,0,0,,...what’re you doing here?
-Dialogue: 0,0:16:12.68,0:16:13.58,Default,Blake,0,0,0,,I...
-Dialogue: 0,0:16:15.22,0:16:17.70,Default,Blake,0,0,0,,I was gonna ask you three the same thing.
-Dialogue: 0,0:16:21.10,0:16:22.02,Default,Ruby,0,0,0,,That’s…
-Dialogue: 0,0:16:22.56,0:16:24.54,Default,Ruby,0,0,0,,...a looong story.
-Dialogue: 0,0:16:25.30,0:16:26.22,Default,Blake,0,0,0,,Well…
-Dialogue: 0,0:16:27.45,0:16:29.04,Default,Blake,0,0,0,,I’m not going anywhere.
-Dialogue: 0,0:16:30.19,0:16:31.49,Default,Ruby,0,0,0,,That’s all that matters.
-Dialogue: 0,0:16:33.30,0:16:34.70,Default,Ruby,0,0,0,,That we’re all here together.
-Dialogue: 0,0:16:35.67,0:16:36.54,Default,Ruby,0,0,0,,Right?
+Dialogue: 0,0:00:33.35,0:00:36.25,Karaoke,,0,0,0,,{\kf33}Lost {\kf31}and {\kf74}forlorn, {\kf98}impossible {\kf54}odds
+Dialogue: 0,0:00:36.25,0:00:39.67,Karaoke,,0,0,0,,{\kf37}That's {\kf25}when {\kf31}you'll {\kf23}learn {\kf19}you've {\kf17}been {\kf44}messing {\kf41}with {\kf105}gods!
+Dialogue: 0,0:00:39.67,0:00:41.99,Karaoke,,0,0,0,,{\kf19}Send {\kf22}in {\kf23}your {\kf24}grimm, {\kf51}tear {\kf24}off {\kf18}my {\kf51}limb
+Dialogue: 0,0:00:41.99,0:00:44.99,Karaoke,,0,0,0,,{\kf45}Strike {\kf27}me {\kf21}with {\kf36}bolts {\kf17}of {\kf70}light{\kf84}ning
+Dialogue: 0,0:00:44.99,0:00:50.63,Karaoke,,0,0,0,,{\kf152}I {\kf93}wo{\kf52}n't {\kf178}di{\kf89}e
+Dialogue: 0,0:00:50.63,0:00:56.59,Karaoke,,0,0,0,,{\kf27}The {\kf65}battle {\kf64}seems {\kf142}unwinnable, {\kf21}but {\kf44}all {\kf30}we {\kf52}need's {\kf28}a {\kf123}miracle
+Dialogue: 0,0:00:56.59,0:01:02.05,Karaoke,,0,0,0,,{\kf19}We're {\kf67}going {\kf53}up {\kf28}we'll {\kf65}never {\kf51}be {\kf263}denied!
+Dialogue: 0,0:01:02.25,0:01:05.19,Karaoke,,0,0,0,,{\kf27}Can't {\kf59}wish {\kf65}away {\kf23}the {\kf71}dismal {\kf49}days
+Dialogue: 0,0:01:05.19,0:01:08.13,Karaoke,,0,0,0,,{\kf25}Can't {\kf53}bring {\kf27}back {\kf48}what {\kf23}is {\kf118}gone
+Dialogue: 0,0:01:08.13,0:01:11.09,Karaoke,,0,0,0,,{\kf22}Won't {\kf55}waste {\kf19}more {\kf51}tears {\kf20}on {\kf129}yesteryears
+Dialogue: 0,0:01:11.09,0:01:13.97,Karaoke,,0,0,0,,{\kf53}Instead {\kf20}we'll {\kf86}carry {\kf129}on
+Dialogue: 0,0:01:13.97,0:01:16.87,Karaoke,,0,0,0,,{\kf21}We'll {\kf36}win, {\kf19}we're {\kf73}sure {\kf17}we {\kf57}will {\kf67}endure
+Dialogue: 0,0:01:16.87,0:01:19.85,Karaoke,,0,0,0,,{\kf25}And {\kf49}though {\kf21}our {\kf54}goal {\kf20}is {\kf129}far
+Dialogue: 0,0:01:19.85,0:01:22.75,Karaoke,,0,0,0,,{\kf51}We'll {\kf26}be {\kf23}the {\kf41}ones {\kf24}to {\kf46}touch {\kf21}the {\kf58}sun
+Dialogue: 0,0:01:22.75,0:01:28.31,Karaoke,,0,0,0,,{\kf27}The {\kf131}Triumph {\kf73}will {\kf106}be {\kf219}ours!
+Dialogue: 0,0:01:40.50,0:01:43.58,Default,,0,0,0,,- [Sergeant] Cease fire, immediately!
+Dialogue: 0,0:02:03.90,0:02:04.90,Default,,0,0,0,,- Thank you.
+Dialogue: 0,0:02:11.04,0:02:15.04,Default,,0,0,0,,- [Adam] I'm going to make\Nyou regret ever coming back.
+Dialogue: 0,0:02:15.04,0:02:17.33,Default,,0,0,0,,- [Blake] More police\Nare on their way, Adam.
+Dialogue: 0,0:02:17.33,0:02:18.38,Default,,0,0,0,,Huntsmen too.
+Dialogue: 0,0:02:19.83,0:02:23.14,Default,,0,0,0,,- Still too afraid to face me on your own.
+Dialogue: 0,0:02:24.18,0:02:27.16,Default,,0,0,0,,- I'm here for Haven, not you.
+Dialogue: 0,0:02:32.86,0:02:36.58,Default,,0,0,0,,- You are still afraid, and you should be.
+Dialogue: 0,0:02:36.58,0:02:39.47,Default,,0,0,0,,I've made powerful friends\Nwhile you've been away.
+Dialogue: 0,0:02:39.47,0:02:40.30,Default,,0,0,0,,- Oh yeah?
+Dialogue: 0,0:02:43.25,0:02:44.08,Default,,0,0,0,,Where?
+Dialogue: 0,0:02:45.74,0:02:48.13,Default,,0,0,0,,- Tell me, does Blake make all of her
+Dialogue: 0,0:02:48.13,0:02:50.32,Default,,0,0,0,,classmates fight for her?
+Dialogue: 0,0:02:50.32,0:02:52.41,Default,,0,0,0,,Nah, it's a volunteer gig.
+Dialogue: 0,0:02:52.41,0:02:54.34,Default,,0,0,0,,I'm just sayin', for someone who claims to
+Dialogue: 0,0:02:54.34,0:02:56.38,Default,,0,0,0,,have such great friends,\Nthere doesn't seem
+Dialogue: 0,0:02:56.38,0:02:58.98,Default,,0,0,0,,to be a lot of people here\Nwilling to fight for you.
+Dialogue: 0,0:03:07.86,0:03:10.98,Default,,0,0,0,,- You can try and make me\Nregret coming here, Adam,
+Dialogue: 0,0:03:10.98,0:03:15.98,Default,,0,0,0,,but, honestly I've got more\Nimportant things to deal with.
+Dialogue: 0,0:03:27.32,0:03:28.92,Default,,0,0,0,,- [Blake] Sun, wait!
+Dialogue: 0,0:03:28.92,0:03:30.08,Default,,0,0,0,,- But he's getting away!
+Dialogue: 0,0:03:30.08,0:03:31.15,Default,,0,0,0,,We could take him!
+Dialogue: 0,0:03:32.45,0:03:33.48,Default,,0,0,0,,- No.
+Dialogue: 0,0:03:33.48,0:03:35.00,Default,,0,0,0,,We can't.
+Dialogue: 0,0:03:35.00,0:03:37.48,Default,,0,0,0,,He wants to lure us away\Nso he can pick us off.
+Dialogue: 0,0:03:37.48,0:03:41.04,Default,,0,0,0,,We need to protect the\Nschool and the people here.
+Dialogue: 0,0:03:41.04,0:03:45.60,Default,,0,0,0,,Besides, now he can see what\Nit feels like to run away.
+Dialogue: 0,0:03:47.67,0:03:48.50,Default,,0,0,0,,Thank you.
+Dialogue: 0,0:03:50.10,0:03:51.75,Default,,0,0,0,,- Eh, we all need help sometimes.
+Dialogue: 0,0:03:54.30,0:03:56.75,Default,,0,0,0,,I think there's a few\Npeople who could use yours.
+Dialogue: 0,0:03:58.71,0:03:59.76,Default,,0,0,0,,- [Blake] Be careful.
+Dialogue: 0,0:04:00.76,0:04:01.77,Default,,0,0,0,,- No promises.
+Dialogue: 0,0:04:09.04,0:04:10.37,Default,,0,0,0,,- You guys okay?
+Dialogue: 0,0:04:11.30,0:04:12.67,Default,,0,0,0,,- Surviving
+Dialogue: 0,0:04:12.67,0:04:15.28,Default,,0,0,0,,- I don't know how that\Nbig guy is still standing.
+Dialogue: 0,0:04:15.28,0:04:18.06,Default,,0,0,0,,He recharges his Aura\Nfaster than I've ever seen!
+Dialogue: 0,0:04:20.46,0:04:22.41,Default,,0,0,0,,- He's sheer willpower.
+Dialogue: 0,0:04:24.58,0:04:27.52,Default,,0,0,0,,- We just need to get him to his limit!
+Dialogue: 0,0:04:47.36,0:04:49.02,Default,,0,0,0,,- Are you hurt?
+Dialogue: 0,0:04:49.02,0:04:50.10,Default,,0,0,0,,- N-no!
+Dialogue: 0,0:04:50.10,0:04:52.71,Default,,0,0,0,,I just remember you being\Nmore of the quiet one.
+Dialogue: 0,0:04:55.58,0:04:56.44,Default,,0,0,0,,- Not today.
+Dialogue: 0,0:04:57.43,0:04:58.26,Default,,0,0,0,,- All right.
+Dialogue: 0,0:04:59.22,0:05:00.42,Default,,0,0,0,,W-what's the plan, Ruby?
+Dialogue: 0,0:05:10.35,0:05:12.04,Default,,0,0,0,,- You've gotta be kidding me
+Dialogue: 0,0:05:16.66,0:05:17.66,Default,,0,0,0,,- Checkmate!
+Dialogue: 0,0:05:24.37,0:05:26.09,Default,,0,0,0,,- I warned you, Yang.
+Dialogue: 0,0:05:26.09,0:05:28.34,Default,,0,0,0,,I gave you every opportunity to walk away
+Dialogue: 0,0:05:28.34,0:05:30.14,Default,,0,0,0,,from Qrow and Oz.
+Dialogue: 0,0:05:30.14,0:05:33.49,Default,,0,0,0,,So you can believe me when\NI say this wasn't personal.
+Dialogue: 0,0:05:35.40,0:05:36.55,Default,,0,0,0,,- You opened the vault.
+Dialogue: 0,0:05:37.83,0:05:40.98,Default,,0,0,0,,- Thanks to the chaos you and\Nyour friends caused upstairs.
+Dialogue: 0,0:05:40.98,0:05:42.96,Default,,0,0,0,,I knew you could handle it.
+Dialogue: 0,0:05:42.96,0:05:44.58,Default,,0,0,0,,You're my daughter after all.
+Dialogue: 0,0:05:44.58,0:05:47.37,Default,,0,0,0,,- Qrow and Oz told me how the\NMaiden powers are transferred.
+Dialogue: 0,0:05:47.37,0:05:48.41,Default,,0,0,0,,The girl you found.
+Dialogue: 0,0:05:49.40,0:05:50.80,Default,,0,0,0,,She would've had to have trusted you if
+Dialogue: 0,0:05:50.80,0:05:54.46,Default,,0,0,0,,you were in her final thoughts,\Ncared about you a lot.
+Dialogue: 0,0:05:54.46,0:05:57.16,Default,,0,0,0,,- I'm sure they told you plenty, and you
+Dialogue: 0,0:05:57.16,0:05:59.12,Default,,0,0,0,,just sat and obeyed.
+Dialogue: 0,0:05:59.12,0:06:02.90,Default,,0,0,0,,- No, I'm starting to ask\Nquestions, like you said.
+Dialogue: 0,0:06:02.90,0:06:07.43,Default,,0,0,0,,So tell me, what happened\Nto the last Spring Maiden?
+Dialogue: 0,0:06:07.43,0:06:09.08,Default,,0,0,0,,Did she die in battle?
+Dialogue: 0,0:06:09.08,0:06:10.26,Default,,0,0,0,,Was it sickness?
+Dialogue: 0,0:06:12.31,0:06:13.89,Default,,0,0,0,,- What does it matter to you?
+Dialogue: 0,0:06:16.10,0:06:17.65,Default,,0,0,0,,- I can already see the answer.
+Dialogue: 0,0:06:18.62,0:06:20.09,Default,,0,0,0,,It's all over your face.
+Dialogue: 0,0:06:21.28,0:06:22.49,Default,,0,0,0,,How could you?
+Dialogue: 0,0:06:23.39,0:06:25.56,Default,,0,0,0,,- She was scared when we found her!
+Dialogue: 0,0:06:25.56,0:06:26.53,Default,,0,0,0,,Weak.
+Dialogue: 0,0:06:26.53,0:06:29.00,Default,,0,0,0,,No matter how much\Ntraining I put her through,
+Dialogue: 0,0:06:29.00,0:06:30.45,Default,,0,0,0,,she never learned!
+Dialogue: 0,0:06:30.45,0:06:32.55,Default,,0,0,0,,She wasn't cut out for this world!
+Dialogue: 0,0:06:32.55,0:06:34.64,Default,,0,0,0,,And with those powers,\Nshe would've been hunted
+Dialogue: 0,0:06:34.64,0:06:36.19,Default,,0,0,0,,her entire life!
+Dialogue: 0,0:06:36.19,0:06:37.11,Default,,0,0,0,,What I did--
+Dialogue: 0,0:06:37.11,0:06:38.01,Default,,0,0,0,,- Wasn't personal.
+Dialogue: 0,0:06:38.01,0:06:39.62,Default,,0,0,0,,- It was mercy!
+Dialogue: 0,0:06:39.62,0:06:41.20,Default,,0,0,0,,- Which is it, Mom?
+Dialogue: 0,0:06:41.20,0:06:44.60,Default,,0,0,0,,Are you merciful or are you a survivor?
+Dialogue: 0,0:06:44.60,0:06:46.71,Default,,0,0,0,,Did you let me walk into\Nthat trap because you knew
+Dialogue: 0,0:06:46.71,0:06:48.94,Default,,0,0,0,,I could handle it, or because\Nit meant you could get
+Dialogue: 0,0:06:48.94,0:06:50.31,Default,,0,0,0,,what you wanted?
+Dialogue: 0,0:06:50.31,0:06:52.05,Default,,0,0,0,,- [Raven] It's not that simple.
+Dialogue: 0,0:06:52.05,0:06:54.57,Default,,0,0,0,,You don't know me, you don't\Nknow what I've been through,
+Dialogue: 0,0:06:54.57,0:06:56.14,Default,,0,0,0,,the choices I've had to make!
+Dialogue: 0,0:06:56.14,0:06:58.13,Default,,0,0,0,,- [Yang] You're right.
+Dialogue: 0,0:06:58.13,0:06:59.48,Default,,0,0,0,,I don't know you.
+Dialogue: 0,0:06:59.48,0:07:02.02,Default,,0,0,0,,I only know the Raven Dad told me about.
+Dialogue: 0,0:07:02.02,0:07:05.33,Default,,0,0,0,,She was troubled, and complicated,
+Dialogue: 0,0:07:05.33,0:07:07.11,Default,,0,0,0,,but she fought for what she believed in,
+Dialogue: 0,0:07:07.11,0:07:09.96,Default,,0,0,0,,whether it was her team or her tribe!
+Dialogue: 0,0:07:09.96,0:07:12.08,Default,,0,0,0,,Did you kill her too?
+Dialogue: 0,0:07:15.79,0:07:19.19,Default,,0,0,0,,- I've stared death in the\Nface over and over again!
+Dialogue: 0,0:07:19.19,0:07:22.06,Default,,0,0,0,,And every time I've spat\Nin that face and survived
+Dialogue: 0,0:07:22.06,0:07:25.17,Default,,0,0,0,,because I'm strong enough\Nto do what others won't!
+Dialogue: 0,0:07:25.17,0:07:26.40,Default,,0,0,0,,- Oh, shut up!
+Dialogue: 0,0:07:28.02,0:07:30.16,Default,,0,0,0,,You don't know the first\Nthing about strength!
+Dialogue: 0,0:07:30.16,0:07:32.31,Default,,0,0,0,,You turn your back on\Npeople, you run away when
+Dialogue: 0,0:07:32.31,0:07:34.91,Default,,0,0,0,,things get too hard, you\Nput others in harm's way
+Dialogue: 0,0:07:34.91,0:07:36.12,Default,,0,0,0,,instead of yourself!
+Dialogue: 0,0:07:37.85,0:07:42.04,Default,,0,0,0,,You might be powerful, but\Nthat doesn't make you strong.
+Dialogue: 0,0:07:43.82,0:07:46.44,Default,,0,0,0,,- Who do you think you are, lecturing me?
+Dialogue: 0,0:07:46.44,0:07:49.85,Default,,0,0,0,,Standing there, shaking\Nlike a scared little girl!
+Dialogue: 0,0:07:49.85,0:07:51.70,Default,,0,0,0,,- Yeah, I'm scared.
+Dialogue: 0,0:07:52.66,0:07:54.35,Default,,0,0,0,,But I'm still standing here!
+Dialogue: 0,0:07:56.73,0:08:00.56,Default,,0,0,0,,I'm not like you, I won't run.
+Dialogue: 0,0:08:00.56,0:08:04.04,Default,,0,0,0,,Which is why you're going\Nto give me the Relic.
+Dialogue: 0,0:08:04.04,0:08:06.09,Default,,0,0,0,,- And why would I--
+Dialogue: 0,0:08:06.09,0:08:07.75,Default,,0,0,0,,- Because you're afraid of Salem!
+Dialogue: 0,0:08:08.82,0:08:11.19,Default,,0,0,0,,And if you thought having\NMaiden powers put a target
+Dialogue: 0,0:08:11.19,0:08:14.21,Default,,0,0,0,,on your back, imagine what\Nshe'll do when she finds
+Dialogue: 0,0:08:14.21,0:08:15.71,Default,,0,0,0,,out you have a Relic.
+Dialogue: 0,0:08:17.66,0:08:20.29,Default,,0,0,0,,She'll come after you\Nwith everything she has.
+Dialogue: 0,0:08:21.68,0:08:23.00,Default,,0,0,0,,Or she can come after me.
+Dialogue: 0,0:08:25.52,0:08:27.49,Default,,0,0,0,,And I'll be standing there.
+Dialogue: 0,0:08:27.49,0:08:28.53,Default,,0,0,0,,Waiting for her.
+Dialogue: 0,0:08:37.53,0:08:39.56,Default,,0,0,0,,- You don't want to do this, Yang.
+Dialogue: 0,0:08:41.50,0:08:42.37,Default,,0,0,0,,- Nope.
+Dialogue: 0,0:08:43.82,0:08:45.17,Default,,0,0,0,,But I'm gonna do it anyway.
+Dialogue: 0,0:08:55.62,0:08:56.45,Default,,0,0,0,,- I.
+Dialogue: 0,0:09:00.12,0:09:00.95,Default,,0,0,0,,I'm sorry.
+Dialogue: 0,0:09:05.25,0:09:06.08,Default,,0,0,0,,- Yeah.
+Dialogue: 0,0:09:07.02,0:09:07.85,Default,,0,0,0,,Me too.
+Dialogue: 0,0:10:45.80,0:10:48.03,Default,,0,0,0,,- [Salem] And where might you be going?
+Dialogue: 0,0:10:49.47,0:10:51.09,Default,,0,0,0,,- Uh, Your Grace!
+Dialogue: 0,0:10:52.29,0:10:54.04,Default,,0,0,0,,I was just looking for something.
+Dialogue: 0,0:10:55.92,0:10:58.66,Default,,0,0,0,,- [Salem] Leonardo, do\Nyou have something you
+Dialogue: 0,0:10:58.66,0:10:59.89,Default,,0,0,0,,wish to tell me?
+Dialogue: 0,0:11:02.78,0:11:03.74,Default,,0,0,0,,- It was Cinder!
+Dialogue: 0,0:11:03.74,0:11:05.48,Default,,0,0,0,,She altered the plan!
+Dialogue: 0,0:11:05.48,0:11:07.05,Default,,0,0,0,,Huntsmen showed up here!
+Dialogue: 0,0:11:07.05,0:11:07.95,Default,,0,0,0,,Qrow!
+Dialogue: 0,0:11:07.95,0:11:11.46,Default,,0,0,0,,Several students, one\Nwith the silver eyes!
+Dialogue: 0,0:11:11.46,0:11:13.46,Default,,0,0,0,,The White Fang attack, it was stopped!
+Dialogue: 0,0:11:14.35,0:11:18.40,Default,,0,0,0,,I don't know that they'll\Nbe able to recover the Relic
+Dialogue: 0,0:11:22.00,0:11:25.44,Default,,0,0,0,,Your Grace, I can still be of assistance!
+Dialogue: 0,0:11:25.44,0:11:27.90,Default,,0,0,0,,If I leave now, I, I can\Navoid the authorities
+Dialogue: 0,0:11:27.90,0:11:30.86,Default,,0,0,0,,and come find you, I'll\Ndo whatever it takes!
+Dialogue: 0,0:11:33.56,0:11:34.39,Default,,0,0,0,,Your Grace?
+Dialogue: 0,0:11:49.45,0:11:51.05,Default,,0,0,0,,Please, ma'am!
+Dialogue: 0,0:11:51.05,0:11:52.51,Default,,0,0,0,,I'll do anything!
+Dialogue: 0,0:11:52.51,0:11:54.34,Default,,0,0,0,,I can still be useful!
+Dialogue: 0,0:11:59.63,0:12:01.21,Default,,0,0,0,,Please!
+Dialogue: 0,0:12:01.21,0:12:02.04,Default,,0,0,0,,Please!
+Dialogue: 0,0:12:05.99,0:12:06.82,Default,,0,0,0,,Please.
+Dialogue: 0,0:12:15.17,0:12:16.00,Default,,0,0,0,,- Coward.
+Dialogue: 0,0:12:20.75,0:12:21.58,Default,,0,0,0,,- That's enough!
+Dialogue: 0,0:12:22.48,0:12:24.16,Default,,0,0,0,,Just give up.
+Dialogue: 0,0:12:27.97,0:12:29.35,Default,,0,0,0,,- It's not over!
+Dialogue: 0,0:12:29.35,0:12:31.65,Default,,0,0,0,,Cinder will come back,\Nshe'll have the Relic,
+Dialogue: 0,0:12:31.65,0:12:33.37,Default,,0,0,0,,and she'll stop all of you!
+Dialogue: 0,0:12:34.52,0:12:35.97,Default,,0,0,0,,She won't let us down.
+Dialogue: 0,0:12:58.89,0:12:59.72,Default,,0,0,0,,- Yang.
+Dialogue: 0,0:13:16.86,0:13:18.85,Default,,0,0,0,,- Emerald, get up, we need to go.
+Dialogue: 0,0:13:23.29,0:13:24.12,Default,,0,0,0,,Emerald!
+Dialogue: 0,0:13:58.75,0:14:01.13,Default,,0,0,0,,- What, what was that?
+Dialogue: 0,0:14:02.29,0:14:03.12,Default,,0,0,0,,- An illusion.
+Dialogue: 0,0:14:04.79,0:14:05.81,Default,,0,0,0,,But an accurate one.
+Dialogue: 0,0:14:08.77,0:14:10.82,Default,,0,0,0,,That was Salem.
+Dialogue: 0,0:14:35.68,0:14:38.26,Default,,0,0,0,,- The police rounded up the\Nremaining White Fang members.
+Dialogue: 0,0:14:38.26,0:14:40.11,Default,,0,0,0,,Haven is safe.
+Dialogue: 0,0:14:40.11,0:14:43.25,Default,,0,0,0,,- Unfortunately, it\Nappears that Adam escaped.
+Dialogue: 0,0:14:44.15,0:14:46.19,Default,,0,0,0,,- It's okay.
+Dialogue: 0,0:14:46.19,0:14:50.23,Default,,0,0,0,,He was the only one to escape tonight.
+Dialogue: 0,0:14:50.23,0:14:52.95,Default,,0,0,0,,Those in the White Fang that followed him?
+Dialogue: 0,0:14:52.95,0:14:55.75,Default,,0,0,0,,Won't support a leader\Nthat abandons his people.
+Dialogue: 0,0:14:56.63,0:14:58.57,Default,,0,0,0,,He won't have their help after this.
+Dialogue: 0,0:14:59.71,0:15:01.01,Default,,0,0,0,,He'll have no one at all.
+Dialogue: 0,0:15:02.57,0:15:05.96,Default,,0,0,0,,And the White Fang will be left divided.
+Dialogue: 0,0:15:05.96,0:15:09.45,Default,,0,0,0,,- We've been fighting amongst\Nourselves for too long.
+Dialogue: 0,0:15:09.45,0:15:12.05,Default,,0,0,0,,Perhaps it's time for a new brotherhood.
+Dialogue: 0,0:15:12.05,0:15:14.42,Default,,0,0,0,,A new family for Faunus truly working
+Dialogue: 0,0:15:14.42,0:15:15.68,Default,,0,0,0,,towards a better world.
+Dialogue: 0,0:15:17.22,0:15:18.82,Default,,0,0,0,,- And they'll need a new leader.
+Dialogue: 0,0:15:22.01,0:15:23.59,Default,,0,0,0,,- [Sun] Huh?
+Dialogue: 0,0:15:38.92,0:15:40.48,Default,,0,0,0,,- What happened?
+Dialogue: 0,0:15:40.48,0:15:42.18,Default,,0,0,0,,- I don't know exactly.
+Dialogue: 0,0:15:42.18,0:15:44.84,Default,,0,0,0,,When I got down there, Cinder was gone,
+Dialogue: 0,0:15:44.84,0:15:46.58,Default,,0,0,0,,and Vernal was dead.
+Dialogue: 0,0:15:46.58,0:15:47.45,Default,,0,0,0,,- And Raven?
+Dialogue: 0,0:15:50.17,0:15:51.00,Default,,0,0,0,,- Gone.
+Dialogue: 0,0:15:52.73,0:15:55.75,Default,,0,0,0,,- Well, we're all glad you're\Nstill here, firecracker.
+Dialogue: 0,0:15:59.23,0:16:00.06,Default,,0,0,0,,- Are you okay?
+Dialogue: 0,0:16:01.50,0:16:03.72,Default,,0,0,0,,- I feel like I should be asking you guys.
+Dialogue: 0,0:16:07.92,0:16:11.68,Default,,0,0,0,,So Blake, what're you doing here?
+Dialogue: 0,0:16:13.21,0:16:14.04,Default,,0,0,0,,- I.
+Dialogue: 0,0:16:15.33,0:16:17.67,Default,,0,0,0,,I was gonna ask you three the same thing.
+Dialogue: 0,0:16:21.27,0:16:24.60,Default,,0,0,0,,- That's a long story.
+Dialogue: 0,0:16:25.45,0:16:29.20,Default,,0,0,0,,- Well, I'm not going anywhere.
+Dialogue: 0,0:16:30.31,0:16:31.61,Default,,0,0,0,,- That's all that matters.
+Dialogue: 0,0:16:33.38,0:16:34.83,Default,,0,0,0,,That we're all here together.
+Dialogue: 0,0:16:35.76,0:16:36.59,Default,,0,0,0,,Right?
 Dialogue: 0,0:16:37.80,0:16:39.31,Karaoke,,0,0,0,,{\kf31}You're {\kf120}lost
 Dialogue: 0,0:16:39.56,0:16:41.22,Karaoke,,0,0,0,,{\kf36}You're {\kf93}fou{\kf37}nd
 Dialogue: 0,0:16:41.76,0:16:44.62,Karaoke,,0,0,0,,{\kf19}You're {\kf65}hard {\kf18}to {\kf75}pin {\kf109}down
-Dialogue: 0,0:16:44.61,0:16:45.31,Default,Yang,0,0,0,,Yeah.
+Dialogue: 0,0:16:44.70,0:16:45.95,Default,,0,0,0,,- Yeah.
 Dialogue: 0,0:16:45.35,0:16:50.40,Karaoke,,0,0,0,,{\kf16}I'll {\kf84}never {\kf97}know {\kf52}if {\kf69}you'll {\kf51}come {\kf136}through
 Dialogue: 0,0:16:52.20,0:16:55.60,Karaoke,,0,0,0,,{\kf40}Then {\kf145}you {\kf155}appear
 Dialogue: 0,0:16:56.03,0:16:59.28,Karaoke,,0,0,0,,{\kf154}Together {\kf54}we're {\kf117}here
 Dialogue: 0,0:17:00.35,0:17:03.39,Karaoke,,0,0,0,,{\kf30}And {\kf63}that's {\kf56}all {\kf57}that {\kf98}matters
 Dialogue: 0,0:17:03.95,0:17:06.45,Karaoke,,0,0,0,,{\kf54}Some{\kf196}how
-Dialogue: 0,0:17:05.64,0:17:08.32,Default,Qrow,0,0,0,,I don’t know how, but we did it, Oz.
-Dialogue: 0,0:17:08.92,0:17:10.03,Default,Qrow,0,0,0,,You okay?
-Dialogue: 0,0:17:11.87,0:17:13.06,Default,Oscar,0,0,0,,I’m alright.
-Dialogue: 0,0:17:13.67,0:17:14.64,Default,Qrow,0,0,0,,Kid?
-Dialogue: 0,0:17:17.13,0:17:18.28,Default,Oscar,0,0,0,,He’s resting.
-Dialogue: 0,0:17:19.78,0:17:21.52,Default,Oscar,0,0,0,,Too much energy fighting.
-Dialogue: 0,0:17:22.82,0:17:25.18,Default,Qrow,0,0,0,,Hey, wizard, don’t strain yourself!
-Dialogue: 0,0:17:25.49,0:17:26.16,Default,Oscar,0,0,0,,No!
-Dialogue: 0,0:17:26.82,0:17:28.72,Default,Oscar,0,0,0,,He had… a message…
-Dialogue: 0,0:17:33.56,0:17:34.62,Default,Oscar,0,0,0,,We must…
-Dialogue: 0,0:17:35.70,0:17:36.86,Default,Oscar,0,0,0,,get the lamp to…
-Dialogue: 0,0:17:38.82,0:17:39.64,Default,Oscar,0,0,0,,...Atlas.
-Dialogue: 0,0:23:16.27,0:23:17.82,Default,Marin,0,0,0,,{\i1}Are you running an op?{\i0}
-Dialogue: 0,0:23:17.82,0:23:22.56,Default,Male,0,0,0,,– You said to go to field trials.
-Dialogue: 0,0:23:19.48,0:23:22.56,Default,Marin,0,0,0,,{\i1}– I didn't say to drop him in the middle of a city!{\i0}
-Dialogue: 0,0:23:22.90,0:23:26.59,Default,Marin,0,0,0,,{\i1}As soon as they figure out what he is they will come hunting.{\i0}
-Dialogue: 0,0:23:26.71,0:23:28.36,Default,Marin,0,0,0,,{\i1}For him and for you.{\i0}
-Dialogue: 0,0:23:28.36,0:23:32.22,Default,Male,0,0,0,,Given what we're seeing here I believe you can stop worrying about Chase so much.
-Dialogue: 0,0:23:32.22,0:23:32.86,Default,Marin,0,0,0,,{\i1}No.{\i0}
-Dialogue: 0,0:23:33.07,0:23:35.93,Default,Marin,0,0,0,,{\i1}No, I think I'll keep worrying about him a little longer.{\i0}
-Dialogue: 0,0:23:36.27,0:23:37.30,Default,Marin,0,0,0,,{\i1}How's he holding up?{\i0}
-Dialogue: 0,0:23:37.30,0:23:39.65,Default,Male,0,0,0,,Still adjusting. But full of surprises.
-Dialogue: 0,0:23:39.96,0:23:41.63,Default,Male,0,0,0,,We were very lucky to find him.
-Dialogue: 0,0:23:41.79,0:23:42.97,Default,Male,0,0,0,,He wasn't, but-
-Dialogue: 0,0:23:42.97,0:23:45.25,Default,Marin,0,0,0,,{\i1}How about the others? How is recruiting?{\i0}
-Dialogue: 0,0:23:45.25,0:23:51.55,Default,Male,0,0,0,,Problematic. There are some possibilities, but we may need to be more flexible on the subject.
-Dialogue: 0,0:23:51.55,0:23:52.39,Default,Marin,0,0,0,,{\i1}Wait.{\i0}
-Dialogue: 0,0:23:52.39,0:23:54.16,Default,Marin,0,0,0,,{\i1}These are the only matches?{\i0}
-Dialogue: 0,0:23:54.16,0:23:55.73,Default,Male,0,0,0,,They'll have to do, won't they?
-Dialogue: 0,0:23:56.34,0:23:58.60,Default,Marin,0,0,0,,{\i1}I don't see how we're going to turn this around.{\i0}
-Dialogue: 0,0:23:58.60,0:24:00.37,Default,Male,0,0,0,,Oh, don't give up hope yet.
-Dialogue: 0,0:24:00.67,0:24:02.68,Default,Male,0,0,0,,We're just getting started.
+Dialogue: 0,0:17:06.13,0:17:08.08,Default,,0,0,0,,- I don't know how, but we did it, Oz.
+Dialogue: 0,0:17:09.02,0:17:09.85,Default,,0,0,0,,You okay?
+Dialogue: 0,0:17:12.15,0:17:12.98,Default,,0,0,0,,- I'm all right.
+Dialogue: 0,0:17:13.85,0:17:14.68,Default,,0,0,0,,- Kid?
+Dialogue: 0,0:17:17.23,0:17:18.11,Default,,0,0,0,,- He's resting.
+Dialogue: 0,0:17:19.91,0:17:21.28,Default,,0,0,0,,Too much energy fighting.
+Dialogue: 0,0:17:23.13,0:17:25.56,Default,,0,0,0,,- Hey, don't strain yourself!
+Dialogue: 0,0:17:25.56,0:17:26.95,Default,,0,0,0,,- No!
+Dialogue: 0,0:17:26.95,0:17:28.62,Default,,0,0,0,,He had a message.
+Dialogue: 0,0:17:34.07,0:17:36.66,Default,,0,0,0,,We must get the lamp to Atlas.
+Dialogue: 0,0:18:18.30,0:22:22.00,Chibi-block,,0,0,0,,{\fad(500,0)\pos(0,0)\p1}m 0 0 l 1920 0 1920 130 0 130{\p0}
+Dialogue: 0,0:18:18.82,0:18:22.14,Karaoke-Blake2,,0,0,0,,{\kf50}Friends {\kf54}listen {\kf61}closely {\kf31}I {\kf22}won't {\kf35}say {\kf29}this {\kf50}twice
+Dialogue: 0,0:18:22.14,0:18:25.74,Karaoke-Blake2,,0,0,0,,{\kf59}Hope's {\kf55}running {\kf34}out {\kf26}and {\kf21}we {\kf66}haven't {\kf42}much {\kf57}time
+Dialogue: 0,0:18:25.74,0:18:27.05,Karaoke-Blake2,,0,0,0,,{\kf44}Please {\kf87}understand
+Dialogue: 0,0:18:27.05,0:18:31.13,Karaoke-Blake2,,0,0,0,,{\kf26}That {\kf25}the {\kf31}life {\kf22}we {\kf32}once {\kf43}planned {\kf27}on {\kf27}is {\kf175}over
+Dialogue: 0,0:18:31.13,0:18:32.57,Karaoke-Blake2,,0,0,0,,{\kf77}Ov{\kf67}er
+Dialogue: 0,0:18:32.57,0:18:35.86,Karaoke-Blake2,,0,0,0,,{\kf46}Now {\kf24}is {\kf23}the {\kf46}time {\kf25}you {\kf26}must {\kf28}fight {\kf22}for {\kf31}your {\kf58}lives
+Dialogue: 0,0:18:35.86,0:18:39.28,Karaoke-Blake2,,0,0,0,,{\kf27}The {\kf63}battle {\kf32}is {\kf26}on {\kf36}you're {\kf76}already {\kf82}inside {\k0}
+Dialogue: 0,0:18:39.28,0:18:41.86,Karaoke-Blake2,,0,0,0,,{\kf26}Don't {\kf85}turn {\kf74}back {\kf73}now
+Dialogue: 0,0:18:41.86,0:18:43.75,Karaoke-Blake2,,0,0,0,,{\kf24}There's {\kf68}nowhere {\kf18}to {\kf79}hide
+Dialogue: 0,0:18:43.75,0:18:46.80,Karaoke-Blake2,,0,0,0,,{\kf66}Nowhere {\kf27}to {\kf42}build {\kf25}a {\kf53}new {\kf92}world
+Dialogue: 0,0:18:47.01,0:18:49.72,Karaoke-Blake2,,0,0,0,,{\kf88}Nowhere {\kf20}to {\kf40}start {\kf123}anew
+Dialogue: 0,0:18:49.72,0:18:53.23,Karaoke-Blake2,,0,0,0,,{\kf77}Here. {\kf82}Now. {\kf30}Is {\kf24}all {\kf29}that {\kf27}we've {\kf82}got
+Dialogue: 0,0:18:53.23,0:18:54.52,Karaoke-Blake2,,0,0,0,,{\kf64}Ready {\kf22}or {\kf43}not
+Dialogue: 0,0:18:54.52,0:18:56.13,Karaoke-Blake2,,0,0,0,,{\kf27}There's {\kf21}a {\kf32}war {\kf25}to {\kf19}be {\kf37}fought
+Dialogue: 0,0:18:56.13,0:18:59.74,Karaoke-Blake2,,0,0,0,,{\kf47}Only {\kf73}one {\kf88}way {\kf153}through
+Dialogue: 0,0:18:59.76,0:19:01.62,Karaoke-Blake2,,0,0,0,,{\kf36}This {\kf150}time
+Dialogue: 0,0:19:01.62,0:19:06.33,Karaoke-Blake2,,0,0,0,,{\kf23}The {\kf40}ways {\kf21}of {\kf16}the {\kf32}past {\kf42}we'll {\kf19}get {\kf278}over
+Dialogue: 0,0:19:06.33,0:19:08.48,Karaoke-Blake2,,0,0,0,,{\kf45}We'll {\kf170}climb
+Dialogue: 0,0:19:08.48,0:19:12.99,Karaoke-Blake2,,0,0,0,,{\kf83}Enlighten {\kf14}a {\kf32}new {\kf40}state {\kf24}of {\kf258}mind
+Dialogue: 0,0:19:13.33,0:19:15.36,Karaoke-Blake2,,0,0,0,,{\kf47}And {\kf156}now
+Dialogue: 0,0:19:15.36,0:19:20.67,Karaoke-Blake2,,0,0,0,,{\kf20}I'll {\kf32}stand {\kf17}with {\kf23}you {\kf59}shoulder {\kf38}to {\kf65}shoul{\kf277}der
+Dialogue: 0,0:19:20.67,0:19:24.07,Karaoke-Blake2,,0,0,0,,{\kf27}Out {\kf22}of {\kf30}the {\kf70}ashes {\kf20}a {\kf28}new {\kf43}flame {\kf100}ignite
+Dialogue: 0,0:19:24.07,0:19:27.33,Karaoke-Blake2,,0,0,0,,{\kf42}Rise {\kf25}up {\kf30}from {\kf56}shadows {\kf28}and {\kf56}into {\kf28}the {\kf61}light
+Dialogue: 0,0:19:27.33,0:19:29.04,Karaoke-Blake2,,0,0,0,,{\kf21}We'll {\kf40}stand {\kf110}undivided
+Dialogue: 0,0:19:29.04,0:19:30.69,Karaoke-Blake2,,0,0,0,,{\kf23}Our {\kf58}futures {\kf84}aligned
+Dialogue: 0,0:19:30.69,0:19:33.55,Karaoke-Blake2,,0,0,0,,{\kf26}A {\kf37}new {\kf59}brother{\kf164}hood
+Dialogue: 0,0:19:33.55,0:19:37.54,Karaoke-Blake2,,0,0,0,,{\kf81}This {\kf262}ti{\kf56}me
+Dialogue: 0,0:19:47.89,0:19:51.30,Karaoke-Blake2,,0,0,0,,{\kf20}This {\kf67}warning {\kf16}is {\kf64}dire {\kf24}my {\kf26}words {\kf25}you {\kf42}must {\kf57}hear
+Dialogue: 0,0:19:51.30,0:19:54.76,Karaoke-Blake2,,0,0,0,,{\kf26}A {\kf56}kingdom {\kf25}in {\kf74}shambles {\kf33}our {\kf56}downfall {\kf27}is {\kf49}near
+Dialogue: 0,0:19:54.76,0:19:57.07,Karaoke-Blake2,,0,0,0,,{\kf27}Yet {\kf14}I {\kf41}still {\kf54}believe {\kf34}that {\kf27}the {\kf34}peace
+Dialogue: 0,0:19:57.07,0:20:00.11,Karaoke-Blake2,,0,0,0,,{\kf26}We'll {\kf63}achieve's {\kf46}growing {\kf169}closer
+Dialogue: 0,0:20:00.11,0:20:01.52,Karaoke-Blake2,,0,0,0,,{\kf87}Clo{\kf54}ser
+Dialogue: 0,0:20:01.53,0:20:05.06,Karaoke-Blake2,,0,0,0,,{\kf28}But {\kf23}first {\kf37}blood {\kf36}must {\kf32}spill {\kf25}like {\kf22}the {\kf58}wine {\kf25}at {\kf16}a {\kf51}feast
+Dialogue: 0,0:20:05.06,0:20:08.72,Karaoke-Blake2,,0,0,0,,{\kf23}The {\kf30}calm {\kf43}only {\kf50}comes {\kf26}once {\kf19}the {\kf70}carnage {\kf28}has {\kf77}ceased
+Dialogue: 0,0:20:08.72,0:20:11.04,Karaoke-Blake2,,0,0,0,,{\kf89}Fight {\kf77}or {\kf66}die
+Dialogue: 0,0:20:11.04,0:20:12.77,Karaoke-Blake2,,0,0,0,,{\kf22}There'll {\kf25}be {\kf40}no {\kf86}release
+Dialogue: 0,0:20:12.77,0:20:16.06,Karaoke-Blake2,,0,0,0,,{\kf17}No {\kf38}way {\kf29}to {\kf54}avoid {\kf34}the {\kf157}warfare
+Dialogue: 0,0:20:16.06,0:20:18.98,Karaoke-Blake2,,0,0,0,,{\kf31}No {\kf42}way {\kf31}to {\kf53}escape {\kf30}this {\kf105}strife
+Dialogue: 0,0:20:18.98,0:20:22.39,Karaoke-Blake2,,0,0,0,,{\kf81}Hear {\kf79}now - {\kf73}listen {\kf41}to {\kf67}me
+Dialogue: 0,0:20:22.39,0:20:23.47,Karaoke-Blake2,,0,0,0,,{\kf21}This {\kf43}time {\kf44}retreat
+Dialogue: 0,0:20:23.47,0:20:25.21,Karaoke-Blake2,,0,0,0,,{\kf39}Spells {\kf25}our {\kf61}final {\kf49}defeat
+Dialogue: 0,0:20:25.21,0:20:28.83,Karaoke-Blake2,,0,0,0,,{\kf41}We {\kf27}must {\kf71}win {\kf74}our {\kf149}life
+Dialogue: 0,0:20:28.83,0:20:30.74,Karaoke-Blake2,,0,0,0,,{\kf38}This {\kf153}time
+Dialogue: 0,0:20:30.74,0:20:35.48,Karaoke-Blake2,,0,0,0,,{\kf24}The {\kf33}ways {\kf30}of {\kf14}the {\kf41}past {\kf24}we'll {\kf26}get {\kf92}ov{\kf190}er
+Dialogue: 0,0:20:35.48,0:20:37.63,Karaoke-Blake2,,0,0,0,,{\kf51}We'll {\kf164}climb
+Dialogue: 0,0:20:37.63,0:20:41.94,Karaoke-Blake2,,0,0,0,,{\kf85}Enlighten {\kf20}a {\kf25}new {\kf37}state {\kf25}of {\kf239}mind
+Dialogue: 0,0:20:42.50,0:20:44.48,Karaoke-Blake2,,0,0,0,,{\kf45}And {\kf153}now
+Dialogue: 0,0:20:44.48,0:20:49.82,Karaoke-Blake2,,0,0,0,,{\kf21}I'll {\kf31}stand {\kf21}with {\kf31}you {\kf44}shoulder {\kf43}to {\kf71}shoul{\kf272}der
+Dialogue: 0,0:20:49.82,0:20:53.23,Karaoke-Blake2,,0,0,0,,{\kf31}Out {\kf28}of {\kf32}the {\kf53}ashes {\kf19}a {\kf24}new {\kf48}flame {\kf106}ignite
+Dialogue: 0,0:20:53.23,0:20:56.48,Karaoke-Blake2,,0,0,0,,{\kf38}Rise {\kf29}up {\kf30}from {\kf54}shadows {\kf29}and {\kf51}into {\kf33}the {\kf61}light
+Dialogue: 0,0:20:56.48,0:20:58.17,Karaoke-Blake2,,0,0,0,,{\kf21}We'll {\kf32}stand {\kf116}undivided
+Dialogue: 0,0:20:58.17,0:20:59.91,Karaoke-Blake2,,0,0,0,,{\kf24}Our {\kf60}futures {\kf90}aligned
+Dialogue: 0,0:20:59.91,0:21:02.48,Karaoke-Blake2,,0,0,0,,{\kf15}A {\kf38}new {\kf56}brother{\kf148}hood
+Dialogue: 0,0:21:02.48,0:21:05.08,Karaoke-Blake2,,0,0,0,,{\kf107}It's {\kf89}ti{\kf64}me
+Dialogue: 0,0:21:05.08,0:21:09.86,Karaoke-Blake2,,0,0,0,,{\kf21}The {\kf40}world {\kf30}sees {\kf29}what {\kf48}we're {\kf57}made {\kf253}of
+Dialogue: 0,0:21:11.84,0:21:16.61,Karaoke-Blake2,,0,0,0,,{\kf28}We {\kf45}change {\kf19}the {\kf38}spite {\kf55}to {\kf188}lo{\kf104}ve
+Dialogue: 0,0:21:17.03,0:21:18.71,Karaoke-Blake2,,0,0,0,,{\kf32}It's {\kf136}time
+Dialogue: 0,0:21:18.71,0:21:20.46,Karaoke-Blake2,,0,0,0,,{\kf26}To {\kf32}save {\kf34}our {\kf83}fate
+Dialogue: 0,0:21:20.46,0:21:22.18,Karaoke-Blake2,,0,0,0,,{\kf26}And {\kf41}walk {\kf105}beside
+Dialogue: 0,0:21:22.18,0:21:23.93,Karaoke-Blake2,,0,0,0,,{\kf23}The {\kf57}human {\kf95}race
+Dialogue: 0,0:21:23.93,0:21:27.52,Karaoke-Blake2,,0,0,0,,{\kf22}The {\kf38}past {\kf28}is {\kf59}gone {\kf25}and {\kf55}soon {\kf76}behind {\kf56}us
+Dialogue: 0,0:21:27.52,0:21:30.89,Karaoke-Blake2,,0,0,0,,{\kf110}Victory {\kf33}through {\kf75}trust {\kf27}and {\kf92}kindness
+Dialogue: 0,0:21:30.89,0:21:37.39,Karaoke-Blake2,,0,0,0,,{\kf160}Heal {\kf182}now - {\kf58}we {\kf71}will {\kf179}restore
+Dialogue: 0,0:21:37.58,0:21:39.09,Karaoke-Blake2,,0,0,0,,{\kf24}The {\kf30}path {\kf36}we've {\kf29}been {\kf32}shown
+Dialogue: 0,0:21:39.09,0:21:40.72,Karaoke-Blake2,,0,0,0,,{\kf26}Too {\kf27}long {\kf44}fighting {\kf29}our {\kf37}own
+Dialogue: 0,0:21:40.72,0:21:44.17,Karaoke-Blake2,,0,0,0,,{\kf28}We {\kf27}will {\kf84}win {\kf68}this {\kf138}war
+Dialogue: 0,0:21:44.17,0:21:46.25,Karaoke-Blake2,,0,0,0,,{\kf52}This {\kf99}ti{\kf57}me
+Dialogue: 0,0:21:46.25,0:21:50.90,Karaoke-Blake2,,0,0,0,,{\kf32}The {\kf28}ways {\kf23}of {\kf24}the {\kf29}past {\kf27}we'll {\kf22}get {\kf63}ov{\kf217}er
+Dialogue: 0,0:21:50.90,0:21:53.01,Karaoke-Blake2,,0,0,0,,{\kf62}We'll {\kf149}climb
+Dialogue: 0,0:21:53.01,0:21:57.52,Karaoke-Blake2,,0,0,0,,{\kf69}Enlighten {\kf31}a {\kf32}new {\kf40}state {\kf30}of {\kf249}mind
+Dialogue: 0,0:21:57.95,0:21:59.86,Karaoke-Blake2,,0,0,0,,{\kf45}And {\kf146}now
+Dialogue: 0,0:21:59.86,0:22:05.22,Karaoke-Blake2,,0,0,0,,{\kf27}I'll {\kf36}stand {\kf23}with {\kf19}you {\kf56}shoulder {\kf42}to {\kf62}shoul{\kf271}der
+Dialogue: 0,0:22:05.22,0:22:08.54,Karaoke-Blake2,,0,0,0,,{\kf31}Out {\kf21}of {\kf20}the {\kf76}ashes {\kf18}a {\kf35}new {\kf38}flame {\kf93}ignite
+Dialogue: 0,0:22:08.54,0:22:11.89,Karaoke-Blake2,,0,0,0,,{\kf43}Rise {\kf26}up {\kf20}from {\kf76}shadows {\kf38}and {\kf43}into {\kf21}the {\kf68}light
+Dialogue: 0,0:22:11.89,0:22:13.61,Karaoke-Blake2,,0,0,0,,{\kf24}We'll {\kf37}stand {\kf111}undivided
+Dialogue: 0,0:22:13.61,0:22:15.33,Karaoke-Blake2,,0,0,0,,{\kf22}Our {\kf60}futures {\kf90}aligned
+Dialogue: 0,0:22:15.33,0:22:18.07,Karaoke-Blake2,,0,0,0,,{\kf20}A {\kf34}new {\kf54}brother{\kf166}hood
+Dialogue: 0,0:22:18.07,0:22:22.27,Karaoke-Blake2,,0,0,0,,{\kf90}This {\kf208}ti{\kf122}me
+Dialogue: 0,0:23:16.91,0:23:17.90,Default,,0,0,0,,- [Woman] Are you running an op?
+Dialogue: 0,0:23:17.90,0:23:19.32,Default,,0,0,0,,- [Man] You said to go to field trials.
+Dialogue: 0,0:23:19.32,0:23:22.61,Default,,0,0,0,,- [Woman] I didn't say to drop\Nhim in the middle of a city!
+Dialogue: 0,0:23:22.61,0:23:25.31,Default,,0,0,0,,As soon as they figure out what he is they
+Dialogue: 0,0:23:25.31,0:23:26.76,Default,,0,0,0,,will come hunting.
+Dialogue: 0,0:23:26.76,0:23:28.47,Default,,0,0,0,,For him and for you.
+Dialogue: 0,0:23:28.47,0:23:30.42,Default,,0,0,0,,- [Man] Given what we're\Nseeing here I believe you can
+Dialogue: 0,0:23:30.42,0:23:32.20,Default,,0,0,0,,stop worrying about Chase as much.
+Dialogue: 0,0:23:32.20,0:23:33.25,Default,,0,0,0,,- [Woman] No.
+Dialogue: 0,0:23:33.25,0:23:36.32,Default,,0,0,0,,No, I think I'll keep worrying\Nabout him a little longer.
+Dialogue: 0,0:23:36.32,0:23:37.37,Default,,0,0,0,,How's he holding up?
+Dialogue: 0,0:23:37.37,0:23:38.46,Default,,0,0,0,,- [Man] Still adjusting.
+Dialogue: 0,0:23:38.46,0:23:39.96,Default,,0,0,0,,But full of surprises.
+Dialogue: 0,0:23:39.96,0:23:42.08,Default,,0,0,0,,We were very lucky to find him.
+Dialogue: 0,0:23:42.08,0:23:42.91,Default,,0,0,0,,He wasn't, but--
+Dialogue: 0,0:23:42.91,0:23:44.22,Default,,0,0,0,,- [Woman] What about others?
+Dialogue: 0,0:23:44.22,0:23:45.44,Default,,0,0,0,,How is recruiting?
+Dialogue: 0,0:23:45.44,0:23:46.27,Default,,0,0,0,,- [Man] Problematic.
+Dialogue: 0,0:23:46.27,0:23:48.03,Default,,0,0,0,,There are some new\Npossibilities, but we may
+Dialogue: 0,0:23:48.03,0:23:51.61,Default,,0,0,0,,need to get more flexible on the subject.
+Dialogue: 0,0:23:51.61,0:23:52.61,Default,,0,0,0,,- [Woman] Wait.
+Dialogue: 0,0:23:52.61,0:23:54.18,Default,,0,0,0,,These are the only matches?
+Dialogue: 0,0:23:54.18,0:23:55.93,Default,,0,0,0,,- [Man] They'll have to do, won't they?
+Dialogue: 0,0:23:55.93,0:23:58.35,Default,,0,0,0,,- [Woman] I don't see how we're\Ngoing to turn this around.
+Dialogue: 0,0:23:58.35,0:24:00.39,Default,,0,0,0,,- [Man] Oh, don't give up hope yet.
+Dialogue: 0,0:24:00.39,0:24:02.31,Default,,0,0,0,,We're just getting started.
