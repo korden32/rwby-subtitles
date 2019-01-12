@@ -11,6 +11,8 @@ PlayResY: 1080
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Candara,70,&H00FFFFFF,&H000E0FFD,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,2,10,10,70,1
+Style: Def-Other,Candara,70,&H00FFFFFF,&H000E0FFD,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,2,10,10,70,1
+Style: Title,FuturaBookC,90,&H00FFFFFF,&H000E0FFD,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,8,10,10,40,1
 Style: Copyright,Candara,54,&H00FFFFFF,&H000E0FFD,&H00000000,&H20000000,0,0,0,0,100,100,0,0,1,2,0,1,20,10,30,1
 Style: Karaoke,FuturaBookC,70,&H004000FF,&H60FFFFFF,&H20000000,&H60FFFFFF,-1,-1,0,0,100,100,1,0,1,2,2,8,10,10,40,1
 Style: Karaoke-rus,FuturaBookC,60,&H00FFFFFF,&H000E0FFD,&H20000000,&H80000000,-1,0,0,0,100,100,1,0,1,2,2,8,10,10,40,1
@@ -18,18 +20,18 @@ Style: Inscriptions,Candara,52,&H00000000,&H000E0FFD,&H20FFFFFF,&H20000000,0,0,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:05.60,0:00:07.59,Default,,0,0,0,,{\i1}Вот так началась война.{\i0}
-Dialogue: 0,0:00:08.07,0:00:09.18,Default,,0,0,0,,{\i1}Все эскадрильи в бой!{\i0}
-Dialogue: 0,0:00:09.18,0:00:12.39,Default,,0,0,0,,{\i1}Перехватчики Третий и Четвёртый,\Nатакуйте скопления на два часа, ангел шесть.{\i0}
-Dialogue: 0,0:00:12.73,0:00:14.66,Default,,0,0,0,,{\i1}– Мэм, вы это видите?{\i0}
-Dialogue: 0,0:00:13.89,0:00:14.66,Default,,0,0,0,,{\i1}– Вижу.{\i0}
-Dialogue: 0,0:00:14.67,0:00:16.12,Default,,0,0,0,,{\i1}Контакт, вражеский нанотех.{\i0}
-Dialogue: 0,0:00:16.12,0:00:16.99,Default,,0,0,0,,Чёрт.
-Dialogue: 0,0:00:16.99,0:00:18.72,Default,,0,0,0,,{\i1}Герметизируйте кабины. Не вступать в бой!{\i0}
-Dialogue: 0,0:00:18.93,0:00:20.35,Default,,0,0,0,,{\i1}Это не перестрелка.{\i0}
-Dialogue: 0,0:00:20.53,0:00:24.24,Default,,0,0,0,,{\i1}Не нарушение воздушно-космических границ. Не террористический акт.{\i0}
-Dialogue: 0,0:00:25.05,0:00:26.09,Default,,0,0,0,,{\i1}Вот так...{\i0}
-Dialogue: 0,0:00:26.55,0:00:28.45,Default,,0,0,0,,{\i1}...Союз сделал свой ход.{\i0}
+Dialogue: 0,0:00:05.60,0:00:07.59,Def-Other,,0,0,0,,{\i1}Вот так началась война.{\i0}
+Dialogue: 0,0:00:08.07,0:00:09.18,Def-Other,,0,0,0,,{\i1}Все эскадрильи в бой!{\i0}
+Dialogue: 0,0:00:09.18,0:00:12.39,Def-Other,,0,0,0,,{\i1}Перехватчики Третий и Четвёртый,\Nатакуйте скопления на два часа, ангел шесть.{\i0}
+Dialogue: 0,0:00:12.73,0:00:14.66,Def-Other,,0,0,0,,{\i1}– Мэм, вы это видите?{\i0}
+Dialogue: 0,0:00:13.89,0:00:14.66,Def-Other,,0,0,0,,{\i1}– Вижу.{\i0}
+Dialogue: 0,0:00:14.67,0:00:16.12,Def-Other,,0,0,0,,{\i1}Контакт, вражеский нанотех.{\i0}
+Dialogue: 0,0:00:16.12,0:00:16.99,Def-Other,,0,0,0,,Чёрт.
+Dialogue: 0,0:00:16.99,0:00:18.72,Def-Other,,0,0,0,,{\i1}Герметизируйте кабины. Не вступать в бой!{\i0}
+Dialogue: 0,0:00:18.93,0:00:20.35,Def-Other,,0,0,0,,{\i1}Это не перестрелка.{\i0}
+Dialogue: 0,0:00:20.53,0:00:24.24,Def-Other,,0,0,0,,{\i1}Не нарушение воздушно-космических границ. Не террористический акт.{\i0}
+Dialogue: 0,0:00:25.05,0:00:26.09,Def-Other,,0,0,0,,{\i1}Вот так...{\i0}
+Dialogue: 0,0:00:26.55,0:00:28.45,Def-Other,,0,0,0,,{\i1}...Союз сделал свой ход.{\i0}
 Dialogue: 0,0:00:49.02,0:00:52.39,Karaoke,,0,0,0,,{\kf45}Stay {\kf114}close, {\kf40}move {\kf138}fast
 Dialogue: 0,0:00:49.02,0:00:52.39,Karaoke-rus,,0,0,0,,Шагай быстрей
 Dialogue: 0,0:00:54.93,0:00:58.15,Karaoke,,0,0,0,,{\kf26}The {\kf61}darkness {\kf66}cannot {\kf169}last
@@ -64,6 +66,7 @@ Dialogue: 0,0:01:51.88,0:01:56.74,Karaoke,,0,0,0,,{\kf34}And {\kf36}we’ll {\kf
 Dialogue: 0,0:01:51.88,0:01:56.74,Karaoke-rus,,0,0,0,,И все вместе воплотим мечту сполна
 Dialogue: 0,0:01:56.93,0:02:01.51,Karaoke,,0,0,0,,{\kf17}We’re {\kf43}rising {\kf32}like {\kf41}the {\kf325}moon
 Dialogue: 0,0:01:56.93,0:02:01.51,Karaoke-rus,,0,0,0,,Восходим, как луна
+Dialogue: 0,0:02:11.85,0:02:16.00,Title,,0,0,0,,{\fad(300,200)}Тупик
 Dialogue: 0,0:02:11.85,0:02:16.00,Copyright,,0,0,0,,{\fad(300,200)}Перевод: {\b1}Team WARDEN{\b0}\NПеревод песен: {\b1}Леон Каримов{\b0}
 Dialogue: 0,0:02:16.29,0:02:18.77,Default,Yang,0,0,0,,Да блин! Вы нас даже не слушали!
 Dialogue: 0,0:02:18.85,0:02:22.18,Default,Guard 2,0,0,0,,У нас приказ! Граница между Атласом и Мистралом закрыта!

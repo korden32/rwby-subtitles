@@ -11,6 +11,8 @@ PlayResY: 1080
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Candara,70,&H00FFFFFF,&H000E0FFD,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,2,10,10,70,1
+Style: Def-Other,Candara,70,&H00FFFFFF,&H000E0FFD,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,2,10,10,70,1
+Style: Title,FuturaBookC,90,&H00FFFFFF,&H000E0FFD,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,8,10,10,40,1
 Style: Copyright,Candara,54,&H00FFFFFF,&H000E0FFD,&H00000000,&H20000000,0,0,0,0,100,100,0,0,1,2,0,1,20,10,30,1
 Style: Karaoke,FuturaBookC,70,&H004000FF,&H60FFFFFF,&H20000000,&H60FFFFFF,-1,-1,0,0,100,100,1,0,1,2,2,8,10,10,40,1
 Style: Karaoke-rus,FuturaBookC,60,&H00FFFFFF,&H000E0FFD,&H20000000,&H80000000,-1,0,0,0,100,100,1,0,1,2,2,8,10,10,40,1
@@ -18,11 +20,11 @@ Style: Notes,Verdana,45,&H00FFFFFF,&H000000FF,&H20000000,&H20000000,-1,-1,0,0,10
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:06.02,0:00:07.86,Default,,0,0,0,,{\i1}Мы не хотели этой войны.{\i0}
-Dialogue: 0,0:00:08.50,0:00:10.37,Default,,0,0,0,,{\i1}Но мы пойдём в бой.{\i0}
-Dialogue: 0,0:00:10.65,0:00:15.02,Default,,0,0,0,,{\i1}Вангард любой ценой защитит тех, кто поверил в нас.{\i0}
-Dialogue: 0,0:00:15.20,0:00:17.68,Default,,0,0,0,,{\i1}Будь сильным, и мы выстоим.{\i0}
-Dialogue: 0,0:00:18.98,0:00:20.04,Default,,0,0,0,,{\i1}Ради человечества.{\i0}
+Dialogue: 0,0:00:06.02,0:00:07.86,Def-Other,,0,0,0,,{\i1}Мы не хотели этой войны.{\i0}
+Dialogue: 0,0:00:08.50,0:00:10.37,Def-Other,,0,0,0,,{\i1}Но мы пойдём в бой.{\i0}
+Dialogue: 0,0:00:10.65,0:00:15.02,Def-Other,,0,0,0,,{\i1}Вангард любой ценой защитит тех, кто поверил в нас.{\i0}
+Dialogue: 0,0:00:15.20,0:00:17.68,Def-Other,,0,0,0,,{\i1}Будь сильным, и мы выстоим.{\i0}
+Dialogue: 0,0:00:18.98,0:00:20.04,Def-Other,,0,0,0,,{\i1}Ради человечества.{\i0}
 Dialogue: 0,0:00:39.97,0:00:43.34,Karaoke,,0,0,0,,{\kf45}Stay {\kf114}close, {\kf40}move {\kf138}fast
 Dialogue: 0,0:00:39.97,0:00:43.34,Karaoke-rus,,0,0,0,,Шагай быстрей
 Dialogue: 0,0:00:45.88,0:00:49.10,Karaoke,,0,0,0,,{\kf26}The {\kf61}darkness {\kf66}cannot {\kf169}last
@@ -57,6 +59,7 @@ Dialogue: 0,0:01:42.83,0:01:47.69,Karaoke,,0,0,0,,{\kf34}And {\kf36}we’ll {\kf
 Dialogue: 0,0:01:42.83,0:01:47.69,Karaoke-rus,,0,0,0,,И все вместе воплотим мечту сполна
 Dialogue: 0,0:01:47.88,0:01:52.46,Karaoke,,0,0,0,,{\kf17}We’re {\kf43}rising {\kf32}like {\kf41}the {\kf325}moon
 Dialogue: 0,0:01:47.88,0:01:52.46,Karaoke-rus,,0,0,0,,Восходим, как луна
+Dialogue: 0,0:02:03.02,0:02:07.88,Title,,0,0,0,,{\fad(300,200)}Жнец гримм
 Dialogue: 0,0:02:03.02,0:02:07.88,Copyright,,0,0,0,,{\fad(300,200)}Перевод: {\b1}Team WARDEN{\b0}\NПеревод песен: {\b1}Леон Каримов{\b0}
 Dialogue: 0,0:02:24.04,0:02:25.52,Default,Cinder,0,0,0,,{\i1}Теперь ты понимаешь.{\i0}
 Dialogue: 0,0:02:26.85,0:02:30.54,Default,Cinder,0,0,0,,Я должна заполучить реликвию прежде, чем она попадёт в Атлас.
@@ -125,7 +128,7 @@ Dialogue: 0,0:10:23.94,0:10:27.39,Default,Yang,0,0,0,,Дамы и господа
 Dialogue: 0,0:10:45.89,0:10:48.37,Default,Nora,0,0,0,,Милашечка Оз!
 Dialogue: 0,0:10:50.69,0:10:51.90,Default,Nora,0,0,0,,{\i1}А ну иди сюда!{\i0}
 Dialogue: 0,0:10:51.92,0:10:54.22,Default,Ren,0,0,0,,С вами всё хорошо? Мы так волновались!
-Dialogue: 0,0:10:53.73,0:10:56.21,Notes,Nora,0,0,0,,Мне было веселее всего.
+Dialogue: 0,0:10:53.73,0:10:56.21,Default,Nora,0,0,0,,{\an8\pos(960,25)\i1}Мне было веселее всего.{\i0}
 Dialogue: 0,0:10:54.34,0:10:56.21,Default,Yang,0,0,0,,Безбашенная поездочка выдалась.
 Dialogue: 0,0:10:56.23,0:10:57.26,Default,Weiss,0,0,0,,Мягко сказано.
 Dialogue: 0,0:10:57.28,0:10:59.10,Default,Nora,0,0,0,,Погодите, а что за бабулька?
