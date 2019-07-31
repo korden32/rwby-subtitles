@@ -16,7 +16,6 @@ Style: Copyright-chibi,Calibri,52,&H00FFFFFF,&H000E0FFD,&H009E571E,&H00543011,0,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-
 Dialogue: 0,0:00:01.50,0:00:04.95,Copyright-chibi,,0,0,0,,{\move(-500,1060,20,1060,0,100)}Перевод: {\b1}Team WARDEN{\b0}\N{\i1}vk.com/team_warden{\i0}
 Dialogue: 0,0:00:07.88,0:00:09.64,Default,,0,0,0,,Блин, хотела бы я быть собакой.
 Dialogue: 0,0:00:10.46,0:00:12.24,Default,,0,0,0,,У тебя простая жизнь, Цвай!

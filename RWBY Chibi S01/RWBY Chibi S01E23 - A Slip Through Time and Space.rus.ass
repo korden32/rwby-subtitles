@@ -17,7 +17,6 @@ Style: Notes,Candara,70,&H00FFFFFF,&H000E0FFD,&H00000000,&H00000000,-1,0,0,0,100
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-
 Dialogue: 0,0:00:01.50,0:00:04.95,Copyright-chibi,,0,0,0,,{\move(-500,1060,20,1060,0,100)}Перевод: {\b1}Team WARDEN{\b0}\N{\i1}vk.com/team_warden{\i0}
 Dialogue: 0,0:00:08.76,0:00:09.12,Default,,0,0,0,,А?
 Dialogue: 0,0:00:11.52,0:00:12.48,Default,,0,0,0,,– Постой! \N– Что?

@@ -22,7 +22,6 @@ Style: Copyright-titles,Arial,42,&H00523622,&H000E0FFD,&H00C6C6C6,&H00989898,0,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-
 Dialogue: 0,0:00:01.50,0:00:04.95,Copyright-chibi,,0,0,0,,{\move(-500,1060,20,1060,0,100)}Перевод: {\b1}Team WARDEN{\b0}\N{\i1}vk.com/team_warden{\i0}
 Dialogue: 0,0:00:05.02,0:00:08.54,Default,,0,0,0,,Представляем RWBY (Руби) Чиби перед живой аудиторией.
 Dialogue: 0,0:00:29.94,0:00:31.34,Default,,0,0,0,,С тобой всё в порядке, Вайсс?

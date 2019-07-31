@@ -15,7 +15,6 @@ Style: Default,Candara,70,&H00FFFFFF,&H000E0FFD,&H00000000,&H20000000,-1,0,0,0,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-
 Dialogue: 0,0:00:04.36,0:00:05.18,Default,,0,0,0,,Пенни!
 Dialogue: 0,0:00:05.28,0:00:07.26,Default,,0,0,0,,О, я всегда хотела такую!
 Dialogue: 0,0:00:07.76,0:00:08.77,Default,,0,0,0,,Принесу батарейки!

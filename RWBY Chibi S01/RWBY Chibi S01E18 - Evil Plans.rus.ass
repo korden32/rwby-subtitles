@@ -17,7 +17,6 @@ Style: EvilPlans,Calibri,36,&H000000FF,&H000E0FFD,&H00FFFFFF,&H00FFFFFF,-1,-1,0,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-
 Dialogue: 0,0:00:13.90,0:00:17.30,Copyright-chibi,,0,0,0,,{\move(-500,1060,20,1060,0,100)}Перевод: {\b1}Team WARDEN{\b0}\N{\i1}vk.com/team_warden{\i0}
 Dialogue: 0,0:00:19.11,0:00:20.74,Default,,0,0,0,,Открывайся уже, банка!
 Dialogue: 0,0:00:21.34,0:00:23.92,Default,,0,0,0,,Выпусти мои вкусные огурчики!

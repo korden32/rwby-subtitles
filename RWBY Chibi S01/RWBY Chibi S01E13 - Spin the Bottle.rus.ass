@@ -16,7 +16,6 @@ Style: Copyright-chibi,Calibri,52,&H00FFFFFF,&H000E0FFD,&H009E571E,&H00543011,0,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-
 Dialogue: 0,0:00:07.30,0:00:10.70,Copyright-chibi,,0,0,0,,{\move(-500,1060,20,1060,0,100)}Перевод: {\b1}Team WARDEN{\b0}\N{\i1}vk.com/team_warden{\i0}
 Dialogue: 0,0:00:11.80,0:00:13.50,Default,,0,0,0,,Это так по-детски.
 Dialogue: 0,0:00:13.58,0:00:14.16,Default,,0,0,0,,Цыц!

@@ -17,7 +17,6 @@ Style: Notes,Verdana,45,&H00FFFFFF,&H000000FF,&H20000000,&H20000000,-1,-1,0,0,10
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-
 Dialogue: 0,0:00:01.18,0:00:05.02,Copyright-chibi,,0,0,0,,{\move(-500,1060,20,1060,0,100)}Перевод: {\b1}Team WARDEN{\b0}\N{\i1}vk.com/team_warden{\i0}
 Dialogue: 0,0:00:05.69,0:00:06.72,Default,,0,0,0,,Ну же, Цвай...
 Dialogue: 0,0:00:06.95,0:00:08.89,Default,,0,0,0,,...не тормози, или мы опоздаем на вечеринку питомцев!

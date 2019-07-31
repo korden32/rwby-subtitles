@@ -19,7 +19,6 @@ Style: Chibi-Insc,Comic Sans MS,52,&H00000000,&H000E0FFD,&H20FFFFFF,&H20000000,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-
 Dialogue: 0,0:00:01.18,0:00:05.02,Copyright-chibi,,0,0,0,,{\move(-500,1060,20,1060,0,100)}Перевод: {\b1}Team WARDEN{\b0}\N{\i1}vk.com/team_warden{\i0}
 Dialogue: 0,0:00:10.29,0:00:12.35,Default,,0,0,0,,Янг, ты ну очень некультурная.
 Dialogue: 0,0:00:12.72,0:00:15.06,Default,,0,0,0,,Чё? Я дофига культурная.
