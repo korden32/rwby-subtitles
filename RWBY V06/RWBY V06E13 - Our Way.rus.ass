@@ -235,7 +235,7 @@ Dialogue: 0,0:16:48.93,0:16:50.26,Default,,0,0,0,,{\i1}Добро пожалов
 Dialogue: 0,0:16:56.00,0:21:43.00,Block,,0,0,0,,{\pos(0,0)\p1\c&H000000&}m 0 0 l 1920 0 1920 180 0 180{\p0}
 Dialogue: 0,0:16:56.00,0:17:00.00,Copyright-titles,,0,0,0,,{\fad(500,500)\i1}Дождитесь окончания титров ;){\i0}
 Dialogue: 0,0:17:01.00,0:17:06.00,Copyright-titles,,0,0,0,,{\fad(400,400)\fs40\b1}Перевод:{\b0}\NTeam WARDEN\N{\fs36\i1}vk.com/team_warden{\i0}\N\N{\fad(400,400)\fs40\b1}Перевод песен:{\b0\fs36}\NЛеон Каримов
-Dialogue: 0,0:17:06.00,0:17:15.00,Copyright-titles,,0,0,0,,{\fad(400,400)\fs40\b1}Над переводом работали:{\b0\fs36}\NRed Angel\NMichaelis\NАртём 'TimTH' Болоненко\NАлексей Боровской\NАнтон Городецкий\NДенис 'KorDen' Елисеев\NСергей 'Lyaros' Сайфер
+Dialogue: 0,0:17:06.00,0:17:15.00,Copyright-titles,,0,0,0,,{\fad(400,400)\fs40\b1}Над переводом работали:{\b0\fs36}\NRed Angel\NMichaelis\NKorDen\NАлексей Боровской\NАнтон Городецкий\NАртём 'TimTH' Болоненко\NСергей 'Lyaros' Сайфер
 Dialogue: 0,0:16:57.62,0:17:00.86,Karaoke-BY,,0,0,0,,{\kf39}Ne{\kf54}ver{\kf231}more
 Dialogue: 0,0:16:57.62,0:17:00.86,Karaoke-rus,,0,0,0,,Никогда
 Dialogue: 0,0:17:07.03,0:17:10.10,Karaoke-BY,,0,0,0,,{\kf36}Ne{\kf85}ver{\kf186}more
