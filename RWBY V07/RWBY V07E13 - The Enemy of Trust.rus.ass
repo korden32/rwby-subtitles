@@ -8,23 +8,16 @@ YCbCr Matrix: TV.601
 PlayResX: 1920
 PlayResY: 1080
 
-[Aegisub Project Garbage]
-Audio File: RWBY V07E13 - The Enemy of Trust.mp4
-Video File: RWBY V07E13 - The Enemy of Trust.mp4
-Video AR Mode: 4
-Video AR Value: 1.777778
-
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Candara,70,&H00FFFFFF,&H000E0FFD,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,2,10,10,70,1
 Style: Copyright,Candara,54,&H00FFFFFF,&H000E0FFD,&H00000000,&H20000000,0,0,0,0,100,100,0,0,1,2,0,1,20,10,30,1
 Style: Karaoke-W,FuturaBookC,70,&H00D09E8E,&H00FFFFFF,&H20000000,&H60FFFFFF,-1,-1,0,0,100,100,1,0,1,2,2,8,10,10,40,1
 Style: Karaoke-rus,FuturaBookC,60,&H00FFFFFF,&H000E0FFD,&H20000000,&H80000000,-1,0,0,0,100,100,1,0,1,2,2,8,10,10,40,1
-Style: Karaoke-Oops,FuturaBookC,70,&H001F01A1,&H60FFFFFF,&H20000000,&H60FFFFFF,-1,-1,0,0,100,100,1,0,1,2,2,8,10,10,40,1
-Style: Block,Candara,100,&H00000000,&H00000000,&HFF000000,&HFF000000,0,0,0,0,100,100,0,0,1,0,0,7,0,0,0,1
-Style: Inscriptions,Arial,70,&H00FFFFFF,&H000E0FFD,&H20000000,&H20000000,0,0,0,0,100,100,0,0,1,0,0,5,10,10,90,1
 Style: Karaoke-Winter,FuturaBookC,70,&H00EC9477,&H00FFFFFF,&H20000000,&H60FFFFFF,-1,-1,0,0,100,100,1,0,1,2,2,8,10,10,40,1
 Style: Karaoke-Fear,FuturaBookC,70,&H0042D034,&H00FFFFFF,&H20000000,&H60FFFFFF,-1,-1,0,0,100,100,1,0,1,2,2,8,10,10,40,1
+Style: Block,Candara,100,&H00000000,&H00000000,&HFF000000,&HFF000000,0,0,0,0,100,100,0,0,1,0,0,7,0,0,0,1
+Style: Inscriptions,Arial,70,&H00FFFFFF,&H000E0FFD,&H20000000,&H20000000,0,0,0,0,100,100,0,0,1,0,0,5,10,10,90,1
 Style: Copyright-titles,Arial,36,&H00FFFFFF,&H000E0FFD,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,1,25,10,30,1
 
 [Events]

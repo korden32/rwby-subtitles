@@ -272,17 +272,13 @@ Dialogue: 0,0:22:22.41,0:22:26.34,Karaoke-Fear,,0,0,0,,{\kf22}Will {\kf18}you {\
 Dialogue: 0,0:22:26.53,0:22:32.22,Karaoke-Fear,,0,0,0,,{\kf121}Or {\kf72}be {\kf35}br{\kf97}o{\kf244}ken?
 Dialogue: 0,0:22:58.42,0:23:00.57,Karaoke-Fear,,0,0,0,,{\kf23}We {\kf35}live {\kf34}in {\kf123}fear
 Dialogue: 0,0:23:00.57,0:23:01.98,Karaoke-Fear,,0,0,0,,{\kf20}That {\kf30}we {\kf36}might {\kf55}fail
-Dialogue: 0,0:23:02.34,0:23:03.33,Karaoke-Fear,,0,0,0,,{\kf66}Fe{\kf33}ar
-Dialogue: 0,0:23:03.33,0:23:04.84,Karaoke-Fear,,0,0,0,,{\kf21}That {\kf35}we'll {\kf95}succeed
-Dialogue: 0,0:23:04.84,0:23:05.51,Karaoke-Fear,,0,0,0,,{\kf47}Fe{\kf20}ar
-Dialogue: 0,0:23:05.51,0:23:07.63,Karaoke-Fear,,0,0,0,,{\kf16}That {\kf29}we {\kf32}may {\kf37}not {\kf98}provide
+Dialogue: 0,0:23:02.34,0:23:04.84,Karaoke-Fear,,0,0,0,,{\kf66}Fe{\kf33}ar {\kf21}that {\kf35}we'll {\kf95}succeed
+Dialogue: 0,0:23:04.84,0:23:07.63,Karaoke-Fear,,0,0,0,,{\kf47}Fe{\kf20}ar {\kf16}that {\kf29}we {\kf32}may {\kf37}not {\kf98}provide
 Dialogue: 0,0:23:07.63,0:23:10.34,Karaoke-Fear,,0,0,0,,{\kf21}The {\kf51}things {\kf19}our {\kf33}loved {\kf32}ones {\kf115}need
 Dialogue: 0,0:23:10.34,0:23:13.47,Karaoke-Fear,,0,0,0,,{\kf15}But {\kf27}our {\kf140}greatest {\kf131}fear
 Dialogue: 0,0:23:13.47,0:23:16.89,Karaoke-Fear,,0,0,0,,{\kf34}Will {\kf28}be {\kf280}realized
-Dialogue: 0,0:23:17.24,0:23:18.39,Karaoke-Fear,,0,0,0,,{\kf23}If {\kf33}we {\kf59}fall
-Dialogue: 0,0:23:18.39,0:23:21.87,Karaoke-Fear,,0,0,0,,{\kf21}And {\kf46}lose {\kf89}ourselves {\kf38}to {\kf154}fear
-Dialogue: 0,0:23:22.59,0:23:25.67,Karaoke-Fear,,0,0,0,,{\kf34}We've {\kf96}become {\kf44}what {\kf42}we {\kf92}feared
-Dialogue: 0,0:23:25.67,0:23:30.34,Karaoke-Fear,,0,0,0,,{\kf67}All {\kf48}our {\kf352}lives
+Dialogue: 0,0:23:17.24,0:23:21.87,Karaoke-Fear,,0,0,0,,{\kf23}If {\kf33}we {\kf59}fall {\kf21}and {\kf46}lose {\kf89}ourselves {\kf38}to {\kf154}fear
+Dialogue: 0,0:23:22.59,0:23:30.34,Karaoke-Fear,,0,0,0,,{\kf34}We've {\kf96}become {\kf44}what {\kf42}we {\kf92}feared {\kf67}all {\kf48}our {\kf352}lives
 Dialogue: 0,0:23:32.02,0:23:34.95,Karaoke-Fear,,0,0,0,,{\kf57}Who {\kf53}will {\kf37}you {\kf146}see
 Dialogue: 0,0:23:34.95,0:23:37.46,Karaoke-Fear,,0,0,0,,{\kf47}There {\kf55}in {\kf25}the {\kf124}darkness?
 Dialogue: 0,0:23:37.46,0:23:40.62,Karaoke-Fear,,0,0,0,,{\kf34}When {\kf49}no {\kf60}one {\kf35}is {\kf138}watching
